@@ -1,73 +1,73 @@
-<page title>
-addition
-additional
-addon
-aspectratio
-attributes
-benefit
-benefits
-binding
-brand
-catalognumberlist
-category
-characteristic
-color
-department
-ean
-eanlist
-elements
-extra
-extras
-feature
-featured
-format
-group
-hardwareplatform
-highlight
-included
-ingredients
-isautographed
-ismemorabilia
-item
-itemdimensions
-itempart number
-label
-languages
-legaldisclaimer
-listed
-listprice
-manufacturer
-manufacturerpartswarrantydescription
-model
-mpn
-numberofitems
-operatingsystem
-order
-packagedimensions
-packagequantity
-part number
-partnumber
-platform
-plus
-product
-productgroup
-products
-producttypename
-properties
-publisher
-quality
-quantity
-releasedate
-reports
-reviews
-size
-sku
-special
-studio
-supplement
-title
-total items
-trait
-upc
-upclist
-warranty
+<page title>: 257
+label: 257
+manufacturer: 257
+publisher: 257
+studio: 257
+title: 257
+brand: 256
+feature: 256
+ean: 254
+mpn: 245
+upc: 244
+category: 239
+group: 239
+order: 239
+model: 238
+quantity: 238
+part number: 228
+total items: 190
+aspectratio: 167
+color: 160
+languages: 115
+warranty: 109
+size: 70
+legaldisclaimer: 70
+sku: 67
+operatingsystem: 62
+hardwareplatform: 49
+format: 48
+department: 31
+platform: 23
+binding: 18
+packagequantity: 18
+productgroup: 18
+producttypename: 18
+eanlist: 17
+itemdimensions: 17
+partnumber: 17
+upclist: 17
+packagedimensions: 14
+extra: 14
+listprice: 13
+numberofitems: 11
+catalognumberlist: 10
+benefits: 9
+isautographed: 8
+ismemorabilia: 8
+item: 6
+extras: 6
+supplement: 5
+products: 5
+included: 5
+plus: 5
+characteristic: 5
+releasedate: 5
+reports: 5
+trait: 4
+itempart number: 4
+reviews: 4
+highlight: 4
+addition: 4
+ingredients: 4
+properties: 4
+benefit: 4
+addon: 4
+featured: 4
+elements: 3
+additional: 3
+manufacturerpartswarrantydescription: 3
+attributes: 3
+special: 3
+product: 3
+quality: 3
+listed: 3

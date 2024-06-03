@@ -1,211 +1,211 @@
-3d compatibility
-<page title>
-ac adapter included
-ac power in
-active display area w x h
-annual energy consumption
-aspect ratio
-audio input
-audio output
-audio system
-backlight type
-bezel width bottom
-bezel width side
-bezel width top
-bluetooth
-builtin camera
-builtin microphone
-builtin speakers
-builtin subwoofer
-cable length
-cable lock slot
-cables included
-camera included
-card reader integrated
-certification
-child lock
-color gamut
-colour of product
-common interface ci
-common interface plus ci
-compatibility
-compatible memory cards
-compatible operating systems
-compliance industry standards
-component video ypbprycbcr in
-composite sync
-composite video in
-connection to pc
-contrast ratio dynamic
-contrast ratio typical
-current rating
-dcin jack
-depth
-depth max
-depth with stand
-digital horizontal frequency
-digital vertical frequency
-dimensions w x d x h with stand
-dimensions wxdxh
-display
-display brightness
-display diagonal
-display diagonal metric
-display number of colours
-display resolution
-display srgb
-display surface
-display technology
-display type
-display viewable area hxv
-displayports quantity
-dvi port
-dvid ports quantity
-effective viewing area
-electromagnetic compatibility
-energy efficiency class
-energy star certified
-epeat compliance
-ethernet lan
-ethernet lan data rates
-ethernet lan rj45 ports
-feet colour
-full hd
-glass thickness
-glossy display
-handheld remote control
-hd type
-hdcp
-hdmi
-hdmi ports quantity
-hdready
-headphone connectivity
-headphone out
-headphone outputs
-height
-height adjustment
-height adjustment range
-height max
-height with stand
-horizontal scan range
-input current
-input frequency
-input voltage
-interface type
-led backlight
-led indicators
-linux operating systems supported
-mac operating systems supported
-manual
-maximum analog resolution
-maximum resolution
-maximum screen size compatibility
-maximum weight capacity
-mean time between failures mtbf
-megapixel
-microphone in
-mini displayport quantity
-minimum screen size compatibility
-mobile highdefinition link mhl
-mounting interface
-native resolution
-nonoperating altitude
-number of colours
-number of displays supported
-number of loudspeakers
-number of osd languages
-number of products included
-number of simultaneous touchpoints windows 7
-omnitapps multitouch compatibility
-on screen display osd
-on screen display osd languages
-onoff switch
-operating altitude
-operating relative humidity hh
-operating temperature tt
-package dimensions wxdxh
-package weight
-packaging depth
-packaging height
-packaging width
-pan range
-pc audio in
-picture enhancement
-pictureinpicture
-pivot
-pivot angle
-pixel pitch
-placement supported
-plug and play
-power consumption active
-power consumption average
-power consumption max
-power consumption off
-power consumption powersave
-power consumption standby
-power consumption typical
-power cord included
-power led
-power requirements
-power supply type
-product type
-quantity
-quick start guide
-recyclable material
-relative humidity
-response time
-rms rated power
-rohs compliance
-rotating
-rotation
-rs232 ports
-safety
-screen format adjustments
-screen saving functions
-screen size compatibility
-security features
-separate hv sync
-speakers
-standby led
-storage relative humidity hh
-storage temperature tt
-supported graphics resolutions
-supported video modes
-swivel angle
-swivel angle range
-swivel webcam
-swivelling
-syncongreen sog
-thin client installed
-tilt adjustment
-tilt angle
-touch screen type
-touch sensitive screen
-touchscreen technology
-tv tuner integrated
-usb 20 ports quantity
-usb 30 ports quantity
-usb powered
-usb required
-usb version
-user guide on cdrom
-vertical scan range
-vesa mounting interfaces compatibility
-vga dsub input ports
-vga dsub ports quantity
-video dot rate
-viewable size diagonal
-viewable size horizontal
-viewable size vertical
-viewing angle
-viewing angle horizontal
-viewing angle vertical
-voltage tolerance
-volume control
-wall mountable
-weight
-weight with stand
-width
-width with stand
-wifi
-windows operating systems supported
+<page title>: 603
+colour of product: 585
+display diagonal: 575
+display resolution: 574
+display brightness: 569
+response time: 569
+aspect ratio: 561
+viewing angle vertical: 560
+viewing angle horizontal: 559
+vga dsub ports quantity: 528
+power consumption typical: 523
+vesa mounting interfaces compatibility: 491
+builtin speakers: 485
+wall mountable: 482
+weight: 472
+display: 459
+width: 456
+contrast ratio typical: 454
+input voltage: 452
+height: 443
+depth: 442
+display number of colours: 434
+supported graphics resolutions: 432
+contrast ratio dynamic: 430
+builtin camera: 419
+tv tuner integrated: 407
+hdcp: 396
+thin client installed: 393
+hd type: 390
+energy star certified: 387
+pixel pitch: 382
+tilt angle: 377
+certification: 376
+input frequency: 363
+3d compatibility: 358
+power consumption standby: 355
+cable lock slot: 344
+height adjustment: 338
+dvid ports quantity: 333
+display diagonal metric: 332
+package weight: 332
+energy efficiency class: 328
+dvi port: 310
+on screen display osd: 296
+operating temperature tt: 292
+depth with stand: 292
+height with stand: 290
+width with stand: 290
+cables included: 283
+display technology: 280
+tilt adjustment: 268
+vertical scan range: 267
+weight with stand: 267
+horizontal scan range: 266
+operating relative humidity hh: 265
+hdmi ports quantity: 248
+number of loudspeakers: 235
+rms rated power: 223
+plug and play: 212
+storage temperature tt: 212
+packaging depth: 212
+packaging height: 212
+packaging width: 212
+epeat compliance: 211
+pivot: 196
+usb 20 ports quantity: 186
+quick start guide: 183
+power led: 170
+power consumption off: 167
+ac power in: 163
+swivelling: 163
+viewable size vertical: 159
+viewable size horizontal: 157
+displayports quantity: 155
+standby led: 153
+storage relative humidity hh: 152
+onoff switch: 148
+manual: 145
+windows operating systems supported: 144
+headphone outputs: 141
+digital horizontal frequency: 140
+digital vertical frequency: 139
+mean time between failures mtbf: 136
+backlight type: 132
+ethernet lan: 123
+power consumption powersave: 119
+swivel angle range: 118
+number of osd languages: 113
+separate hv sync: 112
+led indicators: 110
+wifi: 109
+bluetooth: 107
+supported video modes: 101
+display type: 98
+display viewable area hxv: 97
+on screen display osd languages: 90
+pc audio in: 90
+pivot angle: 87
+display srgb: 86
+package dimensions wxdxh: 85
+number of colours: 84
+power consumption max: 82
+full hd: 65
+power supply type: 65
+mac operating systems supported: 64
+dimensions w x d x h with stand: 62
+audio input: 61
+operating altitude: 61
+headphone connectivity: 61
+rs232 ports: 60
+syncongreen sog: 55
+usb 30 ports quantity: 52
+nonoperating altitude: 52
+display surface: 43
+viewable size diagonal: 42
+card reader integrated: 41
+number of products included: 41
+camera included: 41
+touchscreen technology: 40
+hdmi: 40
+builtin subwoofer: 38
+touch screen type: 37
+hdready: 37
+audio output: 36
+native resolution: 36
+ac adapter included: 35
+placement supported: 34
+dimensions wxdxh: 33
+linux operating systems supported: 32
+dcin jack: 31
+led backlight: 30
+safety: 28
+feet colour: 27
+relative humidity: 27
+pictureinpicture: 25
+maximum screen size compatibility: 24
+maximum weight capacity: 24
+number of displays supported: 23
+mobile highdefinition link mhl: 22
+compliance industry standards: 22
+rotation: 22
+screen saving functions: 19
+power requirements: 18
+maximum analog resolution: 18
+compatible memory cards: 17
+quantity: 17
+minimum screen size compatibility: 16
+ethernet lan rj45 ports: 15
+product type: 15
+headphone out: 15
+maximum resolution: 15
+microphone in: 14
+power cord included: 14
+builtin microphone: 14
+megapixel: 13
+handheld remote control: 13
+volume control: 13
+input current: 13
+effective viewing area: 12
+swivel angle: 12
+bezel width side: 11
+common interface ci: 11
+user guide on cdrom: 10
+omnitapps multitouch compatibility: 10
+electromagnetic compatibility: 10
+glass thickness: 10
+voltage tolerance: 10
+usb required: 10
+video dot rate: 10
+height adjustment range: 9
+mini displayport quantity: 9
+swivel webcam: 9
+current rating: 9
+common interface plus ci: 9
+touch sensitive screen: 8
+color gamut: 8
+screen format adjustments: 8
+composite sync: 8
+bezel width bottom: 7
+bezel width top: 7
+audio system: 7
+speakers: 7
+ethernet lan data rates: 6
+compatibility: 5
+component video ypbprycbcr in: 5
+composite video in: 5
+rotating: 5
+usb version: 5
+pan range: 5
+picture enhancement: 5
+recyclable material: 5
+compatible operating systems: 5
+cable length: 5
+annual energy consumption: 5
+power consumption active: 4
+active display area w x h: 4
+rohs compliance: 4
+vga dsub input ports: 4
+power consumption average: 4
+child lock: 4
+height max: 4
+mounting interface: 4
+security features: 4
+viewing angle: 4
+number of simultaneous touchpoints windows 7: 4
+usb powered: 4
+depth max: 3
+screen size compatibility: 3
+connection to pc: 3
+glossy display: 3
+interface type: 3

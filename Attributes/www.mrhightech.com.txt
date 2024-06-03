@@ -1,152 +1,152 @@
-3d compatibility
-<page title>
-ac adapter included
-ac power in
-analog signal format system
-aspect ratio
-audio input
-audio output
-backlight type
-bezel width side
-bluetooth
-builtin camera
-builtin microphone
-builtin speakers
-builtin subwoofer
-cable lock slot
-cables included
-card reader integrated
-certification
-colour of product
-common interface ci
-common interface plus ci
-compatible memory cards
-compliance industry standards
-component video ypbprycbcr in
-composite sync
-composite video in
-contrast ratio dynamic
-contrast ratio typical
-dcin jack
-depth
-depth with stand
-digital horizontal frequency
-digital vertical frequency
-dimensions w x d x h with stand
-dimensions wxdxh
-display
-display brightness
-display diagonal
-display diagonal metric
-display number of colours
-display resolution
-display srgb
-display surface
-display technology
-display viewable area hxv
-displayports quantity
-dvi port
-dvid ports quantity
-dvii ports quantity
-effective viewing area
-energy efficiency class
-energy star certified
-epeat compliance
-ethernet lan
-feet colour
-handheld remote control
-hd type
-hdcp
-hdmi
-hdmi ports quantity
-headphone connectivity
-headphone out
-height
-height adjustment
-height with stand
-horizontal scan range
-input frequency
-input voltage
-led indicators
-linux operating systems supported
-mac operating systems supported
-manual
-maximum resolution
-mean time between failures mtbf
-microphone in
-mobile highdefinition link mhl
-nonoperating altitude
-number of loudspeakers
-number of osd languages
-number of products included
-on screen display osd
-on screen display osd languages
-onoff switch
-operating altitude
-operating relative humidity hh
-operating temperature tt
-package dimensions wxdxh
-package weight
-packaging depth
-packaging height
-packaging width
-pc audio in
-picture enhancement
-pictureinpicture
-pivot
-pivot angle
-pixel pitch
-placement supported
-plug and play
-power consumption max
-power consumption off
-power consumption powersave
-power consumption standby
-power consumption typical
-power cord included
-power led
-power requirements
-product type
-quantity
-quick start guide
-relative humidity
-response time
-rms rated power
-rs232 ports
-safety
-screen format adjustments
-screen saving functions
-separate hv sync
-source datasheet
-standby led
-storage relative humidity hh
-storage temperature tt
-supported graphics resolutions
-supported video modes
-svideo inputs quantity
-swivel angle range
-swivelling
-syncongreen sog
-thin client installed
-tilt adjustment
-tilt angle
-tv tuner integrated
-usb 20 ports quantity
-usb 30 ports quantity
-vertical scan range
-vesa mounting interfaces compatibility
-vga dsub ports quantity
-video dot rate
-viewable size diagonal
-viewable size horizontal
-viewable size vertical
-viewing angle horizontal
-viewing angle vertical
-volume control
-wall mountable
-weight
-weight with stand
-width
-width with stand
-wifi
-windows operating systems supported
+<page title>: 176
+display brightness: 176
+display diagonal: 176
+display resolution: 176
+viewing angle vertical: 176
+viewing angle horizontal: 175
+colour of product: 173
+response time: 173
+vga dsub ports quantity: 165
+aspect ratio: 161
+builtin camera: 160
+power consumption typical: 159
+width: 157
+depth: 155
+height: 154
+display: 153
+display number of colours: 153
+contrast ratio dynamic: 152
+weight: 152
+builtin speakers: 149
+tv tuner integrated: 148
+vesa mounting interfaces compatibility: 147
+pixel pitch: 145
+hdcp: 145
+wall mountable: 143
+hd type: 138
+supported graphics resolutions: 138
+thin client installed: 134
+energy star certified: 131
+power consumption standby: 129
+3d compatibility: 127
+cable lock slot: 126
+input voltage: 125
+tilt angle: 125
+certification: 118
+contrast ratio typical: 118
+source datasheet: 116
+height adjustment: 114
+energy efficiency class: 113
+dvid ports quantity: 113
+display diagonal metric: 109
+input frequency: 107
+width with stand: 105
+depth with stand: 104
+height with stand: 103
+on screen display osd: 93
+cables included: 90
+display technology: 89
+plug and play: 86
+dvi port: 86
+weight with stand: 85
+tilt adjustment: 82
+package weight: 79
+hdmi ports quantity: 74
+rms rated power: 72
+packaging depth: 71
+packaging height: 71
+packaging width: 71
+operating temperature tt: 70
+ac power in: 69
+digital vertical frequency: 68
+number of loudspeakers: 67
+vertical scan range: 67
+digital horizontal frequency: 67
+horizontal scan range: 66
+quick start guide: 59
+pivot: 57
+epeat compliance: 56
+manual: 55
+power consumption off: 54
+onoff switch: 52
+operating relative humidity hh: 52
+windows operating systems supported: 52
+headphone out: 52
+power led: 51
+viewable size horizontal: 50
+viewable size vertical: 50
+storage temperature tt: 49
+swivelling: 49
+standby led: 48
+number of osd languages: 44
+separate hv sync: 43
+backlight type: 42
+power consumption powersave: 40
+ethernet lan: 38
+usb 20 ports quantity: 37
+supported video modes: 37
+bluetooth: 35
+wifi: 35
+display srgb: 34
+led indicators: 34
+on screen display osd languages: 33
+swivel angle range: 33
+headphone connectivity: 32
+displayports quantity: 31
+mean time between failures mtbf: 29
+audio input: 28
+pc audio in: 28
+syncongreen sog: 25
+mac operating systems supported: 24
+hdmi: 22
+storage relative humidity hh: 22
+power consumption max: 20
+builtin subwoofer: 18
+card reader integrated: 17
+pivot angle: 16
+viewable size diagonal: 16
+pictureinpicture: 16
+operating altitude: 13
+audio output: 12
+package dimensions wxdxh: 12
+power cord included: 12
+number of products included: 12
+relative humidity: 11
+nonoperating altitude: 10
+placement supported: 10
+compliance industry standards: 9
+power requirements: 9
+screen format adjustments: 9
+linux operating systems supported: 9
+ac adapter included: 9
+compatible memory cards: 8
+svideo inputs quantity: 8
+microphone in: 8
+safety: 8
+dcin jack: 8
+builtin microphone: 8
+handheld remote control: 7
+dvii ports quantity: 7
+composite video in: 7
+quantity: 7
+volume control: 7
+usb 30 ports quantity: 6
+common interface ci: 6
+dimensions w x d x h with stand: 6
+display viewable area hxv: 6
+screen saving functions: 6
+feet colour: 6
+bezel width side: 5
+maximum resolution: 5
+effective viewing area: 5
+common interface plus ci: 4
+dimensions wxdxh: 4
+video dot rate: 4
+composite sync: 4
+display surface: 4
+mobile highdefinition link mhl: 4
+component video ypbprycbcr in: 3
+rs232 ports: 3
+analog signal format system: 3
+product type: 3
+picture enhancement: 3

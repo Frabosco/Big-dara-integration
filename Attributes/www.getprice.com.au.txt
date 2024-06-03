@@ -1,6 +1,6 @@
-<page title>
-display resolution
-monitor size
-monitor type
-response time
-speakers
+<page title>: 268
+display resolution: 268
+monitor size: 268
+monitor type: 268
+response time: 268
+speakers: 268

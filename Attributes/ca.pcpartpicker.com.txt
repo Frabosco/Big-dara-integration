@@ -1,25 +1,25 @@
-<page title>
-aspect ratio
-brightness
-builtin speakers
-component
-contrast ratio
-display colors
-displayport
-dvi
-dvid duallink
-hdmi
-ips
-led
-manufacturer
-minidisplay port
-model
-part
-recommended resolution
-refresh rate
-response time
-screen size
-svideo
-vga
-viewing angle
-widescreen
+<page title>: 712
+aspect ratio: 712
+builtin speakers: 712
+ips: 712
+led: 712
+manufacturer: 712
+part: 712
+recommended resolution: 712
+screen size: 712
+widescreen: 712
+brightness: 703
+contrast ratio: 701
+response time: 700
+vga: 625
+viewing angle: 611
+dvi: 498
+display colors: 486
+refresh rate: 404
+hdmi: 285
+displayport: 213
+model: 196
+dvid duallink: 16
+component: 11
+svideo: 11
+minidisplay port: 8

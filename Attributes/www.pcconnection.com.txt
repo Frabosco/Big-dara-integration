@@ -1,51 +1,51 @@
-<page title>
-actual weight
-attributes
-brightness lumens
-brightness nitscdm2
-color
-color support
-compatibility notes
-compliant standards
-connector
-connector type
-contents
-contrast ratio
-diagonal size
-digital video standard
-display position adjustments
-display size
-display technology
-display type
-dot pitch
-energy star qualified
-energy star version
-form factor
-horizontal frequency khz
-image aspect ratio
-image brightness
-image size max
-image size min
-internal resolution max
-lamp type
-native resolution
-os notes
-physical dimensions
-portsconnectors
-power notes
-product type
-projector type
-refurbished type
-resolution modes
-response timerate
-returns policy
-screen distance min
-speakers included
-system requirements
-target use
-vertical frequency hz
-viewing angle hv degrees
-warranty  labor
-warranty  parts
-warranty details
-weight
+<page title>: 623
+warranty  labor: 623
+warranty  parts: 623
+returns policy: 551
+color: 478
+contents: 478
+compatibility notes: 332
+product type: 300
+compliant standards: 251
+display size: 246
+actual weight: 236
+physical dimensions: 229
+image brightness: 217
+portsconnectors: 175
+dot pitch: 168
+display position adjustments: 162
+energy star qualified: 152
+target use: 149
+warranty details: 139
+connector: 135
+connector type: 135
+power notes: 135
+display technology: 133
+internal resolution max: 133
+contrast ratio: 128
+display type: 122
+viewing angle hv degrees: 116
+response timerate: 113
+brightness nitscdm2: 112
+digital video standard: 84
+color support: 78
+attributes: 70
+system requirements: 40
+weight: 28
+refurbished type: 22
+horizontal frequency khz: 13
+vertical frequency hz: 13
+diagonal size: 11
+energy star version: 11
+speakers included: 10
+form factor: 10
+image aspect ratio: 10
+image size max: 10
+image size min: 10
+native resolution: 10
+projector type: 10
+resolution modes: 10
+screen distance min: 10
+brightness lumens: 8
+lamp type: 8
+os notes: 3

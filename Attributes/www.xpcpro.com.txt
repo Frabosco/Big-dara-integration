@@ -1,200 +1,200 @@
-3d compatibility
-<page title>
-ac adapter included
-ac power in
-annual energy consumption
-anschlüsse
-aspect ratio
-audio input
-audio output
-auflösung empfohlen
-backlight type
-bezel width bottom
-bezel width side
-bezel width top
-bildformat
-blickwinkel horizontal
-blickwinkel vertikal
-bluetooth
-builtin camera
-builtin microphone
-builtin speakers
-builtin subwoofer
-cable lock slot
-cables included
-camera included
-card reader integrated
-certification
-colour
-colour of product
-common interface ci
-common interface plus ci
-compatible memory cards
-compatible with vesawall mounting system
-compliance industry standards
-composite sync
-composite video in
-connection to pc
-contrast ratio dynamic
-contrast ratio typical
-dcin jack
-depth
-depth with stand
-digital horizontal frequency
-digital vertical frequency
-dimensions w x d x h
-dimensions w x d x h with stand
-display
-display brightness
-display diagonal
-display diagonal metric
-display number of colours
-display resolution
-display srgb
-display surface
-display technology
-display type
-display viewable area hxv
-displaygröße
-displayports quantity
-dvi port
-dvid ports quantity
-dvii ports quantity
-effective viewing area
-eigenschaften
-electromagnetic compatibility
-energy efficiency class
-energy star certified
-epeat compliance
-ethernet lan
-ethernet lan connection
-farbe allgemein
-farbe herstellerspezifisch
-feet colour
-full hd
-gewicht netto
-glossy display
-handheld remote control
-hd type
-hdcp
-hdmi
-hdmi ports quantity
-hdready
-headphone connectivity
-headphone out
-headphone outputs
-height
-height adjustment
-height with stand
-helligkeitleuchtstärke
-horizontal scan range
-input frequency
-input voltage
-io ports
-kontrastverhältnis
-lcd paneltechnologie bzw tm 
-led backlight
-led indicators
-linux operating systems supported
-mac operating systems supported
-manual
-maximum resolution
-mean time between failures mtbf
-megapixel
-microphone in
-mobile highdefinition link mhl
-netzteil
-nonoperating altitude
-number of colours
-number of loudspeakers
-number of osd languages
-number of products included
-on screen display osd
-on screen display osd languages
-onoff switch
-operating altitude
-operating relative humidity hh
-operating relative humidity range
-operating temperature range tt
-operating temperature tt
-package dimensions wxdxh
-package weight
-packaging depth
-packaging height
-packaging width
-pc audio in
-picture enhancement
-pictureinpicture
-pivot
-pivot angle
-pixel pitch
-placement supported
-plug and play
-power consumption
-power consumption active
-power consumption average
-power consumption economy mode
-power consumption max
-power consumption off
-power consumption powersave
-power consumption standby
-power consumption typical
-power cord included
-power led
-power requirements
-product type
-prüfzeichenzertifikatezulassungen
-quantity
-quick start guide
-reaktionszeit
-relative humidity
-response time
-rms rated power
-rotating
-safety
-screen saving functions
-separate hv sync
-signalart
-standby led
-storage relative humidity hh
-storage relative humidity range
-storage temperature range tt
-storage temperature tt
-strahlungsnorm
-supported graphics resolutions
-supported video modes
-svideo in
-svideo inputs quantity
-swivel
-swivel angle
-swivel angle range
-swivel webcam
-swivelling
-syncongreen sog
-thin client installed
-tilt adjustment
-tilt angle
-tv tuner integrated
-usb 20 ports quantity
-usb 30 ports quantity
-usb powered
-user guide on cdrom
-vertical scan range
-vesa bohrung
-vesa mounting interfaces compatibility
-vga dsub ports quantity
-video dot rate
-viewable size diagonal
-viewable size horizontal
-viewable size vertical
-viewing angle horizontal
-viewing angle vertical
-volume control
-wall mountable
-weight
-weight with stand
-width
-width with stand
-wifi
-windows operating systems supported
-wireless lan connection
+<page title>: 307
+display brightness: 281
+display diagonal: 277
+display resolution: 277
+response time: 277
+colour of product: 273
+viewing angle vertical: 273
+viewing angle horizontal: 271
+display: 270
+aspect ratio: 265
+vga dsub ports quantity: 253
+builtin speakers: 248
+width: 248
+contrast ratio typical: 245
+display number of colours: 242
+wall mountable: 241
+contrast ratio dynamic: 239
+power consumption typical: 239
+depth: 238
+height: 238
+supported graphics resolutions: 232
+weight: 231
+vesa mounting interfaces compatibility: 229
+input voltage: 227
+energy efficiency class: 222
+builtin camera: 218
+thin client installed: 218
+pixel pitch: 215
+power consumption standby: 214
+tv tuner integrated: 214
+hdcp: 210
+energy star certified: 206
+3d compatibility: 205
+height adjustment: 203
+tilt angle: 199
+input frequency: 197
+dvid ports quantity: 195
+cable lock slot: 189
+certification: 184
+hd type: 176
+cables included: 174
+display technology: 169
+dvi port: 161
+weight with stand: 161
+on screen display osd: 158
+depth with stand: 157
+height with stand: 157
+tilt adjustment: 156
+width with stand: 156
+epeat compliance: 145
+number of loudspeakers: 136
+plug and play: 135
+rms rated power: 135
+pivot: 128
+package weight: 128
+hdmi ports quantity: 127
+horizontal scan range: 116
+vertical scan range: 116
+packaging depth: 113
+packaging height: 113
+packaging width: 113
+viewable size horizontal: 107
+viewable size vertical: 107
+manual: 105
+power consumption off: 103
+swivelling: 100
+ac power in: 100
+display diagonal metric: 100
+power led: 99
+quick start guide: 98
+backlight type: 92
+standby led: 87
+onoff switch: 86
+digital vertical frequency: 86
+digital horizontal frequency: 85
+windows operating systems supported: 83
+separate hv sync: 80
+operating temperature range tt: 79
+displayports quantity: 75
+usb 20 ports quantity: 74
+bluetooth: 71
+operating relative humidity range: 70
+led indicators: 64
+pivot angle: 62
+number of osd languages: 58
+operating temperature tt: 56
+supported video modes: 55
+display srgb: 55
+on screen display osd languages: 55
+mean time between failures mtbf: 52
+audio input: 51
+swivel angle range: 50
+full hd: 50
+mac operating systems supported: 49
+power consumption powersave: 48
+storage temperature range tt: 47
+operating relative humidity hh: 44
+ethernet lan: 42
+wifi: 42
+syncongreen sog: 41
+power consumption max: 38
+ethernet lan connection: 37
+storage temperature tt: 36
+pc audio in: 36
+headphone out: 34
+headphone outputs: 32
+audio output: 30
+annual energy consumption: 29
+builtin subwoofer: 28
+wireless lan connection: 27
+swivel angle: 27
+card reader integrated: 24
+operating altitude: 24
+auflösung empfohlen: 24
+displaygröße: 24
+helligkeitleuchtstärke: 24
+kontrastverhältnis: 24
+reaktionszeit: 24
+hdmi: 23
+headphone connectivity: 23
+display surface: 23
+storage relative humidity range: 22
+bildformat: 22
+placement supported: 21
+gewicht netto: 21
+signalart: 21
+viewable size diagonal: 20
+anschlüsse: 19
+blickwinkel horizontal: 19
+blickwinkel vertikal: 19
+vesa bohrung: 19
+number of products included: 19
+user guide on cdrom: 19
+nonoperating altitude: 18
+dcin jack: 18
+ac adapter included: 18
+storage relative humidity hh: 18
+safety: 17
+linux operating systems supported: 16
+relative humidity: 16
+camera included: 16
+dvii ports quantity: 16
+dimensions w x d x h with stand: 15
+lcd paneltechnologie bzw tm : 15
+connection to pc: 15
+builtin microphone: 15
+farbe allgemein: 15
+maximum resolution: 15
+feet colour: 14
+compliance industry standards: 14
+effective viewing area: 12
+package dimensions wxdxh: 12
+pictureinpicture: 12
+eigenschaften: 12
+power consumption: 12
+mobile highdefinition link mhl: 12
+screen saving functions: 12
+composite sync: 12
+compatible memory cards: 11
+usb 30 ports quantity: 11
+quantity: 10
+video dot rate: 9
+common interface plus ci: 9
+hdready: 9
+swivel: 9
+bezel width side: 9
+common interface ci: 8
+glossy display: 8
+number of colours: 7
+display viewable area hxv: 7
+power consumption active: 7
+handheld remote control: 7
+dimensions w x d x h: 7
+composite video in: 7
+product type: 7
+bezel width top: 7
+prüfzeichenzertifikatezulassungen: 6
+microphone in: 6
+compatible with vesawall mounting system: 6
+power cord included: 6
+power requirements: 6
+colour: 5
+netzteil: 5
+electromagnetic compatibility: 5
+rotating: 5
+bezel width bottom: 5
+display type: 4
+strahlungsnorm: 4
+volume control: 4
+power consumption average: 4
+led backlight: 4
+svideo in: 4
+svideo inputs quantity: 4
+farbe herstellerspezifisch: 3
+usb powered: 3
+picture enhancement: 3
+megapixel: 3
+io ports: 3
+swivel webcam: 3
+power consumption economy mode: 3

@@ -1,55 +1,55 @@
-3d capable
-<page title>
-aspect ratio
-brightness
-builtin devices
-bundled with
-character resolution
-colour
-colour support
-compliant standards
-contrast ratio
-designed for
-device type
-diagonal size
-diagonal size cm
-digital tv tuner
-dimensions wxdxh
-display format
-display position adjustments
-energy class
-energy consumption per year
-environmental standards
-features
-hdcp compatible
-hdmi ports qty
-height rack units
-image aspect ratio
-input connectors
-kvm switch
-lcd backlight technology
-localisation
-manufacturer selling program
-manufacturer warranty
-microsoft certification
-native resolution
-panel type
-pc interface
-pixel pitch
-power
-power consumption operational
-product description
-product type
-remote control
-resolution
-response time
-screen coating
-speaker system
-speakers
-targeting
-technology
-tv tuner
-usb port
-video interface
-video wall components qty
-weight
+<page title>: 798
+product description: 798
+device type: 788
+dimensions wxdxh: 761
+native resolution: 755
+brightness: 746
+input connectors: 740
+contrast ratio: 728
+weight: 718
+compliant standards: 716
+response time: 695
+aspect ratio: 689
+colour support: 681
+colour: 677
+display position adjustments: 573
+pixel pitch: 553
+manufacturer warranty: 541
+panel type: 474
+environmental standards: 467
+builtin devices: 401
+speakers: 322
+screen coating: 199
+localisation: 182
+microsoft certification: 94
+height rack units: 44
+kvm switch: 36
+character resolution: 21
+bundled with: 20
+energy class: 18
+diagonal size: 10
+diagonal size cm: 10
+display format: 10
+features: 10
+pc interface: 10
+product type: 10
+remote control: 10
+resolution: 10
+video interface: 10
+image aspect ratio: 9
+lcd backlight technology: 9
+power: 9
+power consumption operational: 9
+tv tuner: 9
+3d capable: 8
+hdcp compatible: 8
+hdmi ports qty: 8
+targeting: 8
+technology: 8
+designed for: 7
+usb port: 6
+energy consumption per year: 4
+speaker system: 4
+video wall components qty: 4
+digital tv tuner: 4
+manufacturer selling program: 3

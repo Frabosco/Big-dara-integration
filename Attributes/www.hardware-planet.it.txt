@@ -1,193 +1,193 @@
-<page title>
-ac power in
-adattatore acdc
-alimentazione
-altezza
-altezza con supporto
-altezza imballo
-altoparlante  cuffia  spinotto di uscita
-altoparlanti
-altoparlanti incorporati
-angolo di inclinazione
-angolo di rotazione
-angolo di visione orizzontale
-angolo di visione verticale
-angolo di visualizzazione orizzontale
-angolo di visualizzazione verticale
-area di visualizzazione effettiva
-blocco cavo
-bluetooth
-caratteristiche
-caratteristiche sicurezza
-cavi inclusi
-cavo alimentazione incluso
-certificato energy star
-certificazione
-certificazione energy star
-classe efficienza energetica
-collegamento ethernet lan
-colore
-colore del prodotto
-colore piedi
-colori del display
-colori display
-comandi  regolazioni
-common interface plus ci
-compatibile con montaggio vesa
-compatibilità 3d
-compatibilità elettromagnetica
-compatibilità sistema operativo mac
-composite sync
-conforme agli standard
-conformità epeat
-connessione cuffia
-connessione wlan
-connettori di ingresso
-consumi
-consumi modalità risparmio energetico
-consumi modalità spento
-consumi modalità standby
-consumo energetico annuo
-consumo energetico in standby
-consumo energetico max
-controllo del volume
-copertura schermo
-dcin jack
-descrizione prodotto
-dettagli dimensioni e peso
-dimensione visibile diagonale
-dimensione visibile orizzontale
-dimensione visibile verticale
-dimensioni imballo lxpxa
-dimensioni lxpxa
-dimensioni lxpxa con base
-dimensioni lxpxh
-dimensioni schermo
-display surface
-dot pitch
-dot rate video
-formato
-fotocamera integrata
-frequenza di ingresso
-frequenza scansione orizzontale
-frequenza scansione verticale
-full hd
-funzione risparmio
-girevole
-guida rapida
-guida utente su cdrom
-hdcp
-hdmi
-inclinazione
-inclinazione regolabile
-indicatore led alimentazione
-indicatori led
-ingresso audio
-ingresso audio per pc
-interfacce
-interfaccia comune
-interfaccia di montaggio schermo piatto
-interruttore integrato
-intervallo di scansione verticale
-intervallo di temperatura
-intervallo temperatura di funzionamento
-larghezza
-larghezza con supporto
-larghezza imballo
-led standby
-lettore di schede integrato
-lingue osd
-luminosità
-luminosità schermo
-lunghezza cavo
-lunghezza diagonale
-manuale dellutente
-megapixel
-microfono incorporato
-microfono spinotto dingresso
-mobile highdefinition link mhl
-modalità video supportate
-montabile a parete
-mtbf
-number of simultaneous touchpoints windows 7
-numero di altoparlanti
-numero di lingue osd
-numero di prodotti inclusi
-on screen display osd
-peso
-peso incluso imballo
-peso prodotto con supporto
-pictureinpicture
-pivot angle
-pixel pitch
-plug  play
-porta dvi
-porta rs232
-porta usb
-posizionamento supportato
-potenza assorbita in esercizio
-potenza di uscita  canale
-potenza in uscita rms
-profondità
-profondità con supporto
-profondità imballo
-protezione per i bambini
-quantità
-quantità displayports
-quantità porte dvid
-quantità porte hdmi
-quantità porte thunderbolt
-quantità porte usb 20
-quantità porte usb 30
-quantità porte vga dsub
-range di scansione orizzontale
-range di umidità di funzionamento
-rapporto daspetto
-rapporto di contrasto
-rapporto di contrasto dinamico
-regolazione altezza
-regolazione posizione display
-regolazioni formato schermo
-retroilluminazione a led
-risoluzione
-risoluzione massima
-risoluzione nativa
-risoluzioni grafiche supportate
-rotazione
-schermo srgb
-sicurezza
-sintonizzatore tv integrato
-sistema operativo linux supportato
-sistema operativo windows supportato
-source datasheet
-standard ambientali
-standard di conformità
-subwoofer incorporato
-supporto colore
-sync hv separato
-syncongreen sog
-tecnologia display
-tecnologia retroilluminazione
-tecnologia touchscreen
-telecomando
-tempo di risposta
-tensione richiesta
-thin client installato
-tipi schede di memoria
-tipo
-tipo alimentazione
-tipo di display
-tipo di dispositivo
-tipo di prodotto
-tipo di schermo
-tipo schermo
-tipologia di retroilluminazione
-tipologia display
-tipologia hd
-tipologia touch screen
-umidità
-uscita audio
-velocità refresh orizzontale
-velocità refresh verticale
-voltaggio di ingresso
-webcam girevole
+<page title>: 305
+tempo di risposta: 303
+dimensioni schermo: 298
+risoluzione: 297
+colore del prodotto: 295
+luminosità schermo: 295
+angolo di visualizzazione orizzontale: 287
+angolo di visualizzazione verticale: 287
+formato: 285
+tipologia display: 283
+rapporto di contrasto dinamico: 276
+colori del display: 271
+quantità porte vga dsub: 269
+altoparlanti incorporati: 263
+consumi: 263
+montabile a parete: 259
+fotocamera integrata: 253
+compatibile con montaggio vesa: 249
+hdcp: 247
+risoluzioni grafiche supportate: 247
+larghezza: 245
+tipologia hd: 241
+sintonizzatore tv integrato: 234
+thin client installato: 233
+voltaggio di ingresso: 233
+dot pitch: 232
+peso: 232
+profondità: 230
+altezza: 229
+inclinazione: 223
+certificazione energy star: 220
+consumi modalità standby: 216
+compatibilità 3d: 213
+rapporto di contrasto: 213
+classe efficienza energetica: 212
+frequenza di ingresso: 211
+cavi inclusi: 207
+blocco cavo: 204
+regolazione altezza: 202
+porta dvi: 188
+quantità porte dvid: 185
+certificazione: 183
+tecnologia display: 165
+inclinazione regolabile: 163
+quantità porte hdmi: 159
+source datasheet: 156
+potenza in uscita rms: 155
+numero di altoparlanti: 151
+peso incluso imballo: 143
+on screen display osd: 141
+consumi modalità spento: 133
+rotazione: 132
+altezza con supporto: 131
+larghezza con supporto: 130
+profondità con supporto: 130
+altezza imballo: 129
+larghezza imballo: 129
+profondità imballo: 129
+peso prodotto con supporto: 124
+intervallo di scansione verticale: 124
+range di scansione orizzontale: 124
+frequenza scansione orizzontale: 123
+frequenza scansione verticale: 122
+guida rapida: 115
+ac power in: 106
+plug  play: 102
+dimensione visibile verticale: 98
+dimensione visibile orizzontale: 97
+conformità epeat: 92
+altoparlante  cuffia  spinotto di uscita: 90
+girevole: 88
+indicatore led alimentazione: 83
+manuale dellutente: 79
+interruttore integrato: 77
+led standby: 73
+sistema operativo windows supportato: 70
+collegamento ethernet lan: 69
+bluetooth: 66
+numero di lingue osd: 66
+quantità displayports: 63
+ingresso audio per pc: 61
+connessione wlan: 60
+sync hv separato: 59
+modalità video supportate: 53
+quantità porte usb 20: 51
+consumi modalità risparmio energetico: 50
+connessione cuffia: 47
+angolo di rotazione: 45
+tipologia di retroilluminazione: 44
+lingue osd: 43
+pivot angle: 40
+indicatori led: 39
+lettore di schede integrato: 37
+subwoofer incorporato: 33
+intervallo temperatura di funzionamento: 32
+compatibilità sistema operativo mac: 30
+range di umidità di funzionamento: 29
+dimensione visibile diagonale: 27
+posizionamento supportato: 25
+dot rate video: 22
+hdmi: 22
+uscita audio: 21
+ingresso audio: 20
+display surface: 20
+quantità porte usb 30: 18
+microfono incorporato: 18
+tipi schede di memoria: 18
+guida utente su cdrom: 18
+schermo srgb: 17
+numero di prodotti inclusi: 17
+mobile highdefinition link mhl: 16
+dcin jack: 15
+sicurezza: 14
+pictureinpicture: 14
+intervallo di temperatura: 14
+area di visualizzazione effettiva: 13
+adattatore acdc: 13
+syncongreen sog: 12
+full hd: 12
+microfono spinotto dingresso: 12
+tipo di display: 12
+funzione risparmio: 12
+risoluzione massima: 12
+composite sync: 11
+colori display: 11
+tipologia touch screen: 11
+consumo energetico max: 10
+controllo del volume: 9
+tipo alimentazione: 9
+colore piedi: 8
+dimensioni lxpxa con base: 8
+colore: 8
+mtbf: 8
+quantità: 8
+regolazioni formato schermo: 8
+dimensioni imballo lxpxa: 8
+lunghezza cavo: 7
+retroilluminazione a led: 7
+altoparlanti: 7
+connettori di ingresso: 7
+descrizione prodotto: 7
+dimensioni lxpxh: 7
+luminosità: 7
+pixel pitch: 7
+rapporto daspetto: 7
+regolazione posizione display: 7
+risoluzione nativa: 7
+standard ambientali: 7
+tipo di dispositivo: 7
+consumo energetico annuo: 7
+tecnologia touchscreen: 7
+umidità: 7
+interfaccia comune: 7
+tipo di prodotto: 6
+standard di conformità: 6
+supporto colore: 6
+dimensioni lxpxa: 6
+cavo alimentazione incluso: 6
+telecomando: 6
+common interface plus ci: 6
+alimentazione: 5
+angolo di inclinazione: 5
+angolo di visione orizzontale: 5
+angolo di visione verticale: 5
+caratteristiche: 5
+certificato energy star: 5
+interfacce: 5
+lunghezza diagonale: 5
+potenza assorbita in esercizio: 5
+potenza di uscita  canale: 5
+tecnologia retroilluminazione: 5
+tipo: 5
+tipo di schermo: 5
+tipo schermo: 5
+sistema operativo linux supportato: 5
+compatibilità elettromagnetica: 4
+interfaccia di montaggio schermo piatto: 4
+number of simultaneous touchpoints windows 7: 4
+comandi  regolazioni: 4
+tensione richiesta: 4
+velocità refresh orizzontale: 4
+velocità refresh verticale: 4
+caratteristiche sicurezza: 4
+megapixel: 4
+consumo energetico in standby: 3
+dettagli dimensioni e peso: 3
+protezione per i bambini: 3
+quantità porte thunderbolt: 3
+copertura schermo: 3
+porta rs232: 3
+conforme agli standard: 3
+webcam girevole: 3
+porta usb: 3

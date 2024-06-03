@@ -1,48 +1,48 @@
-3d compatibility
-<page title>
-aspect ratio
-backlight technology
-brand
-brightness
-cables included
-category
-color depth
-color gamut
-color temperature
-connectors
-contrast ratio
-depth
-diagonal size
-display type
-dot pitch
-dynamic contrast ratio
-ean
-energy star compliant
-features
-hdmi ports
-height
-lowest recommended price
-mtbf
-number of speakers
-panel technology
-power consumption operational
-power consumption stand by
-product name
-product rating
-resolution
-response time
-security lock slot
-speakers power
-stand
-swivel
-synchronization range  horizontal
-synchronization range  vertical
-touchscreen
-tv tuner
-upc
-usb ports
-user controls
-user reviews
-viewing angle
-weight
-width
+<page title>: 108
+category: 108
+product name: 108
+product rating: 108
+user reviews: 108
+brand: 106
+resolution: 106
+backlight technology: 105
+brightness: 104
+diagonal size: 99
+connectors: 98
+response time: 98
+energy star compliant: 97
+aspect ratio: 95
+ean: 95
+dot pitch: 93
+power consumption operational: 93
+display type: 92
+viewing angle: 92
+contrast ratio: 84
+dynamic contrast ratio: 84
+user controls: 83
+color depth: 76
+panel technology: 76
+upc: 75
+weight: 74
+depth: 68
+height: 68
+width: 68
+hdmi ports: 66
+power consumption stand by: 66
+features: 63
+synchronization range  horizontal: 60
+speakers power: 49
+swivel: 48
+tv tuner: 46
+lowest recommended price: 39
+synchronization range  vertical: 37
+cables included: 33
+security lock slot: 18
+stand: 17
+color gamut: 16
+number of speakers: 14
+usb ports: 14
+color temperature: 8
+3d compatibility: 7
+touchscreen: 6
+mtbf: 3

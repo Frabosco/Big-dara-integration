@@ -1,73 +1,73 @@
-<page title>
-adjustable display angle
-adjustable display height
-adjustable display pivot
-aspect ratio
-backlight technology
-brand name
-brightness
-builtin devices
-certifications  standards
-color
-color supported
-contrast ratio
-country of origin
-depth
-depth with stand
-display orientation
-displayport
-dvi
-features
-full product specifications
-green compliance certificateauthority
-green compliant
-hdcp supported
-hdmi
-headphone
-height
-height with stand
-horizontal viewing angle
-input voltage
-limited warranty
-manufacturer
-manufacturer part number
-manufacturer website address
-maximum adjustable height
-maximum resolution
-mount type
-number of screens
-number of speakers
-offmode power consumption
-operating power consumption
-package contents
-panel technology
-pccanadacom
-platform supported
-product line
-product model
-product name
-product series
-product type
-recycled
-recycled content
-response time
-screen mode
-screen size
-screen surface
-speakers
-standard refresh rate
-standby power consumption
-svideo
-swivel angle
-tilt angle
-usb
-usb standard
-vertical viewing angle
-vesa mount compatible
-vesa mount standard
-vga
-webcam
-weight approximate
-weight with stand approximate
-width
-width with stand
+<page title>: 120
+manufacturer part number: 120
+maximum resolution: 120
+pccanadacom: 120
+product model: 120
+product name: 120
+brand name: 119
+manufacturer: 119
+manufacturer website address: 119
+number of screens: 119
+product type: 119
+screen size: 119
+screen mode: 118
+response time: 114
+contrast ratio: 113
+backlight technology: 111
+brightness: 110
+aspect ratio: 107
+horizontal viewing angle: 106
+vertical viewing angle: 106
+vga: 104
+adjustable display angle: 102
+operating power consumption: 101
+green compliance certificateauthority: 99
+green compliant: 98
+weight approximate: 98
+color: 95
+width: 93
+depth: 92
+dvi: 90
+height: 90
+standby power consumption: 86
+color supported: 84
+vesa mount compatible: 84
+hdcp supported: 79
+features: 78
+vesa mount standard: 77
+package contents: 75
+limited warranty: 74
+standard refresh rate: 69
+certifications  standards: 66
+input voltage: 64
+width with stand: 64
+depth with stand: 63
+height with stand: 63
+platform supported: 62
+builtin devices: 61
+panel technology: 61
+speakers: 59
+hdmi: 58
+product series: 55
+mount type: 53
+product line: 52
+adjustable display height: 50
+adjustable display pivot: 49
+screen surface: 46
+displayport: 45
+offmode power consumption: 44
+usb: 41
+number of speakers: 36
+weight with stand approximate: 32
+usb standard: 30
+headphone: 27
+tilt angle: 22
+display orientation: 11
+swivel angle: 9
+country of origin: 6
+maximum adjustable height: 6
+svideo: 4
+recycled: 4
+webcam: 3
+full product specifications: 3
+recycled content: 3

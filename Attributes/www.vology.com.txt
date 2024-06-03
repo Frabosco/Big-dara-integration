@@ -1,93 +1,93 @@
-3d capable
-3d technology
-<page title>
-aspect ratio
-audio
-backlight life
-backlight technology
-brightness
-brightness wtouchscreen
-builtin devices
-bundled with
-cables included
-certified for windows vista
-color
-color support
-color temperature
-compatibility information
-compatible with windows 7
-compliant standards
-connectivity
-contrast ratio
-controls  adjustments
-designed for
-device type
-diagonal size
-digital tv
-digital tv tuner
-dimensions  weight
-dimensions  weight details
-dimensions wxdxh
-display position adjustments
-display type
-energy star qualified
-environmental parameters
-environmental standards
-epeat compliant
-features
-flat panel mount interface
-general
-height adjustment
-horizontal refresh rate
-horizontal viewing angle
-humidity range operating
-included accessories
-included software
-input
-input connectors
-interfaces
-localization
-mainspecs
-manufacturer selling program
-manufacturer warranty
-max operating temperature
-mechanical
-microsoft certification
-min operating temperature
-miscellaneous
-mounting kit
-movement detection technology
-mtbf
-native resolution
-os required
-osd languages
-output power  channel
-panel type
-pixel per inch
-pixel pitch
-power
-power consumption operational
-power consumption sleep
-power consumption stand by
-power consumption stand by  sleep
-power supply
-pricing type
-product description
-response time
-rotation angle
-screen coating
-service  support
-service  support details
-software  system requirements
-speakers
-swivel angle
-tilt angle
-tv tuner
-type
-vertical refresh rate
-vertical viewing angle
-video bandwidth
-viewable size
-voltage required
-weight
-works with windows vista
+<page title>: 528
+native resolution: 528
+device type: 527
+product description: 527
+brightness: 523
+contrast ratio: 523
+input connectors: 520
+response time: 511
+aspect ratio: 507
+display type: 500
+diagonal size: 499
+dimensions wxdxh: 499
+horizontal viewing angle: 492
+vertical viewing angle: 492
+general: 489
+mainspecs: 489
+miscellaneous: 488
+connectivity: 486
+interfaces: 486
+power: 483
+environmental standards: 480
+features: 478
+display position adjustments: 477
+power consumption operational: 476
+mechanical: 467
+weight: 465
+color: 457
+compliant standards: 457
+energy star qualified: 455
+cables included: 429
+backlight technology: 417
+pixel pitch: 414
+voltage required: 411
+manufacturer warranty: 406
+color support: 382
+service  support: 375
+service  support details: 375
+panel type: 368
+tilt angle: 367
+flat panel mount interface: 362
+vertical refresh rate: 361
+horizontal refresh rate: 344
+power supply: 336
+dimensions  weight: 322
+dimensions  weight details: 322
+environmental parameters: 322
+min operating temperature: 322
+max operating temperature: 321
+humidity range operating: 311
+power consumption stand by  sleep: 293
+controls  adjustments: 278
+viewable size: 277
+epeat compliant: 270
+microsoft certification: 247
+screen coating: 243
+software  system requirements: 232
+compatible with windows 7: 228
+included software: 210
+osd languages: 195
+video bandwidth: 194
+localization: 189
+builtin devices: 185
+type: 164
+color temperature: 163
+backlight life: 162
+height adjustment: 152
+audio: 151
+speakers: 135
+power consumption stand by: 133
+output power  channel: 119
+swivel angle: 112
+rotation angle: 86
+included accessories: 85
+power consumption sleep: 55
+manufacturer selling program: 47
+input: 32
+os required: 31
+bundled with: 26
+mounting kit: 18
+pricing type: 16
+movement detection technology: 15
+compatibility information: 15
+designed for: 15
+certified for windows vista: 13
+pixel per inch: 10
+3d capable: 7
+brightness wtouchscreen: 5
+works with windows vista: 5
+3d technology: 4
+mtbf: 3
+digital tv: 3
+digital tv tuner: 3
+tv tuner: 3

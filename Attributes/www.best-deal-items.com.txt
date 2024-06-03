@@ -1,353 +1,353 @@
-100 lakeview pkwy vernon hills il 60061
-14day moneyback guarantee
-3d compatibility
-57 business days
-<page title>
-ac power in
-accessories included
-additional information
-adjustable display angle
-adjustable display height
-adjustable display pivot
-application
-are responsible
-aspect ratio
-assembly required
-audio output
-av out interface
-backlight technology
-backup
-before you leave a negtive feedback
-brand
-brand name
-brightness
-brightness typical
-builtin camera
-builtin devices
-builtin speakers
-buyers paypal address
-cable
-cable details
-cable lock slot
-cables included
-camera features
-can i collect my item
-case colour
-certification
-code
-color
-color support
-color supported
-colour
-colour of product
-colour support
-compatibility
-compliant standards
-condition
-connections
-connectivity details type
-connector
-connector type
-contact us
-contact us by email
-contrast ratio
-contrast ratio dynamic
-contrast ratio typical
-controls  adjustments
-country
-country of origin
-countryregion of manufacture
-daisy chain
-depth
-depth with stand
-description
-device supported
-device type
-diagonal size
-diagonal size metric
-digital horizontal frequency
-digital vertical frequency
-dimension
-dimensions
-dimensions  weight
-dimensions wxdxh
-display
-display  graphics
-display brightness
-display diagonal
-display diagonal metric
-display mode
-display number of colours
-display position adjustments
-display projector
-display ratio
-display resolution
-display screen type
-display size supported
-display technology
-display type
-display type supported
-display viewable area hxv
-due to custom restrictions we do not ship
-dvi
-dvi port
-dvid ports
-dvid ports quantity
-ebay addresses
-energy efficiency class
-energy star certified
-energy star qualified
-environmental parameters
-environmental standards
-epeat compliant
-europe  ireland
-external memory
-features
-flat panel mount interface
-form factor
-frequency required
-general information
-grade
-green compliance certificateauthority
-green compliant
-hard drive
-hd type
-hdcp
-hdcp supported
-header
-height
-height adjustment
-height rack units
-height with stand
-horizontal refresh rate
-horizontal resolution
-horizontal scan range
-horizontal viewing angle
-humidity
-humidity range operating
-i live outside the uk can i still purchase your item
-image aspect ratio
-image brightness
-image contrast ratio
-image sensor
-included qty
-input
-input device
-input devices
-input frequency
-input voltage
-inputs
-installation
-interface
-interface output
-interface provided
-interface type
-interfaces
-interfacesports
-internet
-ir led
-item
-item sort
-keyboard
-kvm
-kvm switch
-lcd resolution
-lcd screen size
-lens
-limited warranty
-make
-manual
-manufacturer
-manufacturer part number
-manufacturer website address
-marketing information
-material
-max operating temperature
-max resolution
-maximum resolution
-mean time between failures mtbf
-media type
-mfr part number
-min operating temperature
-minimum bid count
-minimum illumination
-minimum price
-miscellaneous
-model
-model name
-monfri between 1000am and 400pm
-monitor
-motion recording mode
-mount type
-mpn
-mtbf
-must
-native resolution
-network rj45
-never ship back without our rma
-nightvision distance
-nominal voltage
-not
-not included
-number of colours
-number of computers supported
-number of loudspeakers
-number of osd languages
-number of ps2 ports
-number of screens
-number of usb ports
-offmode power consumption
-on screen display osd
-operating power consumption
-operating relative humidity hh
-operating relative humidity range
-operating system
-operating temperature
-operating temperature range tt
-operating temperature tt
-optical drive
-osd languages
-other
-output
-package contents
-package dimensions wxdxh
-package including
-package type
-package weight
-packaged quantity
-packaging depth
-packaging height
-packaging width
-packing
-panel technology
-panel type
-payment method
-paypal
-physical characteristics
-physical environment
-pivot
-pixel pitch
-please include your phone number
-plug and play
-pointing device type
-power
-power consumption
-power consumption off
-power consumption operational
-power consumption stand by  sleep
-power consumption standby
-power consumption typical
-power device
-power led
-power requirements
-power supply
-power supply type
-product color
-product description
-product family
-product line
-product model
-product name
-product series
-product title
-product type
-ps2 port
-qty
-quick start guide
-rack mounting kit
-ram memory
-receive frequency
-receiving sensitivity
-resolution
-resolution native
-response time
-rms rated power
-rs232 ports
-screen
-screen dimensions
-screen mode
-screen resolution
-screen size
-screen surface
-screen type
-sd card slot
-separate hv sync
-serial port
-service
-service  support
-signal input
-size
-sn ratio
-software
-speakers
-standard refresh rate
-standby led
-standby power consumption
-storage relative humidity hh
-storage relative humidity range
-storage temperature range tt
-storage temperature tt
-store temperature
-supported graphics resolutions
-system
-system requirements
-technical information
-technology
-temperature
-thin client installed
-tilt adjustment
-tilt angle
-touchscreen
-touchscreen type
-transmission distance
-transmission frequency
-tv tuner integrated
-type
-unit dimensions
-upgrades
-usb
-usb 20 ports
-usb 20 ports quantity
-vertical refresh rate
-vertical scan range
-vertical viewing angle
-vesa mount compatible
-vesa mount standard
-vesa mounting interfaces compatibility
-vga
-vga dsub ports
-vga dsub ports quantity
-video
-video input
-video inputs
-video output
-video quality
-viewable size
-viewable size diagonal
-viewable size horizontal
-viewable size metric
-viewable size vertical
-viewing angle
-viewing angle horizontal
-viewing angle typical
-viewing angle vertical
-voltage required
-vsync rate at max res
-wall mountable
-warranty
-we cannot
-we stand behind every item we sell
-we will ship worldwide
-weight
-weight approximate
-weight with stand
-weight with stand approximate
-what happens if a fault occurs
-what is the overall condition of the item
-whats included
-when will my item arrive
-widescreen
-width
-width with stand
-working humidity
-working temperature
+<page title>: 2801
+condition: 2801
+country: 2801
+item sort: 2801
+minimum bid count: 2801
+minimum price: 2801
+payment method: 2801
+manufacturer: 64
+product type: 62
+response time: 58
+brand name: 55
+manufacturer part number: 55
+product name: 55
+screen size: 50
+width: 49
+aspect ratio: 48
+contrast ratio: 45
+height: 45
+depth: 44
+marketing information: 43
+features: 42
+brightness: 41
+product model: 39
+color: 37
+product title: 36
+screen mode: 34
+weight approximate: 34
+weight: 30
+horizontal viewing angle: 28
+vertical viewing angle: 28
+input voltage: 28
+limited warranty: 27
+pixel pitch: 25
+maximum resolution: 23
+model: 21
+power supply: 21
+display resolution: 20
+usb: 19
+packaged quantity: 19
+contrast ratio typical: 19
+vga: 18
+colour of product: 18
+backlight technology: 17
+color supported: 17
+standard refresh rate: 17
+max resolution: 16
+display brightness: 16
+display diagonal: 16
+warranty: 16
+display: 15
+power consumption typical: 15
+vesa mounting interfaces compatibility: 15
+viewing angle horizontal: 15
+viewing angle vertical: 15
+screen resolution: 15
+brand: 14
+diagonal size: 14
+display type: 14
+touchscreen: 14
+vesa mount compatible: 14
+device supported: 14
+display size supported: 14
+monitor: 14
+certification: 14
+not included: 13
+compliant standards: 13
+tilt angle: 13
+operating power consumption: 13
+display type supported: 13
+wall mountable: 13
+power consumption: 13
+display screen type: 13
+resolution: 13
+miscellaneous: 13
+cables included: 12
+depth with stand: 12
+mount type: 12
+screen surface: 12
+vesa mount standard: 12
+width with stand: 12
+type: 12
+kvm switch: 12
+product line: 12
+not: 12
+speakers: 12
+dimensions wxdxh: 12
+power consumption operational: 11
+native resolution: 11
+touchscreen type: 11
+height with stand: 11
+builtin speakers: 11
+operating system: 11
+display technology: 10
+colour: 10
+interfaces: 10
+video: 10
+power consumption standby: 10
+product series: 10
+horizontal scan range: 10
+vertical scan range: 10
+dvi: 10
+we stand behind every item we sell: 10
+description: 9
+display number of colours: 9
+vga dsub ports quantity: 9
+manufacturer website address: 9
+humidity: 9
+builtin camera: 9
+tv tuner integrated: 9
+compatibility: 9
+viewable size: 9
+hard drive: 9
+item: 9
+software: 9
+connector: 9
+package weight: 9
+material: 9
+green compliance certificateauthority: 9
+standby power consumption: 8
+technical information: 8
+energy efficiency class: 8
+hdcp: 8
+on screen display osd: 8
+color support: 8
+number of computers supported: 8
+number of usb ports: 8
+pointing device type: 8
+audio output: 8
+hdcp supported: 8
+number of screens: 8
+internet: 8
+optical drive: 8
+other: 8
+ram memory: 8
+upgrades: 8
+operating temperature: 8
+vga dsub ports: 8
+image contrast ratio: 8
+power: 8
+weight with stand approximate: 7
+physical characteristics: 7
+hd type: 7
+number of loudspeakers: 7
+rms rated power: 7
+supported graphics resolutions: 7
+can i collect my item: 7
+i live outside the uk can i still purchase your item: 7
+what happens if a fault occurs: 7
+what is the overall condition of the item: 7
+when will my item arrive: 7
+lcd screen size: 7
+receiving sensitivity: 7
+input frequency: 7
+adjustable display angle: 7
+package contents: 7
+image sensor: 7
+minimum illumination: 7
+sn ratio: 7
+operating temperature tt: 7
+plug and play: 7
+number of colours: 7
+input device: 7
+mpn: 6
+max operating temperature: 6
+min operating temperature: 6
+product description: 6
+offmode power consumption: 6
+builtin devices: 6
+3d compatibility: 6
+contrast ratio dynamic: 6
+country of origin: 6
+form factor: 6
+daisy chain: 6
+ps2 port: 6
+connections: 6
+make: 6
+whats included: 6
+osd languages: 6
+video input: 6
+signal input: 6
+viewing angle: 6
+accessories included: 6
+av out interface: 6
+backup: 6
+lcd resolution: 6
+transmission distance: 6
+transmission frequency: 6
+unit dimensions: 6
+video quality: 6
+working humidity: 6
+working temperature: 6
+thin client installed: 6
+panel technology: 6
+horizontal resolution: 6
+lens: 6
+nightvision distance: 6
+display diagonal metric: 6
+operating relative humidity hh: 6
+power consumption off: 6
+storage relative humidity hh: 6
+storage temperature tt: 6
+adjustable display height: 6
+adjustable display pivot: 6
+device type: 5
+flat panel mount interface: 5
+humidity range operating: 5
+voltage required: 5
+serial port: 5
+interfacesports: 5
+cable lock slot: 5
+dvid ports quantity: 5
+energy star certified: 5
+height adjustment: 5
+manual: 5
+quick start guide: 5
+separate hv sync: 5
+usb 20 ports quantity: 5
+number of ps2 ports: 5
+dimension: 5
+motion recording mode: 5
+sd card slot: 5
+power requirements: 5
+size: 5
+vertical refresh rate: 5
+model name: 5
+screen dimensions: 5
+application: 5
+camera features: 5
+ir led: 5
+physical environment: 5
+receive frequency: 5
+store temperature: 5
+ac power in: 5
+dvid ports: 5
+packaging depth: 5
+packaging height: 5
+packaging width: 5
+nominal voltage: 5
+contact us: 5
+display viewable area hxv: 5
+rs232 ports: 5
+green compliant: 5
+paypal: 5
+display  graphics: 5
+input devices: 5
+input: 5
+output: 5
+height rack units: 5
+package type: 5
+display projector: 5
+header: 5
+power device: 5
+service  support: 5
+technology: 5
+dvi port: 5
+system: 4
+buyers paypal address: 4
+contact us by email: 4
+due to custom restrictions we do not ship: 4
+we cannot: 4
+we will ship worldwide: 4
+energy star qualified: 4
+panel type: 4
+mfr part number: 4
+digital horizontal frequency: 4
+digital vertical frequency: 4
+tilt adjustment: 4
+additional information: 4
+assembly required: 4
+countryregion of manufacture: 4
+dimensions: 4
+are responsible: 4
+ebay addresses: 4
+viewing angle typical: 4
+display mode: 4
+never ship back without our rma: 4
+horizontal refresh rate: 4
+case colour: 4
+standby led: 4
+system requirements: 4
+mean time between failures mtbf: 4
+package dimensions wxdxh: 4
+power supply type: 4
+operating relative humidity range: 4
+operating temperature range tt: 4
+storage temperature range tt: 4
+viewable size diagonal: 4
+image brightness: 4
+general information: 4
+cable: 4
+cable details: 4
+connectivity details type: 4
+dimensions  weight: 4
+frequency required: 4
+qty: 4
+display position adjustments: 4
+image aspect ratio: 4
+widescreen: 4
+diagonal size metric: 4
+service: 4
+keyboard: 4
+mtbf: 3
+power consumption stand by  sleep: 3
+controls  adjustments: 3
+environmental standards: 3
+number of osd languages: 3
+pivot: 3
+viewable size horizontal: 3
+viewable size vertical: 3
+europe  ireland: 3
+temperature: 3
+brightness typical: 3
+installation: 3
+video inputs: 3
+before you leave a negtive feedback: 3
+grade: 3
+inputs: 3
+power led: 3
+weight with stand: 3
+product family: 3
+resolution native: 3
+screen type: 3
+usb 20 ports: 3
+interface type: 3
+storage relative humidity range: 3
+100 lakeview pkwy vernon hills il 60061: 3
+14day moneyback guarantee: 3
+57 business days: 3
+monfri between 1000am and 400pm: 3
+must: 3
+please include your phone number: 3
+included qty: 3
+interface: 3
+colour support: 3
+rack mounting kit: 3
+packing: 3
+connector type: 3
+environmental parameters: 3
+interface output: 3
+interface provided: 3
+kvm: 3
+vsync rate at max res: 3
+epeat compliant: 3
+display ratio: 3
+external memory: 3
+media type: 3
+code: 3
+package including: 3
+network rj45: 3
+product color: 3
+video output: 3
+screen: 3
+viewable size metric: 3

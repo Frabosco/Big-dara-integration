@@ -1,15 +1,15 @@
-<page title>
-aspect ratio
-color support
-contrast ratio
-display technology
-max resolution
-max viewing angle horizontal
-max viewing angle vertical
-product features
-product line
-refresh rate
-regulatory approval
-synchronization range  horizontal
-synchronization range  vertical
-system
+<page title>: 180
+aspect ratio: 173
+max resolution: 158
+display technology: 154
+product line: 130
+contrast ratio: 125
+refresh rate: 61
+max viewing angle vertical: 14
+system: 14
+max viewing angle horizontal: 13
+regulatory approval: 12
+synchronization range  horizontal: 9
+product features: 9
+color support: 8
+synchronization range  vertical: 7

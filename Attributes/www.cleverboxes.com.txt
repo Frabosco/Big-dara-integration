@@ -1,134 +1,134 @@
-1024 x 768 graphic mode
-1152 x 864 mac graphic mode
-1280 x 1024 graphic mode
-1280 x 768 graphic mode
-1400 x 900 graphic mode
-1440 x 900 graphic mode
-1680 x 1050 graphic mode
-1920 x 1080 graphic mode
-1920 x 1200 graphic mode
-640 x 350 graphic mode
-640 x 480 graphic mode
-720 x 400 text graphic mode
-800 x 600 graphic mode
-<page title>
-ac power
-adjustable display angle
-antiglare  antistatic
-aspect ratio
-audio capabilities
-audio features
-audio line in ports
-audio line out ports
-audiovisual port
-backlight
-backlight technology
-barcode
-bnc port
-brand name
-brightness
-builtin devices
-case colour
-certifications
-colour
-colour support
-contrast ratio
-dc power
-depth
-description
-digital in
-digital out
-dimensions
-display type
-displayport in
-dvi
-environmental
-factory presets
-green compliance
-green compliance certificateauthority
-hd support
-hdcp support
-hdmi
-hdmi ports
-headphone ports
-height
-height adjustable
-horizontal viewing angle
-in the box
-input voltage
-language selection
-lifetime
-manufacturer
-manufacturer part number
-manufacturer website address
-marketing information
-maximum resolution
-maximum response time
-microphone in port
-model name
-monitor
-mount type
-network interface
-number of screens
-offmode power consumption
-operating power consumption
-operating systems supported
-package contents
-pivot
-pixel clock speed
-pixel pitch
-platform support
-plug and play
-power adaptor output voltage
-power adaptor type
-power consumption
-power management features
-power supply
-product family
-product model
-product name
-product series
-product type
-remote control
-resolution maximum
-resolution native
-response time
-rj45 ports
-scan frequency
-scan frequency horizontal
-scan frequency vertical
-scart ports
-screen dimensions
-screen mode
-screen size
-screen type
-security locking mechanics
-serial ports
-speakers
-standby power consumption
-svideo
-svideo in
-swivel
-synch input
-system requirements
-tilt forwardbackward
-usb ports
-user controls
-user programmable modes
-vertical viewing angle
-vesa mount compatible
-vesa mount standard
-vga
-vga in
-video bandwidth
-video component in
-video component out
-video composite in
-video composite out
-view angle
-voltagefrequency
-wall mount
-warranty
-webcam
-weight approximate
-width
+<page title>: 469
+brightness: 455
+response time: 436
+screen type: 436
+contrast ratio: 429
+dimensions: 418
+case colour: 407
+screen dimensions: 407
+vga in: 403
+view angle: 402
+product type: 395
+aspect ratio: 377
+resolution native: 365
+wall mount: 345
+digital in: 338
+voltagefrequency: 322
+model name: 314
+pixel pitch: 307
+barcode: 303
+tilt forwardbackward: 295
+power consumption: 291
+warranty: 258
+speakers: 255
+environmental: 254
+certifications: 249
+backlight: 248
+in the box: 246
+scan frequency horizontal: 239
+scan frequency vertical: 237
+security locking mechanics: 217
+hdmi ports: 184
+product family: 177
+hd support: 162
+plug and play: 134
+display type: 130
+description: 129
+height adjustable: 128
+audio line in ports: 126
+displayport in: 123
+pivot: 107
+swivel: 103
+usb ports: 102
+user controls: 99
+resolution maximum: 95
+power supply: 89
+synch input: 89
+headphone ports: 86
+language selection: 81
+1920 x 1080 graphic mode: 71
+power management features: 71
+antiglare  antistatic: 67
+audio line out ports: 56
+operating systems supported: 46
+serial ports: 42
+scan frequency: 38
+rj45 ports: 38
+svideo in: 33
+monitor: 30
+video composite in: 30
+power adaptor type: 29
+digital out: 24
+video component in: 21
+user programmable modes: 19
+remote control: 17
+audio capabilities: 16
+factory presets: 15
+bnc port: 12
+video composite out: 11
+1024 x 768 graphic mode: 10
+640 x 480 graphic mode: 10
+800 x 600 graphic mode: 10
+1280 x 1024 graphic mode: 10
+video component out: 9
+brand name: 9
+dvi: 9
+horizontal viewing angle: 9
+manufacturer: 9
+manufacturer part number: 9
+manufacturer website address: 9
+maximum resolution: 9
+maximum response time: 9
+number of screens: 9
+product model: 9
+product name: 9
+screen mode: 9
+screen size: 9
+vertical viewing angle: 9
+vga: 9
+system requirements: 9
+video bandwidth: 9
+1440 x 900 graphic mode: 9
+pixel clock speed: 8
+640 x 350 graphic mode: 8
+720 x 400 text graphic mode: 8
+1680 x 1050 graphic mode: 8
+dc power: 8
+colour support: 8
+depth: 8
+height: 8
+marketing information: 8
+weight approximate: 8
+width: 8
+1920 x 1200 graphic mode: 7
+builtin devices: 7
+audiovisual port: 7
+lifetime: 7
+webcam: 7
+1280 x 768 graphic mode: 7
+green compliance certificateauthority: 7
+operating power consumption: 7
+vesa mount compatible: 7
+vesa mount standard: 7
+1152 x 864 mac graphic mode: 7
+audio features: 6
+backlight technology: 6
+colour: 6
+hdmi: 6
+power adaptor output voltage: 6
+green compliance: 6
+input voltage: 6
+standby power consumption: 6
+network interface: 5
+platform support: 5
+mount type: 5
+scart ports: 4
+ac power: 4
+microphone in port: 4
+adjustable display angle: 4
+hdcp support: 4
+package contents: 4
+product series: 4
+1400 x 900 graphic mode: 4
+offmode power consumption: 3
+svideo: 3

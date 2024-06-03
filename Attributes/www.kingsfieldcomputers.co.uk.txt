@@ -1,86 +1,86 @@
-3d type
-<page title>
-additional information
-adjustable display angle
-adjustable display height
-adjustable display pivot
-aspect ratio
-backlight technology
-brand name
-brightness
-builtin devices
-certifications  standards
-colour
-colour support
-component video
-composite video
-contrast ratio
-country of origin
-depth
-depth with stand
-display orientation
-displayport
-dvi
-energy consumption per year
-energy efficiency class
-features
-firewireilink
-green compliance certificateauthority
-green compliant
-hdcp supported
-hdmi
-headphone
-height
-height with stand
-horizontal frequency
-horizontal viewing angle
-input voltage
-limited warranty
-manufacturer
-manufacturer part number
-maximum adjustable height
-maximum resolution
-mount type
-network rj45
-number of screens
-number of speakers
-offmode power consumption
-operating power consumption
-package contents
-package type
-packaged quantity
-panel technology
-platform supported
-postconsumerwaste
-product line
-product model
-product name
-product series
-product type
-recycled
-recycled content
-response time
-screen mode
-screen size
-screen surface
-sdi
-sdi standard
-speakers
-standard refresh rate
-standby power consumption
-svideo
-swivel angle
-system requirements
-thunderbolt
-tilt angle
-usb
-usb standard
-vertical viewing angle
-vesa mount compatible
-vesa mount standard
-vga
-webcam
-weight approximate
-weight with stand approximate
-width
-width with stand
+<page title>: 571
+brand name: 571
+manufacturer: 571
+manufacturer part number: 571
+product name: 571
+product type: 571
+screen size: 571
+maximum resolution: 570
+number of screens: 570
+product model: 567
+brightness: 559
+contrast ratio: 555
+response time: 555
+screen mode: 554
+vertical viewing angle: 544
+horizontal viewing angle: 541
+aspect ratio: 531
+vga: 517
+backlight technology: 502
+operating power consumption: 490
+colour: 481
+green compliance certificateauthority: 480
+green compliant: 475
+colour support: 474
+weight approximate: 471
+dvi: 467
+width: 466
+height: 463
+adjustable display angle: 461
+depth: 461
+vesa mount compatible: 445
+input voltage: 434
+features: 417
+standby power consumption: 411
+vesa mount standard: 396
+standard refresh rate: 374
+platform supported: 362
+speakers: 349
+limited warranty: 332
+builtin devices: 324
+hdcp supported: 324
+depth with stand: 318
+adjustable display height: 317
+width with stand: 314
+height with stand: 313
+certifications  standards: 309
+package contents: 305
+hdmi: 292
+panel technology: 284
+adjustable display pivot: 279
+product line: 257
+product series: 247
+mount type: 231
+number of speakers: 227
+displayport: 222
+weight with stand approximate: 221
+offmode power consumption: 209
+usb: 195
+screen surface: 172
+tilt angle: 162
+headphone: 139
+usb standard: 135
+maximum adjustable height: 102
+swivel angle: 102
+display orientation: 70
+recycled: 68
+recycled content: 62
+composite video: 43
+network rj45: 38
+svideo: 36
+component video: 36
+energy consumption per year: 35
+energy efficiency class: 35
+webcam: 32
+postconsumerwaste: 29
+packaged quantity: 12
+horizontal frequency: 11
+sdi: 9
+sdi standard: 9
+additional information: 9
+3d type: 8
+thunderbolt: 6
+package type: 4
+firewireilink: 3
+system requirements: 3
+country of origin: 3

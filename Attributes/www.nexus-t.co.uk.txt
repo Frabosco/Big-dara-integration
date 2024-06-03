@@ -1,79 +1,79 @@
-<page title>
-aspect ratio
-audio
-audio outputs
-backlight
-brightness
-click image to enlarge
-colours
-compliance
-contrast ratio
-displayports
-displayports out
-dvid ports
-dynamic contrast ratio
-ean
-energy star
-gross weight
-hdmi ports
-headphone jacks
-height adjustment
-horizontal frequency range
-horizontal viewing angle
-input connector
-input power source
-keywords
-line in jacks
-manufacturer
-max resolution
-model number
-net weight
-normal power consumption
-operation environment
-package contents
-package height
-package length
-package type
-package width
-pivot
-pixel pitch
-product code
-product group
-product height
-product height without stand
-product length
-product length without stand
-product name
-product weight
-product weight without stand
-product width
-product width without stand
-recommend resolution
-response time
-royal mail compliance
-screen features
-screen size
-screen type
-speakers
-special features
-standby power consumption
-swivel lr
-tilt angle
-unit colour
-unit colour front
-unit colour rear
-unit colour stand
-upc
-usb 20 downstream ports
-usb 20 upstream ports
-usb 30 downstream ports
-usb 30 upstream ports
-vertical frequency range
-vertical viewing angle
-vga ports
-view angle
-viewable display area
-wall mount
-warranty direct with manufacturer
-web address
-web camera
+<page title>: 136
+gross weight: 136
+manufacturer: 136
+model number: 136
+package contents: 136
+package type: 136
+product code: 136
+product group: 136
+product name: 136
+warranty direct with manufacturer: 136
+web address: 136
+special features: 135
+brightness: 134
+input power source: 134
+response time: 134
+screen size: 134
+screen type: 134
+product height: 133
+product length: 133
+product width: 133
+backlight: 132
+keywords: 132
+unit colour front: 132
+unit colour rear: 132
+unit colour stand: 132
+aspect ratio: 131
+colours: 131
+horizontal viewing angle: 131
+pixel pitch: 131
+recommend resolution: 131
+vertical viewing angle: 131
+tilt angle: 130
+click image to enlarge: 128
+dynamic contrast ratio: 126
+ean: 126
+package height: 126
+package length: 126
+package width: 126
+royal mail compliance: 126
+normal power consumption: 125
+standby power consumption: 125
+vga ports: 122
+contrast ratio: 120
+wall mount: 118
+max resolution: 115
+net weight: 114
+compliance: 113
+dvid ports: 92
+energy star: 92
+vertical frequency range: 91
+horizontal frequency range: 90
+hdmi ports: 89
+speakers: 77
+screen features: 63
+product height without stand: 57
+product width without stand: 57
+audio: 56
+product length without stand: 56
+headphone jacks: 54
+upc: 53
+line in jacks: 52
+height adjustment: 48
+swivel lr: 48
+pivot: 44
+displayports: 43
+viewable display area: 41
+usb 20 downstream ports: 24
+usb 20 upstream ports: 23
+usb 30 downstream ports: 17
+usb 30 upstream ports: 17
+audio outputs: 11
+product weight: 7
+input connector: 6
+unit colour: 4
+web camera: 4
+operation environment: 4
+product weight without stand: 3
+view angle: 3
+displayports out: 3

@@ -1,101 +1,101 @@
-<page title>
-adjustable display angle
-adjustable display height
-adjustable display pivot
-antiglare
-aspect ratio
-assembly required
-backlight technology
-be comfortable
-brand name
-brightness
-builtin devices
-certifications  standards
-color
-color supported
-compatibility
-component video
-composite video
-contrast ratio
-country of origin
-customizable color
-depth
-depth with stand
-diagonal screen size
-dimensions
-display orientation
-displayport
-dvi
-ecolabel
-features
-full hd resolution
-hd compatible
-hdcp supported
-hdmi
-headphone jack
-height
-height with stand
-horizontal viewable angle
-input voltage
-integrated speakers
-item 
-manufacturer
-manufacturer 
-maximum resolution
-model name
-monitor brightness
-monitor color
-mount type
-multitouch screen
-native resolution
-network rj45
-number of screens
-number of speakers
-offmode power consumption
-operating power consumption
-panel technology
-pixel pitch
-platform supported
-postconsumer recycled content
-product line
-product name
-product series
-product type
-quantity
-recycled
-response time
-screen mode
-screen size
-screen surface
-screen type
-signal input type
-speakers
-standard refresh rate
-standby power consumption
-stay versatile
-superb performance
-svideo
-tilt angle
-total recycled content
-touchscreen
-touchscreen type
-tv tuner
-typical response time
-ultrawide viewing angle
-usb
-usb standard
-versatile connections
-vertical viewing angle
-vesa mount compatible
-vesa mount standard
-vga
-viewable image size
-viewing angle
-wall mountable
-warranty length
-webcam
-weight
-weight with stand approximate
-width
-width with stand
-work with ease stay entertained for hours
+<page title>: 235
+brand name: 235
+item : 235
+manufacturer: 235
+manufacturer : 235
+model name: 235
+maximum resolution: 233
+contrast ratio: 226
+product name: 211
+product type: 210
+aspect ratio: 204
+screen mode: 203
+screen size: 203
+response time: 198
+ecolabel: 196
+vga: 193
+viewing angle: 192
+vertical viewing angle: 191
+backlight technology: 189
+number of screens: 188
+brightness: 188
+weight: 177
+operating power consumption: 172
+warranty length: 170
+width: 170
+height: 168
+adjustable display angle: 167
+depth: 167
+color: 162
+dvi: 157
+vesa mount compatible: 149
+standby power consumption: 136
+vesa mount standard: 135
+standard refresh rate: 132
+color supported: 131
+input voltage: 126
+platform supported: 122
+certifications  standards: 119
+hdcp supported: 118
+height with stand: 114
+width with stand: 114
+depth with stand: 113
+features: 109
+product series: 107
+speakers: 107
+mount type: 98
+builtin devices: 94
+screen surface: 92
+weight with stand approximate: 88
+adjustable display height: 81
+hdmi: 74
+adjustable display pivot: 73
+usb: 66
+displayport: 65
+panel technology: 64
+offmode power consumption: 62
+product line: 61
+number of speakers: 49
+diagonal screen size: 32
+total recycled content: 32
+usb standard: 32
+headphone jack: 32
+monitor brightness: 29
+postconsumer recycled content: 27
+dimensions: 24
+hd compatible: 24
+integrated speakers: 24
+tv tuner: 24
+viewable image size: 24
+wall mountable: 24
+monitor color: 23
+pixel pitch: 23
+screen type: 23
+signal input type: 22
+typical response time: 22
+touchscreen type: 22
+touchscreen: 22
+horizontal viewable angle: 21
+native resolution: 21
+country of origin: 20
+antiglare: 20
+display orientation: 12
+quantity: 12
+multitouch screen: 12
+recycled: 11
+composite video: 7
+network rj45: 6
+compatibility: 5
+component video: 5
+assembly required: 4
+webcam: 4
+svideo: 4
+tilt angle: 4
+be comfortable: 3
+customizable color: 3
+full hd resolution: 3
+stay versatile: 3
+superb performance: 3
+ultrawide viewing angle: 3
+versatile connections: 3
+work with ease stay entertained for hours: 3
