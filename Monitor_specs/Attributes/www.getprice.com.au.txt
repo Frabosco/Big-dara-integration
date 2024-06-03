@@ -1,0 +1,6 @@
+<page title>
+display resolution
+monitor size
+monitor type
+response time
+speakers

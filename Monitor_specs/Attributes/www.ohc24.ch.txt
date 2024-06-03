@@ -1,0 +1,55 @@
+3d capable
+<page title>
+aspect ratio
+brightness
+builtin devices
+bundled with
+character resolution
+colour
+colour support
+compliant standards
+contrast ratio
+designed for
+device type
+diagonal size
+diagonal size cm
+digital tv tuner
+dimensions wxdxh
+display format
+display position adjustments
+energy class
+energy consumption per year
+environmental standards
+features
+hdcp compatible
+hdmi ports qty
+height rack units
+image aspect ratio
+input connectors
+kvm switch
+lcd backlight technology
+localisation
+manufacturer selling program
+manufacturer warranty
+microsoft certification
+native resolution
+panel type
+pc interface
+pixel pitch
+power
+power consumption operational
+product description
+product type
+remote control
+resolution
+response time
+screen coating
+speaker system
+speakers
+targeting
+technology
+tv tuner
+usb port
+video interface
+video wall components qty
+weight

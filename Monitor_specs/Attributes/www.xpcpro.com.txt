@@ -1,0 +1,200 @@
+3d compatibility
+<page title>
+ac adapter included
+ac power in
+annual energy consumption
+anschlüsse
+aspect ratio
+audio input
+audio output
+auflösung empfohlen
+backlight type
+bezel width bottom
+bezel width side
+bezel width top
+bildformat
+blickwinkel horizontal
+blickwinkel vertikal
+bluetooth
+builtin camera
+builtin microphone
+builtin speakers
+builtin subwoofer
+cable lock slot
+cables included
+camera included
+card reader integrated
+certification
+colour
+colour of product
+common interface ci
+common interface plus ci
+compatible memory cards
+compatible with vesawall mounting system
+compliance industry standards
+composite sync
+composite video in
+connection to pc
+contrast ratio dynamic
+contrast ratio typical
+dcin jack
+depth
+depth with stand
+digital horizontal frequency
+digital vertical frequency
+dimensions w x d x h
+dimensions w x d x h with stand
+display
+display brightness
+display diagonal
+display diagonal metric
+display number of colours
+display resolution
+display srgb
+display surface
+display technology
+display type
+display viewable area hxv
+displaygröße
+displayports quantity
+dvi port
+dvid ports quantity
+dvii ports quantity
+effective viewing area
+eigenschaften
+electromagnetic compatibility
+energy efficiency class
+energy star certified
+epeat compliance
+ethernet lan
+ethernet lan connection
+farbe allgemein
+farbe herstellerspezifisch
+feet colour
+full hd
+gewicht netto
+glossy display
+handheld remote control
+hd type
+hdcp
+hdmi
+hdmi ports quantity
+hdready
+headphone connectivity
+headphone out
+headphone outputs
+height
+height adjustment
+height with stand
+helligkeitleuchtstärke
+horizontal scan range
+input frequency
+input voltage
+io ports
+kontrastverhältnis
+lcd paneltechnologie bzw tm 
+led backlight
+led indicators
+linux operating systems supported
+mac operating systems supported
+manual
+maximum resolution
+mean time between failures mtbf
+megapixel
+microphone in
+mobile highdefinition link mhl
+netzteil
+nonoperating altitude
+number of colours
+number of loudspeakers
+number of osd languages
+number of products included
+on screen display osd
+on screen display osd languages
+onoff switch
+operating altitude
+operating relative humidity hh
+operating relative humidity range
+operating temperature range tt
+operating temperature tt
+package dimensions wxdxh
+package weight
+packaging depth
+packaging height
+packaging width
+pc audio in
+picture enhancement
+pictureinpicture
+pivot
+pivot angle
+pixel pitch
+placement supported
+plug and play
+power consumption
+power consumption active
+power consumption average
+power consumption economy mode
+power consumption max
+power consumption off
+power consumption powersave
+power consumption standby
+power consumption typical
+power cord included
+power led
+power requirements
+product type
+prüfzeichenzertifikatezulassungen
+quantity
+quick start guide
+reaktionszeit
+relative humidity
+response time
+rms rated power
+rotating
+safety
+screen saving functions
+separate hv sync
+signalart
+standby led
+storage relative humidity hh
+storage relative humidity range
+storage temperature range tt
+storage temperature tt
+strahlungsnorm
+supported graphics resolutions
+supported video modes
+svideo in
+svideo inputs quantity
+swivel
+swivel angle
+swivel angle range
+swivel webcam
+swivelling
+syncongreen sog
+thin client installed
+tilt adjustment
+tilt angle
+tv tuner integrated
+usb 20 ports quantity
+usb 30 ports quantity
+usb powered
+user guide on cdrom
+vertical scan range
+vesa bohrung
+vesa mounting interfaces compatibility
+vga dsub ports quantity
+video dot rate
+viewable size diagonal
+viewable size horizontal
+viewable size vertical
+viewing angle horizontal
+viewing angle vertical
+volume control
+wall mountable
+weight
+weight with stand
+width
+width with stand
+wifi
+windows operating systems supported
+wireless lan connection

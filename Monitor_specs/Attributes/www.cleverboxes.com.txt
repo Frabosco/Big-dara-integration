@@ -1,0 +1,134 @@
+1024 x 768 graphic mode
+1152 x 864 mac graphic mode
+1280 x 1024 graphic mode
+1280 x 768 graphic mode
+1400 x 900 graphic mode
+1440 x 900 graphic mode
+1680 x 1050 graphic mode
+1920 x 1080 graphic mode
+1920 x 1200 graphic mode
+640 x 350 graphic mode
+640 x 480 graphic mode
+720 x 400 text graphic mode
+800 x 600 graphic mode
+<page title>
+ac power
+adjustable display angle
+antiglare  antistatic
+aspect ratio
+audio capabilities
+audio features
+audio line in ports
+audio line out ports
+audiovisual port
+backlight
+backlight technology
+barcode
+bnc port
+brand name
+brightness
+builtin devices
+case colour
+certifications
+colour
+colour support
+contrast ratio
+dc power
+depth
+description
+digital in
+digital out
+dimensions
+display type
+displayport in
+dvi
+environmental
+factory presets
+green compliance
+green compliance certificateauthority
+hd support
+hdcp support
+hdmi
+hdmi ports
+headphone ports
+height
+height adjustable
+horizontal viewing angle
+in the box
+input voltage
+language selection
+lifetime
+manufacturer
+manufacturer part number
+manufacturer website address
+marketing information
+maximum resolution
+maximum response time
+microphone in port
+model name
+monitor
+mount type
+network interface
+number of screens
+offmode power consumption
+operating power consumption
+operating systems supported
+package contents
+pivot
+pixel clock speed
+pixel pitch
+platform support
+plug and play
+power adaptor output voltage
+power adaptor type
+power consumption
+power management features
+power supply
+product family
+product model
+product name
+product series
+product type
+remote control
+resolution maximum
+resolution native
+response time
+rj45 ports
+scan frequency
+scan frequency horizontal
+scan frequency vertical
+scart ports
+screen dimensions
+screen mode
+screen size
+screen type
+security locking mechanics
+serial ports
+speakers
+standby power consumption
+svideo
+svideo in
+swivel
+synch input
+system requirements
+tilt forwardbackward
+usb ports
+user controls
+user programmable modes
+vertical viewing angle
+vesa mount compatible
+vesa mount standard
+vga
+vga in
+video bandwidth
+video component in
+video component out
+video composite in
+video composite out
+view angle
+voltagefrequency
+wall mount
+warranty
+webcam
+weight approximate
+width

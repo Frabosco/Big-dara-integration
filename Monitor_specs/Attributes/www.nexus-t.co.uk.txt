@@ -1,0 +1,79 @@
+<page title>
+aspect ratio
+audio
+audio outputs
+backlight
+brightness
+click image to enlarge
+colours
+compliance
+contrast ratio
+displayports
+displayports out
+dvid ports
+dynamic contrast ratio
+ean
+energy star
+gross weight
+hdmi ports
+headphone jacks
+height adjustment
+horizontal frequency range
+horizontal viewing angle
+input connector
+input power source
+keywords
+line in jacks
+manufacturer
+max resolution
+model number
+net weight
+normal power consumption
+operation environment
+package contents
+package height
+package length
+package type
+package width
+pivot
+pixel pitch
+product code
+product group
+product height
+product height without stand
+product length
+product length without stand
+product name
+product weight
+product weight without stand
+product width
+product width without stand
+recommend resolution
+response time
+royal mail compliance
+screen features
+screen size
+screen type
+speakers
+special features
+standby power consumption
+swivel lr
+tilt angle
+unit colour
+unit colour front
+unit colour rear
+unit colour stand
+upc
+usb 20 downstream ports
+usb 20 upstream ports
+usb 30 downstream ports
+usb 30 upstream ports
+vertical frequency range
+vertical viewing angle
+vga ports
+view angle
+viewable display area
+wall mount
+warranty direct with manufacturer
+web address
+web camera

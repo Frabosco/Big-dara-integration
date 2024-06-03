@@ -1,0 +1,193 @@
+<page title>
+ac power in
+adattatore acdc
+alimentazione
+altezza
+altezza con supporto
+altezza imballo
+altoparlante  cuffia  spinotto di uscita
+altoparlanti
+altoparlanti incorporati
+angolo di inclinazione
+angolo di rotazione
+angolo di visione orizzontale
+angolo di visione verticale
+angolo di visualizzazione orizzontale
+angolo di visualizzazione verticale
+area di visualizzazione effettiva
+blocco cavo
+bluetooth
+caratteristiche
+caratteristiche sicurezza
+cavi inclusi
+cavo alimentazione incluso
+certificato energy star
+certificazione
+certificazione energy star
+classe efficienza energetica
+collegamento ethernet lan
+colore
+colore del prodotto
+colore piedi
+colori del display
+colori display
+comandi  regolazioni
+common interface plus ci
+compatibile con montaggio vesa
+compatibilità 3d
+compatibilità elettromagnetica
+compatibilità sistema operativo mac
+composite sync
+conforme agli standard
+conformità epeat
+connessione cuffia
+connessione wlan
+connettori di ingresso
+consumi
+consumi modalità risparmio energetico
+consumi modalità spento
+consumi modalità standby
+consumo energetico annuo
+consumo energetico in standby
+consumo energetico max
+controllo del volume
+copertura schermo
+dcin jack
+descrizione prodotto
+dettagli dimensioni e peso
+dimensione visibile diagonale
+dimensione visibile orizzontale
+dimensione visibile verticale
+dimensioni imballo lxpxa
+dimensioni lxpxa
+dimensioni lxpxa con base
+dimensioni lxpxh
+dimensioni schermo
+display surface
+dot pitch
+dot rate video
+formato
+fotocamera integrata
+frequenza di ingresso
+frequenza scansione orizzontale
+frequenza scansione verticale
+full hd
+funzione risparmio
+girevole
+guida rapida
+guida utente su cdrom
+hdcp
+hdmi
+inclinazione
+inclinazione regolabile
+indicatore led alimentazione
+indicatori led
+ingresso audio
+ingresso audio per pc
+interfacce
+interfaccia comune
+interfaccia di montaggio schermo piatto
+interruttore integrato
+intervallo di scansione verticale
+intervallo di temperatura
+intervallo temperatura di funzionamento
+larghezza
+larghezza con supporto
+larghezza imballo
+led standby
+lettore di schede integrato
+lingue osd
+luminosità
+luminosità schermo
+lunghezza cavo
+lunghezza diagonale
+manuale dellutente
+megapixel
+microfono incorporato
+microfono spinotto dingresso
+mobile highdefinition link mhl
+modalità video supportate
+montabile a parete
+mtbf
+number of simultaneous touchpoints windows 7
+numero di altoparlanti
+numero di lingue osd
+numero di prodotti inclusi
+on screen display osd
+peso
+peso incluso imballo
+peso prodotto con supporto
+pictureinpicture
+pivot angle
+pixel pitch
+plug  play
+porta dvi
+porta rs232
+porta usb
+posizionamento supportato
+potenza assorbita in esercizio
+potenza di uscita  canale
+potenza in uscita rms
+profondità
+profondità con supporto
+profondità imballo
+protezione per i bambini
+quantità
+quantità displayports
+quantità porte dvid
+quantità porte hdmi
+quantità porte thunderbolt
+quantità porte usb 20
+quantità porte usb 30
+quantità porte vga dsub
+range di scansione orizzontale
+range di umidità di funzionamento
+rapporto daspetto
+rapporto di contrasto
+rapporto di contrasto dinamico
+regolazione altezza
+regolazione posizione display
+regolazioni formato schermo
+retroilluminazione a led
+risoluzione
+risoluzione massima
+risoluzione nativa
+risoluzioni grafiche supportate
+rotazione
+schermo srgb
+sicurezza
+sintonizzatore tv integrato
+sistema operativo linux supportato
+sistema operativo windows supportato
+source datasheet
+standard ambientali
+standard di conformità
+subwoofer incorporato
+supporto colore
+sync hv separato
+syncongreen sog
+tecnologia display
+tecnologia retroilluminazione
+tecnologia touchscreen
+telecomando
+tempo di risposta
+tensione richiesta
+thin client installato
+tipi schede di memoria
+tipo
+tipo alimentazione
+tipo di display
+tipo di dispositivo
+tipo di prodotto
+tipo di schermo
+tipo schermo
+tipologia di retroilluminazione
+tipologia display
+tipologia hd
+tipologia touch screen
+umidità
+uscita audio
+velocità refresh orizzontale
+velocità refresh verticale
+voltaggio di ingresso
+webcam girevole

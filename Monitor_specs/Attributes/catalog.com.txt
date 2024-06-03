@@ -1,0 +1,15 @@
+<page title>
+aspect ratio
+color support
+contrast ratio
+display technology
+max resolution
+max viewing angle horizontal
+max viewing angle vertical
+product features
+product line
+refresh rate
+regulatory approval
+synchronization range  horizontal
+synchronization range  vertical
+system

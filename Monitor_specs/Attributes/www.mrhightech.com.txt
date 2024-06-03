@@ -1,0 +1,152 @@
+3d compatibility
+<page title>
+ac adapter included
+ac power in
+analog signal format system
+aspect ratio
+audio input
+audio output
+backlight type
+bezel width side
+bluetooth
+builtin camera
+builtin microphone
+builtin speakers
+builtin subwoofer
+cable lock slot
+cables included
+card reader integrated
+certification
+colour of product
+common interface ci
+common interface plus ci
+compatible memory cards
+compliance industry standards
+component video ypbprycbcr in
+composite sync
+composite video in
+contrast ratio dynamic
+contrast ratio typical
+dcin jack
+depth
+depth with stand
+digital horizontal frequency
+digital vertical frequency
+dimensions w x d x h with stand
+dimensions wxdxh
+display
+display brightness
+display diagonal
+display diagonal metric
+display number of colours
+display resolution
+display srgb
+display surface
+display technology
+display viewable area hxv
+displayports quantity
+dvi port
+dvid ports quantity
+dvii ports quantity
+effective viewing area
+energy efficiency class
+energy star certified
+epeat compliance
+ethernet lan
+feet colour
+handheld remote control
+hd type
+hdcp
+hdmi
+hdmi ports quantity
+headphone connectivity
+headphone out
+height
+height adjustment
+height with stand
+horizontal scan range
+input frequency
+input voltage
+led indicators
+linux operating systems supported
+mac operating systems supported
+manual
+maximum resolution
+mean time between failures mtbf
+microphone in
+mobile highdefinition link mhl
+nonoperating altitude
+number of loudspeakers
+number of osd languages
+number of products included
+on screen display osd
+on screen display osd languages
+onoff switch
+operating altitude
+operating relative humidity hh
+operating temperature tt
+package dimensions wxdxh
+package weight
+packaging depth
+packaging height
+packaging width
+pc audio in
+picture enhancement
+pictureinpicture
+pivot
+pivot angle
+pixel pitch
+placement supported
+plug and play
+power consumption max
+power consumption off
+power consumption powersave
+power consumption standby
+power consumption typical
+power cord included
+power led
+power requirements
+product type
+quantity
+quick start guide
+relative humidity
+response time
+rms rated power
+rs232 ports
+safety
+screen format adjustments
+screen saving functions
+separate hv sync
+source datasheet
+standby led
+storage relative humidity hh
+storage temperature tt
+supported graphics resolutions
+supported video modes
+svideo inputs quantity
+swivel angle range
+swivelling
+syncongreen sog
+thin client installed
+tilt adjustment
+tilt angle
+tv tuner integrated
+usb 20 ports quantity
+usb 30 ports quantity
+vertical scan range
+vesa mounting interfaces compatibility
+vga dsub ports quantity
+video dot rate
+viewable size diagonal
+viewable size horizontal
+viewable size vertical
+viewing angle horizontal
+viewing angle vertical
+volume control
+wall mountable
+weight
+weight with stand
+width
+width with stand
+wifi
+windows operating systems supported

@@ -1,0 +1,86 @@
+3d type
+<page title>
+additional information
+adjustable display angle
+adjustable display height
+adjustable display pivot
+aspect ratio
+backlight technology
+brand name
+brightness
+builtin devices
+certifications  standards
+colour
+colour support
+component video
+composite video
+contrast ratio
+country of origin
+depth
+depth with stand
+display orientation
+displayport
+dvi
+energy consumption per year
+energy efficiency class
+features
+firewireilink
+green compliance certificateauthority
+green compliant
+hdcp supported
+hdmi
+headphone
+height
+height with stand
+horizontal frequency
+horizontal viewing angle
+input voltage
+limited warranty
+manufacturer
+manufacturer part number
+maximum adjustable height
+maximum resolution
+mount type
+network rj45
+number of screens
+number of speakers
+offmode power consumption
+operating power consumption
+package contents
+package type
+packaged quantity
+panel technology
+platform supported
+postconsumerwaste
+product line
+product model
+product name
+product series
+product type
+recycled
+recycled content
+response time
+screen mode
+screen size
+screen surface
+sdi
+sdi standard
+speakers
+standard refresh rate
+standby power consumption
+svideo
+swivel angle
+system requirements
+thunderbolt
+tilt angle
+usb
+usb standard
+vertical viewing angle
+vesa mount compatible
+vesa mount standard
+vga
+webcam
+weight approximate
+weight with stand approximate
+width
+width with stand

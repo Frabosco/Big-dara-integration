@@ -1,0 +1,210 @@
+<page title>
+ac power in
+adattatore acdc
+alimentazione
+altezza
+altezza con supporto
+altezza imballo
+altitudine di funzionamento
+altitudine di nonfunzionamento
+altoparlante  cuffia  spinotto di uscita
+altoparlanti incorporati
+altre caratteristiche
+altre caratteristiche quantità 1 source datasheet
+altre caratteristiche source datasheet
+angolo di rotazione
+angolo di visualizzazione orizzontale
+angolo di visualizzazione verticale
+angolo visuale
+area di visualizzazione effettiva
+blocco cavo
+bluetooth
+cable lock slot type
+capacità totale hard disk
+cavi inclusi
+cavo alimentazione incluso
+certificati di sicurezza
+certificati di sicurezza certificazione energy star si
+certificazione
+certificazione energy star
+classe efficienza energetica
+collegamento ethernet lan
+colore
+colore del piede
+colore del prodotto
+colori del display
+common interface plus ci
+compatibile con montaggio vesa
+compatibilità 3d
+compatibilità elettromagnetica
+compatibilità sistema operativo mac
+condizioni ambientali
+conforme agli standard
+conformità epeat
+connessione cuffia
+connessione wlan
+connessioni audio
+consumi
+consumi modalità attivo
+consumi modalità risparmio energetico
+consumi modalità spento
+consumi modalità standby
+consumo energetico max
+consumo energia modalità economica
+contenuto dellimballo cavi inclusi ac vga
+controllo del volume
+convenienza
+dcin jack
+design colore del prodotto nero
+dimensione visibile diagonale
+dimensione visibile orizzontale
+dimensione visibile verticale
+dimensioni altoparlante centrale l x a x p
+dimensioni imballo lxpxa
+dimensioni lxpxa
+dimensioni lxpxa con base
+dimensioni schermo
+dimensioni schermo cm
+display surface
+dot pitch
+dot rate video
+famiglia processore
+formato
+fotocamera integrata
+frequenza di ingresso
+frequenza scansione orizzontale
+frequenza scansione verticale
+full hd
+funzione risparmio
+girevole
+guida rapida
+guida utente su cdrom
+hdcp
+hdmi
+inclinazione
+inclinazione regolabile
+indicatore led alimentazione
+indicatori led
+ingresso audio
+ingresso audio per pc
+ingresso segnale
+intel antitheft technology
+intel hyperthreading technology
+intel identity protection technology
+intel my wifi technology
+intel rapid start technology
+intel small business advantage sba
+intel smart connect technology
+intel smart response technology
+intel turbo boost technology
+intel visual technologies
+intel vpro technology
+intel wireless display technology
+interfaccia comune
+interruttore integrato
+intervallo di scansione verticale
+intervallo di temperatura
+intervallo temperatura di funzionamento
+larghezza
+larghezza con supporto
+larghezza imballo
+led standby
+lettore di schede integrato
+lingue osd
+luminosità schermo
+lunghezza cavo
+manuale dellutente
+materiale riciclabile
+materiali della confezione riciclabili
+megapixel
+megapixel totali
+mhl specification
+microfono incorporato
+microfono spinotto dingresso
+miglioramento dellimmagine
+mobile highdefinition link mhl
+modalità video supportate
+montabile a parete
+mouse incluso
+mtbf
+networking connessione wlan n collegamento ethernet lan n
+numero di altoparlanti
+numero di core del processore
+numero di lingue osd
+numero di prodotti inclusi
+on screen display osd
+performance
+peso
+peso contenzione inclusa
+peso incluso imballo
+peso prodotto con supporto
+peso schermo con supporto
+pictureinpicture
+pivot angle
+plug  play
+porta dvi
+posizionamento supportato
+potenza in uscita rms
+processore
+prodotto senza piedistallo kg
+profondità
+profondità con supporto
+profondità imballo
+quantità
+quantità displayports
+quantità porte dvid
+quantità porte ethernet lan rj45
+quantità porte hdmi
+quantità porte usb 20
+quantità porte usb 30
+quantità porte vga dsub
+ram installata
+range di scansione orizzontale
+range di umidità di funzionamento
+rapporto di contrasto
+rapporto di contrasto dinamico
+regolazione altezza
+regulatory approvals
+retroilluminazione a led
+risoluzione
+risoluzione consigliata
+risoluzione massima
+risoluzioni grafiche supportate
+rotazione
+schermo srgb
+segnale ingresso sincronizz video
+sicurezza
+sintonizzatore tv integrato
+sistema operativo incluso
+sistema operativo linux supportato
+sistema operativo windows supportato
+smartcontrast
+smartresponse
+source datasheet
+specificazioni ambientali
+subwoofer incorporato
+supporto di memoria
+supporto lingue
+sync hv separato
+syncongreen sog
+tecnologia display
+tecnologia touch
+tempo di risposta
+thin client
+thin client installato
+thin client thin client installato n
+thin client thin client installato no
+tipi schede di memoria
+tipo di prodotto
+tipo di ram
+tipologia di retroilluminazione
+tipologia display
+tipologia hd
+touch screen
+umidità
+umidità relativa
+uscita audio
+velocità processore
+voltaggio di ingresso
+webcam girevole
+wifi

@@ -1,0 +1,51 @@
+<page title>
+actual weight
+attributes
+brightness lumens
+brightness nitscdm2
+color
+color support
+compatibility notes
+compliant standards
+connector
+connector type
+contents
+contrast ratio
+diagonal size
+digital video standard
+display position adjustments
+display size
+display technology
+display type
+dot pitch
+energy star qualified
+energy star version
+form factor
+horizontal frequency khz
+image aspect ratio
+image brightness
+image size max
+image size min
+internal resolution max
+lamp type
+native resolution
+os notes
+physical dimensions
+portsconnectors
+power notes
+product type
+projector type
+refurbished type
+resolution modes
+response timerate
+returns policy
+screen distance min
+speakers included
+system requirements
+target use
+vertical frequency hz
+viewing angle hv degrees
+warranty  labor
+warranty  parts
+warranty details
+weight

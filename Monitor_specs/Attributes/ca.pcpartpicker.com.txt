@@ -1,0 +1,25 @@
+<page title>
+aspect ratio
+brightness
+builtin speakers
+component
+contrast ratio
+display colors
+displayport
+dvi
+dvid duallink
+hdmi
+ips
+led
+manufacturer
+minidisplay port
+model
+part
+recommended resolution
+refresh rate
+response time
+screen size
+svideo
+vga
+viewing angle
+widescreen

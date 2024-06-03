@@ -1,0 +1,162 @@
+<page title>
+active screen area
+analogue video input signals
+analogue video signal
+aspect ratio
+backlight life
+backlight technology
+backlight type
+brightness
+brightness maximum
+brightness typical
+brightness wtouchscreen
+builtin devices
+cables included
+certified for windows vista
+colour
+colour depth
+colour support
+colour temperature
+colour temperature control
+combined with
+compatible with windows 7
+compliant standards
+connectivity
+connector type
+contrast ratio
+contrast ratio typical
+controls  adjustments
+depth
+depth shipping
+description technical detail
+device type
+diagonal size
+diagonal size cm
+dimensions
+dimensions  weight details
+dimensions w x h x d
+dimensions wxdxh
+display format
+display position adjustments
+display positions adjustments
+display type
+displayable colors
+dot pitch
+dot pitch  pixel pitch
+enclosure colour
+energy class
+energy star qualified
+energy star version
+environmental standards
+epeat compliant
+expansion slots
+external speakers amplifier power total
+features
+flat panel mount interface
+form factor
+hdcp compatible
+hdmi ports qty
+height
+height adjustment
+height shipping
+horizontal frequency
+horizontal refresh rate
+horizontal viewing angle
+humidity range operating
+image aspect ratio
+image brightness
+image colour disclaimer
+image contrast ratio
+image max hview angle
+image max vview angle
+included accessories
+included software
+input connectors
+input video formats
+interfaces
+lan protocol
+lcd backlight technology
+lcd display technology
+localisation
+manufacturer
+manufacturer part 
+manufacturer warranty
+max hsync rate
+max operating temperature
+max resolution
+max sync rate v x h
+max vsync rate
+microsoft certification
+min operating temperature
+motion enhancement technology
+mounting kit
+movement detection technology
+mtbf
+native maximum resolution
+native resolution
+net with stand
+net without stand
+nominal voltage
+orientation
+os required
+osd languages
+output power  channel
+output power  total
+panel technology
+panel type
+pc interface
+pixel per inch
+pixel pitch
+pixels per inch
+power
+power consumption
+power consumption operational
+power consumption sleep
+power consumption stand by
+power consumption stand by  sleep
+power device
+power supply
+product description
+product type
+refresh rate
+remote control
+resolution
+response time
+response timegray to gray
+rotation angle
+screen coating
+series
+service  support
+service  support details
+signal input
+sound output mode
+speaker system
+speakers
+stand
+supported computer resolutions
+supported pictures formats
+supported windows 7 features
+swivel angle
+targeting
+technology
+tilt angle
+tv tuner
+type
+usb port
+vertical frequency
+vertical refresh rate
+vertical viewing angle
+video bandwidth
+video interface
+video wall components qty
+viewable area
+viewable image size
+viewable size
+viewing angle
+viewing angle leftright updown
+viewing angle vertical
+voltage required
+weight
+weight shipping
+width
+width shipping

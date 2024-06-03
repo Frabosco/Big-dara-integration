@@ -1,0 +1,211 @@
+3d compatibility
+<page title>
+ac adapter included
+ac power in
+active display area w x h
+annual energy consumption
+aspect ratio
+audio input
+audio output
+audio system
+backlight type
+bezel width bottom
+bezel width side
+bezel width top
+bluetooth
+builtin camera
+builtin microphone
+builtin speakers
+builtin subwoofer
+cable length
+cable lock slot
+cables included
+camera included
+card reader integrated
+certification
+child lock
+color gamut
+colour of product
+common interface ci
+common interface plus ci
+compatibility
+compatible memory cards
+compatible operating systems
+compliance industry standards
+component video ypbprycbcr in
+composite sync
+composite video in
+connection to pc
+contrast ratio dynamic
+contrast ratio typical
+current rating
+dcin jack
+depth
+depth max
+depth with stand
+digital horizontal frequency
+digital vertical frequency
+dimensions w x d x h with stand
+dimensions wxdxh
+display
+display brightness
+display diagonal
+display diagonal metric
+display number of colours
+display resolution
+display srgb
+display surface
+display technology
+display type
+display viewable area hxv
+displayports quantity
+dvi port
+dvid ports quantity
+effective viewing area
+electromagnetic compatibility
+energy efficiency class
+energy star certified
+epeat compliance
+ethernet lan
+ethernet lan data rates
+ethernet lan rj45 ports
+feet colour
+full hd
+glass thickness
+glossy display
+handheld remote control
+hd type
+hdcp
+hdmi
+hdmi ports quantity
+hdready
+headphone connectivity
+headphone out
+headphone outputs
+height
+height adjustment
+height adjustment range
+height max
+height with stand
+horizontal scan range
+input current
+input frequency
+input voltage
+interface type
+led backlight
+led indicators
+linux operating systems supported
+mac operating systems supported
+manual
+maximum analog resolution
+maximum resolution
+maximum screen size compatibility
+maximum weight capacity
+mean time between failures mtbf
+megapixel
+microphone in
+mini displayport quantity
+minimum screen size compatibility
+mobile highdefinition link mhl
+mounting interface
+native resolution
+nonoperating altitude
+number of colours
+number of displays supported
+number of loudspeakers
+number of osd languages
+number of products included
+number of simultaneous touchpoints windows 7
+omnitapps multitouch compatibility
+on screen display osd
+on screen display osd languages
+onoff switch
+operating altitude
+operating relative humidity hh
+operating temperature tt
+package dimensions wxdxh
+package weight
+packaging depth
+packaging height
+packaging width
+pan range
+pc audio in
+picture enhancement
+pictureinpicture
+pivot
+pivot angle
+pixel pitch
+placement supported
+plug and play
+power consumption active
+power consumption average
+power consumption max
+power consumption off
+power consumption powersave
+power consumption standby
+power consumption typical
+power cord included
+power led
+power requirements
+power supply type
+product type
+quantity
+quick start guide
+recyclable material
+relative humidity
+response time
+rms rated power
+rohs compliance
+rotating
+rotation
+rs232 ports
+safety
+screen format adjustments
+screen saving functions
+screen size compatibility
+security features
+separate hv sync
+speakers
+standby led
+storage relative humidity hh
+storage temperature tt
+supported graphics resolutions
+supported video modes
+swivel angle
+swivel angle range
+swivel webcam
+swivelling
+syncongreen sog
+thin client installed
+tilt adjustment
+tilt angle
+touch screen type
+touch sensitive screen
+touchscreen technology
+tv tuner integrated
+usb 20 ports quantity
+usb 30 ports quantity
+usb powered
+usb required
+usb version
+user guide on cdrom
+vertical scan range
+vesa mounting interfaces compatibility
+vga dsub input ports
+vga dsub ports quantity
+video dot rate
+viewable size diagonal
+viewable size horizontal
+viewable size vertical
+viewing angle
+viewing angle horizontal
+viewing angle vertical
+voltage tolerance
+volume control
+wall mountable
+weight
+weight with stand
+width
+width with stand
+wifi
+windows operating systems supported
