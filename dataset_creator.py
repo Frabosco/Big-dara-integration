@@ -3,6 +3,7 @@ import json
 
 cur_path = os.getcwd()
 
+# Read all the json files and convert them
 def read_json_files_and_create(folder_path):
 
     with open(cur_path + "/Mediated_schema/mediated_schema.json", 'r') as mediated_schema:
