@@ -1,4 +1,5 @@
 import os
+import re
 import json
 
 cur_path = os.getcwd()
@@ -33,7 +34,11 @@ def create_schema_mapping_from_data(mediated_schema, data):
         else:
             for mediated_key, mediated_value in mediated_schema.items():
                 if key in mediated_value:
-                    converted_dict[mediated_key] = value
+                    # Sometimes happen that we have a list instead of a single item
+                    if type(value) == list:
+                        converted_dict[mediated_key] = value[0] # Take the first elem. of the list
+                    else:
+                        converted_dict[mediated_key] = value
             
     return converted_dict
 
@@ -48,7 +53,6 @@ def main():
     folder_path = "Monitor_specs"
     # Read all json files
     schema_mapping = read_json_files_and_create(folder_path)
-    # Convert every attribute of every json file in Monitor_specs into the mediated schema
     
     output_path = os.path.join(cur_path, "prova.json")
     with open(output_path, 'w') as output_file:
