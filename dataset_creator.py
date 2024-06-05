@@ -3,11 +3,13 @@ import re
 import json
 
 cur_path = os.getcwd()
+MEDIATED_SCHEMA = "/Mediated_schema/mediated_schema.json"
+folder_path = "Monitor_specs"
 
 # Read all the json files and convert them
 def read_json_files_and_create(folder_path):
 
-    with open(cur_path + "/Mediated_schema/mediated_schema.json", 'r') as mediated_schema:
+    with open(cur_path + MEDIATED_SCHEMA, 'r') as mediated_schema:
         mediated_schema = json.load(mediated_schema)
     
     schema_mapping = []
@@ -50,7 +52,6 @@ def value_exist_in_json(data, value):
     return False
 
 def main():
-    folder_path = "Monitor_specs"
     # Read all json files
     schema_mapping = read_json_files_and_create(folder_path)
     
