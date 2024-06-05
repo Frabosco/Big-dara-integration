@@ -60,7 +60,7 @@ def decode_unicode_escapes(data):
     elif isinstance(data, dict):
         return {key: decode_unicode_escapes(value) for key, value in data.items()}
     elif isinstance(data, list):
-        return [decode_unicode_escapes(element) for element in data]
+         return decode_unicode_escapes(data[0]) if data else None
     else:
         return data
 
