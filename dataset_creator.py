@@ -17,9 +17,10 @@ def read_json_files_and_create(folder_path):
         for file in files:
             if file.endswith(".json"):
                 file_path = os.path.join(root, file)
-                with open(file_path, 'r') as json_file:
+                with open(file_path, 'r', encoding='utf-8') as json_file:
                         data = json.load(json_file)
-                        schema_mapping.append(create_schema_mapping_from_data(mediated_schema, data))
+                        decoded_data = decode_unicode_escapes(data)
+                        schema_mapping.append(create_schema_mapping_from_data(mediated_schema, decoded_data))
 
     return schema_mapping
 
@@ -44,6 +45,25 @@ def create_schema_mapping_from_data(mediated_schema, data):
             
     return converted_dict
 
+# Function to replace Unicode escape sequences
+def decode_unicode_escapes(data):
+    # Regular expression to find Unicode escape sequences
+    unicode_escape_pattern = re.compile(r'\\u([0-9a-fA-F]{4})')
+
+    # Function to replace the matched escape sequence with the corresponding character
+    def replace_match(match):
+        return chr(int(match.group(1), 16))
+
+    # Recursively replace Unicode escapes in strings, dictionaries, and lists
+    if isinstance(data, str):
+        return unicode_escape_pattern.sub(replace_match, data)
+    elif isinstance(data, dict):
+        return {key: decode_unicode_escapes(value) for key, value in data.items()}
+    elif isinstance(data, list):
+        return [decode_unicode_escapes(element) for element in data]
+    else:
+        return data
+
 def value_exist_in_json(data, value):
     for key in data.keys():
         for val in key:
@@ -55,9 +75,9 @@ def main():
     # Read all json files
     schema_mapping = read_json_files_and_create(folder_path)
     
-    output_path = os.path.join(cur_path, "prova.json")
-    with open(output_path, 'w') as output_file:
-        json.dump(schema_mapping, output_file, indent=4)
+    output_path = os.path.join(cur_path, "schema_mapping.json")
+    with open(output_path, 'w', encoding='utf-8') as output_file:
+        json.dump(schema_mapping, output_file, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
     main()
