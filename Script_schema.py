@@ -2,7 +2,10 @@ import os
 import json
 from collections import defaultdict
 
-output_file_path ="Attributes/All_in_one.txt"
+output_file_path ="attributes/all_in_one.txt"
+
+if os.path. exists(output_file_path):
+    os.remove(output_file_path)
 
 def write_keys_to_file(folder_path, key_counts, c):
     
@@ -41,11 +44,10 @@ def process_folders(base_path):
         for dir in dirs:
             folder_path = os.path.join(root, dir)
             extract_keys_from_json_files(folder_path)
-            
 
-if os.path. exists(output_file_path):
-        os.remove(output_file_path)            
+def main():
+    base_path = os.path.join(os.getcwd(), "monitor_specs")
+    process_folders(base_path)           
             
 if __name__ == "__main__":
-    base_path = os.path.join(os.getcwd(), "Monitor_specs")
-    process_folders(base_path)
+    main()

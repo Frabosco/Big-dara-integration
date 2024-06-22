@@ -2,25 +2,25 @@ import os
 import re
 import json
 
-cur_path = os.getcwd()
-MEDIATED_SCHEMA = "/Mediated_schema/mediated_schema.json"
-folder_path = "Monitor_specs"
+CUR_PATH = os.getcwd()
+MEDIATED_SCHEMA = "/mediated_schema/mediated_schema.json"
+DATASET_PATH = "monitor_specs"
 
 # Read all the json files and convert them
-def read_json_files_and_create(folder_path):
+def read_json_files_and_create(dataset_path):
 
-    with open(cur_path + MEDIATED_SCHEMA, 'r') as mediated_schema:
+    with open(CUR_PATH + MEDIATED_SCHEMA, 'r') as mediated_schema:
         mediated_schema = json.load(mediated_schema)
     
     schema_mapping = []
-    for root, _, files in os.walk(folder_path):
+    for root, _, files in os.walk(dataset_path):
         for file in files:
             if file.endswith(".json"):
                 file_path = os.path.join(root, file)
                 with open(file_path, 'r', encoding='utf-8') as json_file:
-                        data = json.load(json_file)
-                        decoded_data = decode_unicode_escapes(data)
-                        schema_mapping.append(create_schema_mapping_from_data(mediated_schema, decoded_data))
+                    data = json.load(json_file)
+                    decoded_data = decode_unicode_escapes(data)
+                    schema_mapping.append(create_schema_mapping_from_data(mediated_schema, decoded_data))
 
     return schema_mapping
 
@@ -73,9 +73,9 @@ def value_exist_in_json(data, value):
 
 def main():
     # Read all json files
-    schema_mapping = read_json_files_and_create(folder_path)
+    schema_mapping = read_json_files_and_create(DATASET_PATH)
     
-    output_path = os.path.join(cur_path, "schema_mapping.json")
+    output_path = os.path.join(CUR_PATH, "schema_mapping.json")
     with open(output_path, 'w', encoding='utf-8') as output_file:
         json.dump(schema_mapping, output_file, indent=4, ensure_ascii=False)
 
