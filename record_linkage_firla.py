@@ -1,8 +1,7 @@
-from collections import defaultdict
 import os
-import re
 import json
 import numpy as np
+import Levenshtein as lev
 from dataset_creator import decode_unicode_escapes
 
 CUR_PATH = os.getcwd()
@@ -56,36 +55,53 @@ def blocking():
                 if b not in clusters_blocks[key]:
                     clusters_blocks[key].append(b)
 
-def calculate_signature(field):
+def calculate_signature(field: str):
+    field = field.lower()
+    field = field.replace(' ', '')
+    
     signature = np.zeros(26, dtype=int)
+    
     for char in field:
         if 'a' <= char <= 'z':
             signature[ord(char) - ord('a')] = 1
+    
     return signature
 
-def hamming_distance(sig1, sig2):
-    return np.sum(np.bitwise_xor(sig1, sig2))
+def can_skip_comparison(record1, record2, theta):
 
-def can_skip_comparison(sig1, sig2, theta):
-    hamming_dist = hamming_distance(sig1, sig2)
-    return hamming_dist > 2 * theta
+    if len(record1) != len(record2): return False
+    if set(record1.keys()) != set(record2.keys()): return False
 
-def edit_distance(str1, str2):
-    len1, len2 = len(str1), len(str2)
-    dp = np.zeros((len1 + 1, len2 + 1), dtype=int)
+    hamming_dist = []
+
+    for k in record1.keys():
+        sig1 = calculate_signature(record1[k])
+        sig2 = calculate_signature(record2[k])
+
+        hamming_dist.append(np.sum(np.bitwise_xor(sig1, sig2)))
+
+    return all(dist > 2 * theta for dist in hamming_dist)
+
+def edit_distance(record1, record2, theta):
+    edit_distance = []
+    r2keys = list(record2.keys())
+
+    for k1 in record1.keys():
+        for k2 in r2keys:
+            if k1 == k2:
+                edit_distance.append(lev.distance(record1[k1], record2[k2]))
+                r2keys.remove(k2)
+                break
+            elif (k1 in mediated_schema.keys() and k2 in mediated_schema[k1]) or (k2 in mediated_schema.keys() and k1 in mediated_schema[k2]):
+                edit_distance.append(lev.distance(record1[k1], record2[k2]))
+                r2keys.remove(k2)
+                break
+            elif any(all(s in value_list for s in (k1, k2)) for value_list in mediated_schema.values()): # Rallenta qui
+                edit_distance.append(lev.distance(record1[k1], record2[k2]))
+                r2keys.remove(k2)
+                break
     
-    for i in range(len1 + 1):
-        for j in range(len2 + 1):
-            if i == 0:
-                dp[i][j] = j
-            elif j == 0:
-                dp[i][j] = i
-            elif str1[i-1] == str2[j-1]:
-                dp[i][j] = dp[i-1][j-1]
-            else:
-                dp[i][j] = 1 + min(dp[i][j-1], dp[i-1][j], dp[i-1][j-1])
-    
-    return dp[len1][len2]
+    return all(dist <= theta for dist in edit_distance)
 
 def firla(dataset, theta):
     concatenated_records = {f'{i + offset}': concatenate_attributes(dataset[i]) for i in range(len(dataset))}
@@ -120,9 +136,9 @@ def firla(dataset, theta):
                     if can_skip_comparison(rep_record_json, candidate_record_json, theta):
                         continue
                     
-                    if edit_distance(rep_record, candidate_record) <= theta:
-                        clusters[candidate_cluster].extend(clusters[cluster])
-                        del clusters[cluster]
+                    if  edit_distance(rep_record_json, candidate_record_json, theta):
+                        clusters[cluster].extend(clusters[candidate_cluster])
+                        clusters[candidate_cluster] = []
                         is_clustered = True
                         break
                 if is_clustered:
@@ -136,7 +152,7 @@ def firla(dataset, theta):
     print('\n\n')
 
 
-def read_dataset_sources(dataset_path, output_path):
+def read_dataset_sources(dataset_path):
     
     for root, _, files in os.walk(dataset_path):
         
@@ -160,10 +176,13 @@ def read_dataset_sources(dataset_path, output_path):
         firla(cur_table, theta)
 
 if __name__ == "__main__":
-    theta = 2
+    theta = 4
     offset = 0
     clusters = {}
     clusters_blocks = {}
     linked_records = []
+
+    with open('mediated_schema\\mediated_schema.json', 'r', encoding='utf-8') as json_file:
+        mediated_schema = json.load(json_file)
     
-    read_dataset_sources(DATASET_PATH, 'monitor_specs_merged\\')
+    read_dataset_sources(DATASET_PATH)
