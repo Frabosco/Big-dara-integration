@@ -1,0 +1,21 @@
+{
+    "name": "ASUS VE248H - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "10000000:1",
+    "dimensions": "569.4 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "609.6 mm (24 \")",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "pixel_pitch": "0.277 x 0.277 mm",
+    "power_consumption": "35 W",
+    "response_time": "2 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "4.4 kg"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Acer UM.HT2AA.002 60Hz 27.0\" Monitor (T272HUL bmidpcz) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "300 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "1000:1 Native",
+    "display_colors": "1070000000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Acer",
+    "model": "UM.HT2AA.002",
+    "part_number": "T272HUL bmidpcz",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "27\"",
+    "viewing_angle": "178° H x 178° V"
+}

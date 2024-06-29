@@ -1,0 +1,13 @@
+{
+    "name": "ACER ET.HS3HP.001 - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "300 cd/m2",
+    "contrast_ratio": "12000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "pixel_pitch": "0.3114 mm",
+    "power_consumption": "22 Watt",
+    "response_time": "2 ms",
+    "tilt_angle": "20",
+    "weight": "12.8 lbs"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "K9601662, 2315302, Barco, LCD Monitor, JR Linton",
+    "aspect_ratio": "4:3",
+    "manufacturer": "Barco",
+    "contrast_ratio": "900:1",
+    "dimensions": "477 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "5 Year",
+    "model": "MDCG-3120",
+    "resolution": "2048 x 1536",
+    "power_consumption": "64 W",
+    "description": "LCD Monitor",
+    "response_time": "50 ms",
+    "screen_size": "50.8 cm (20\")",
+    "refresh_rate": "80 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "weight": "14.20 kg"
+}

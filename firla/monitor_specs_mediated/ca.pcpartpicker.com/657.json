@@ -1,0 +1,19 @@
+{
+    "name": "AOC G2460PQU 144Hz 24.0\" Monitor (G2460PQU) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "350 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "80,000,000:1",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "AOC",
+    "part_number": "G2460PQU",
+    "refresh_rate": "144Hz",
+    "response_time": "1 ms",
+    "screen_size": "24\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

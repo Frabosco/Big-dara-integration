@@ -1,0 +1,19 @@
+{
+    "name": "HP Smartbuy Z30i 60Hz 30.0\" Monitor (D7P94A8#ABA) - PCPartPicker Canada",
+    "aspect_ratio": "16:10",
+    "brightness": "350 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "DCR 5000000:1(1000:1)",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "HP",
+    "model": "Smartbuy Z30i",
+    "part_number": "D7P94A8#ABA",
+    "refresh_rate": "60Hz",
+    "response_time": "8 ms",
+    "screen_size": "30\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

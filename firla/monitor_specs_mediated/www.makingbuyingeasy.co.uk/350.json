@@ -1,0 +1,17 @@
+{
+    "name": "Samsung NS190 Thin Client Monitor - MBE",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "No",
+    "dimensions": "44.3 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "48.26 cm (19\")",
+    "resolution": "1440 x 900 pixels",
+    "hdcp_supported": "No",
+    "voltage": "100 - 240V",
+    "power_consumption": "35W",
+    "response_time": "5 ms",
+    "vga": "1",
+    "weight": "4.42 kg"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "LS19C20KBW/EN, SAMS19C200BW, Samsung, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "Samsung",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "439.4 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "110 V AC",
+    "model": "200",
+    "resolution": "1440 x 900",
+    "power_consumption": "100 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "48.3 cm (19\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "3.10 kg"
+}

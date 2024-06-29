@@ -1,0 +1,13 @@
+{
+    "name": "Cleverboxes - ES195C | Edge10 ES195c LED Monitor 1000:1 250cd/m2 1600x900 5ms (Black Bezel)",
+    "brightness": "250cd/m2",
+    "contrast_ratio": "1,000:1 (Static)",
+    "dimensions": "47.48cm (W) x 16cm (D) x 35.71cm (H) - Weight 3.12kg",
+    "model": "ES195c",
+    "pixel_pitch": "0.27mm",
+    "description": "Display",
+    "response_time": "5ms",
+    "display_type": "Active Matrix TFT 16.7 Million Colour",
+    "vga": "1 x 15-pin D-sub",
+    "warranty": "3 years"
+}

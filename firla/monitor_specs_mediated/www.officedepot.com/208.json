@@ -1,0 +1,23 @@
+{
+    "name": "Asus VS208N P 20 LED LCD Monitor 169 5 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "250 Nit",
+    "contrast_ratio": "50,000,000:1",
+    "dimensions": "18.9\"",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "No",
+    "resolution": "1600 x 900",
+    "model": "VS",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "20\"",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "5.51 lb"
+}

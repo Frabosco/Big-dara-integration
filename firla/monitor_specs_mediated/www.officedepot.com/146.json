@@ -1,0 +1,22 @@
+{
+    "name": "Lenovo ThinkVision LT2223z 215 LED LCD Monitor 169 5 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Lenovo Group Limited",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "20.2\"",
+    "displayport": "Yes",
+    "hdmi": "Yes",
+    "voltage": "110 V AC; 220 V AC",
+    "resolution": "1920 x 1080",
+    "model": "ThinkVision",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "21.5\"",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "160°",
+    "weight": "12 lb"
+}

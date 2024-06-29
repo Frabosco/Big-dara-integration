@@ -1,0 +1,20 @@
+{
+    "name": "C221S3UCW/00, 2784180, Philips, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Philips Electronics",
+    "brightness": "150 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "507 mm",
+    "certifications": "Yes",
+    "voltage": "110 V AC",
+    "model": "C221S3UCW",
+    "resolution": "1920 x 1080",
+    "power_consumption": "300 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "54.6 cm (21.5\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "weight": "3.85 kg"
+}

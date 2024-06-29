@@ -1,0 +1,20 @@
+{
+    "name": "Acer CB280HK - MBE",
+    "aspect_ratio": "16:9",
+    "bluetooth": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "100000000:1",
+    "dimensions": "65.87 cm",
+    "brightness": "300 cd/mÂ²",
+    "screen_size": "71.1 cm",
+    "resolution": "3840 x 2160 pixels",
+    "certifications": "Gold",
+    "ethernet": "No",
+    "height_adjustable": "Yes",
+    "voltage": "120 - 230V",
+    "led_indicators": "Yes",
+    "plug_and_play": "Yes",
+    "response_time": "1 ms",
+    "tilt_angle": "-5 - 35Â°",
+    "wifi": "No"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "60003488, NECPA302WB, NEC Display Solutions, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "GB-R LED",
+    "manufacturer": "NEC Display Solutions",
+    "brightness": "340 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "warranty": "4 Year",
+    "model": "PA",
+    "resolution": "2560 x 1600",
+    "power_consumption": "1.40 W",
+    "description": "LCD Monitor",
+    "response_time": "7 ms",
+    "screen_size": "75.7 cm (29.8\")",
+    "refresh_rate": "60 Hz",
+    "weight": "17 kg"
+}

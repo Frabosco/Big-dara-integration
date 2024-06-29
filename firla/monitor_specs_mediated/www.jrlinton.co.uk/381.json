@@ -1,0 +1,23 @@
+{
+    "name": "47WV30BS, LG47WV30BS, LG Electronics, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "Direct LED",
+    "manufacturer": "LG Electronics",
+    "brightness": "500 cd/m²",
+    "contrast_ratio": "1,300:1",
+    "dimensions": "1046.5 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "47WV30BS",
+    "resolution": "1366 x 768",
+    "power_consumption": "220 W",
+    "description": "LCD Monitor",
+    "response_time": "12 ms",
+    "screen_size": "119.4 cm (47\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "800 x 400",
+    "weight": "28.98 kg"
+}

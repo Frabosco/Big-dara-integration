@@ -1,0 +1,23 @@
+{
+    "name": "NEC Display MultiSync E201W 20 LED LCD Monitor 169 5 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "NEC Display Solutions",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "18.8\"",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "resolution": "1600 x 900",
+    "model": "MultiSync",
+    "power_consumption": "420 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "20\"",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "178°",
+    "weight": "11.90 lb"
+}

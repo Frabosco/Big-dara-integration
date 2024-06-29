@@ -1,0 +1,22 @@
+{
+    "name": "E2250SH, 2421238, AOC, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "AOC",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "e2250Sh",
+    "resolution": "1680 x 1050",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "55.9 cm (22\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Viewsonic VX2252mh 22 LED LCD Monitor 2 ms by Office Depot",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "20.1\"",
+    "dvi": "Yes",
+    "hdmi": "Yes",
+    "voltage": "110 V AC; 220 V AC",
+    "resolution": "1920 x 1080",
+    "model": "VX",
+    "description": "LCD Monitor",
+    "response_time": "2 ms",
+    "screen_size": "22\"",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "7.25 lb"
+}

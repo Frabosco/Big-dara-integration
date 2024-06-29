@@ -1,0 +1,18 @@
+{
+    "name": "MC914ZM/B - Apple Thunderbolt Display LED monitor - Xpcpro.com",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "Y",
+    "builtin_speakers": "Y",
+    "security_lock_slot": "Kensington",
+    "dimensions": "650 mm",
+    "brightness": "375 cd/m²",
+    "screen_size": "27 \"",
+    "resolution": "2560 x 1440 pixels",
+    "voltage": "100 - 240 V",
+    "operating_system": "Y",
+    "manual": "Y",
+    "operating_temperature": "-20 - 47 °C",
+    "power_consumption": "250 W",
+    "response_time": "12 ms",
+    "weight": "10800 g"
+}

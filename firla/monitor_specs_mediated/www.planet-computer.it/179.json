@@ -1,0 +1,22 @@
+{
+    "name": "Lg Electronics LG 19M35A-B LED display 19M35A-B.AEU Planet Computer.it",
+    "dimensions": "44,1 cm",
+    "builtin_speakers": "No",
+    "source_datasheet": "Thin Client\nThin client installato No",
+    "viewing_angle": "65°",
+    "certifications": "Non specificato",
+    "display_colors": "16,77M",
+    "vesa_mount_compatible": "75 x 75 mm",
+    "audio_output": "3.5 mm",
+    "screen_size": "46,99 cm (18.5\")",
+    "pixel_pitch": "0,3 x 0,3 mm",
+    "builtin_camera": "No",
+    "wall_mountable": "Si",
+    "weight": "2,1 kg",
+    "dvi": "No",
+    "contrast_ratio": "600:1",
+    "resolution": "1366 x 768 Pixels",
+    "response_time": "5 ms",
+    "display_type": "LED",
+    "voltage": "100 - 240V"
+}

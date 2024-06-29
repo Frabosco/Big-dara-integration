@@ -1,0 +1,15 @@
+{
+    "name": "Viewsonic VX2270SMH-LED 21.5 Full HD IPS Monitor",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 30000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "20 - 90% (non-condensing)",
+    "manufacturer": "Viewsonic",
+    "power_consumption": "26 Watt",
+    "response_time": "7 ms (grey-to-grey)",
+    "tilt_angle": "-5/+20",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "3.6 kg"
+}

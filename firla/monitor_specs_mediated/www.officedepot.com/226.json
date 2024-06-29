@@ -1,0 +1,23 @@
+{
+    "name": "Compaq Advantage LA1956x 19 LED LCD Monitor 54 5 ms by Office Depot",
+    "aspect_ratio": "5:4",
+    "backlight_technology": "LED",
+    "manufacturer": "Hewlett-Packard",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "16.4\"",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "110 V AC; 220 V AC",
+    "resolution": "1280 x 1024",
+    "model": "Advantage",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "19\"",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "9.92 lb"
+}

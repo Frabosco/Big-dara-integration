@@ -1,0 +1,13 @@
+{
+    "name": "ViewSonics CDP4635-T Full HD touch commercial display",
+    "brightness": "400 cd/m2",
+    "dimensions": "109.11 cm",
+    "manufacturer": "Viewsonic",
+    "pixel_pitch": "0.53mm",
+    "power_consumption": "220 Watt",
+    "description": "LCD flat panel display",
+    "resolution": "1920 x 1080",
+    "response_time": "8 ms",
+    "viewing_angle": "178 degrees",
+    "weight": "22.6 kg"
+}

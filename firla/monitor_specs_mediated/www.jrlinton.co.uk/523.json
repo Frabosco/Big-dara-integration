@@ -1,0 +1,17 @@
+{
+    "name": "SX-15A, AGNSEC005, AG Neovo, LCD Monitor, JR Linton",
+    "aspect_ratio": "4:3",
+    "manufacturer": "AG Neovo Technology Corporation",
+    "brightness": "500 cd/m²",
+    "contrast_ratio": "400:1",
+    "dimensions": "380 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "SX",
+    "resolution": "1024 x 768",
+    "description": "LCD Monitor",
+    "response_time": "16 ms",
+    "screen_size": "38.1 cm (15\")",
+    "weight": "4.80 kg"
+}

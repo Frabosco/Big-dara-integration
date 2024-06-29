@@ -1,0 +1,15 @@
+{
+    "name": "HP A2U63AA Compaq LE2002xm - LED Monitor - 20\" - Vology",
+    "aspect_ratio": "Widescreen",
+    "backlight_technology": "LED backlight",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 3000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "20 - 80%",
+    "pixel_pitch": "0.277 mm",
+    "power_consumption": "22 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "-5/+25",
+    "voltage": "AC 120/230 V",
+    "weight": "7.7 lbs"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "HP Pavilion 25xi 25 LED LCD Monitor 169 7 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hewlett-Packard",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "22.8\"",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "resolution": "1920 x 1080",
+    "model": "Pavilion",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "7 ms",
+    "screen_size": "25\"",
+    "refresh_rate": "76 Hz",
+    "vga": "Yes",
+    "viewing_angle": "178°",
+    "weight": "9.70 lb"
+}

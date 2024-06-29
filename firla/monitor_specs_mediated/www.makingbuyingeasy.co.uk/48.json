@@ -1,0 +1,21 @@
+{
+    "name": "ASUS PQ321QE 31.5 LED 4K UHD 3840 x 2160 Monitor - MBE",
+    "aspect_ratio": "16:9",
+    "bluetooth": "No",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "brightness": "350 cd/mÂ²",
+    "screen_size": "80.1 cm",
+    "resolution": "3840 x 2160 pixels",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 240V",
+    "manual": "Yes",
+    "audio_input": "Yes",
+    "pixel_pitch": "0.182 x 0.182 mm",
+    "power_consumption": "93W",
+    "response_time": "8 ms",
+    "tilt_angle": "-5 - 25Â°",
+    "weight": "13000g"
+}

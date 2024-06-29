@@ -1,0 +1,22 @@
+{
+    "name": "AOC Q2770PQU LED display - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "80000000:1",
+    "dimensions": "64.22 cm",
+    "brightness": "300 cd/mÂ²",
+    "screen_size": "68.58 cm (27\")",
+    "resolution": "2560 x 1440 pixels",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "13 cm",
+    "voltage": "100 - 240V",
+    "manual": "Yes",
+    "osd_languages": "Yes",
+    "operating_temperature": "-25 - 55 Â°C",
+    "pixel_pitch": "0.233 x 0.233 mm",
+    "power_consumption": "65W",
+    "response_time": "5 ms",
+    "vga": "1"
+}

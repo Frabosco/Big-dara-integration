@@ -1,0 +1,19 @@
+{
+    "name": "LG 22 E2210PM-SN silver 5ms MONITOR LED",
+    "dimensions": "50,6 cm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "160°",
+    "display_colors": "16,77M",
+    "screen_size": "55,88 cm (22\")",
+    "builtin_camera": "No",
+    "hdcp_supported": "Si",
+    "tilt_angle": "-4 - 16°",
+    "led_indicators": "Si",
+    "audio_input": "Si",
+    "weight": "4,2 kg",
+    "contrast_ratio": "5000000:1",
+    "height_adjustable": "11 cm",
+    "resolution": "1680 x 1050 Pixels",
+    "pivot": "Si",
+    "response_time": "5 ms"
+}

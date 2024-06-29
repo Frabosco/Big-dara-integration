@@ -1,0 +1,20 @@
+{
+    "name": "DSM12.1WGF, VIGDSM12.1WGF, Vigilant Vision, Ltd, LCD Monitor, JR Linton",
+    "aspect_ratio": "4:3",
+    "backlight_technology": "LED",
+    "manufacturer": "Vigilant Vision, Ltd",
+    "brightness": "330 cd/m²",
+    "contrast_ratio": "450:1",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "DSM12.1WGF",
+    "resolution": "800 x 600",
+    "power_consumption": "24 W",
+    "description": "LCD Monitor",
+    "response_time": "35 ms",
+    "screen_size": "30.7 cm (12.1\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes",
+    "weight": "2.10 kg"
+}

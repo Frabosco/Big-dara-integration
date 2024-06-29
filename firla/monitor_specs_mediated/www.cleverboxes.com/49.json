@@ -1,0 +1,21 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 60003395 | NEC Displays MultiSync V652 (65 inch) LCD Public Display 4000:1 450cd/m2 1920x1080 8ms HDMI/DisplayPort/DVI-D/VGA/RJ-45 (Black)",
+    "aspect_ratio": "16:9",
+    "audio_input": "2 x Cinch (RCA), 1 x Head-Jack 3.5mm",
+    "audio_output": "1 x 3.5mm Mini Jack",
+    "brightness": "450cd/m2",
+    "certifications": "CE; TÜV GS; C-tick; Energy Star 5.0; FCC Class B; UL/C-UL or CSA; CCC; PSB; VCCI; RoHS",
+    "contrast_ratio": "4,000:1 (Static)",
+    "dimensions": "154.04cm (W) x 8.83cm (D) x 90.92cm (H) - Weight 52.0kg",
+    "displayport": "1 x DisplayPort",
+    "model": "MultiSync",
+    "plug_and_play": "VESA DDC2Bi",
+    "power_consumption": "360W (Max) / 0.5W (Standby)",
+    "description": "Monitor",
+    "response_time": "8ms",
+    "display_type": "AMVA3",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 400mm x 400mm",
+    "warranty": "3 Years Warranty including Backlight"
+}

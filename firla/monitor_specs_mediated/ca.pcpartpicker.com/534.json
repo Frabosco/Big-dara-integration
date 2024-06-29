@@ -1,0 +1,19 @@
+{
+    "name": "Philips 242G5DJEB 144Hz 24.0\" Monitor (242G5DJEB) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "350 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "1000:1",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "No",
+    "manufacturer": "Philips",
+    "part_number": "242G5DJEB",
+    "refresh_rate": "144Hz",
+    "response_time": "5 ms",
+    "screen_size": "24\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

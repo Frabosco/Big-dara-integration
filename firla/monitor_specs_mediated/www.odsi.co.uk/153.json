@@ -1,0 +1,15 @@
+{
+    "name": "E20T-6LED 20 BDL:K1432V160-UK Fujitsu",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "LED backlight",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 2000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "manufacturer": "Fujitsu",
+    "pixel_pitch": "0.277 mm",
+    "power_consumption": "13.4 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "20",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "2.9 kg"
+}

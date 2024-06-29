@@ -1,0 +1,22 @@
+{
+    "name": "Cleverboxes - 60003293 | NEC Displays MultiSync EA223WM (22 inch) WLED Monitor 1000:1 250cd/m2 1680x1050 5ms DisplayPort/DVI-D (White)",
+    "aspect_ratio": "16:10",
+    "brightness": "250cd/m2",
+    "contrast_ratio": "1,000:1 (Static) , 25,000:1 (Dynamic)",
+    "dimensions": "50.35cm (W) x 21.80cm (D) x 38.40cm (H) - Weight 5.60kg",
+    "displayport": "1 x DisplayPort",
+    "audio_output": "1 x Headphone Port",
+    "height_adjustable": "Yes",
+    "model": "MultiSync",
+    "pixel_pitch": "0.282mm",
+    "plug_and_play": "VESA DDCi; VESA DDC2B",
+    "power_consumption": "25W (Max) / 12W (Standby)",
+    "description": "Display",
+    "response_time": "5ms",
+    "display_type": "TN TFT 16.7 Million Colour",
+    "swivel_angle": "±170°",
+    "usb_ports": "1 x USB 2.0 (4 down, 1 up)",
+    "vga": "1 x Mini 15-pin D-sub",
+    "wall_mountable": "Yes , VESA Compliant - 100mm x 100mm",
+    "warranty": "3 years warranty including backlight"
+}

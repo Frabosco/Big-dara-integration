@@ -1,0 +1,22 @@
+{
+    "name": "Asus LED 19 VW199TL 5ms.VGA.DVI MONITOR LED",
+    "builtin_speakers": "Si",
+    "viewing_angle": "160 °",
+    "security_lock_slot": "Kensington",
+    "certifications": "Non specificato",
+    "display_colors": "16.77 M",
+    "vesa_mount_compatible": "100 x 100 mm",
+    "screen_size": "482.6 mm (19 \")",
+    "pixel_pitch": "0.2835 x 0.2835 mm",
+    "builtin_camera": "N",
+    "hdcp_supported": "Si",
+    "tilt_angle": "-5 - 20 °",
+    "wall_mountable": "Si",
+    "weight": "6.4 kg",
+    "contrast_ratio": "50000000:1",
+    "height_adjustable": "Si",
+    "resolution": "1440 x 900 Pixels",
+    "source_datasheet": ".",
+    "response_time": "5 ms",
+    "display_type": "LED"
+}

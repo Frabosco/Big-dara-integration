@@ -1,0 +1,22 @@
+{
+    "name": "LS19D300NY/EN, 3087722, Samsung, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Samsung",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "600:1",
+    "dimensions": "444.9 mm",
+    "displayport": "No",
+    "dvi": "No",
+    "hdmi": "No",
+    "voltage": "220 V AC",
+    "model": "300",
+    "resolution": "1366 x 768",
+    "power_consumption": "300 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "47 cm (18.5\")",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes",
+    "weight": "2 kg"
+}

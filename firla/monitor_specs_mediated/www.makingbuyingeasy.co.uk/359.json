@@ -1,0 +1,23 @@
+{
+    "name": "Samsung S22C200BW - MBE",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "contrast_ratio": "Mega Contrast",
+    "dimensions": "50.24 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "55.88 cm",
+    "resolution": "1680 x 1050 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "No",
+    "height_adjustable": "No",
+    "voltage": "100 - 240V",
+    "manual": "Yes",
+    "operating_temperature": "10 - 40 Â°C",
+    "pixel_pitch": "0.282 x 0.282 mm",
+    "power_consumption": "24W",
+    "response_time": "5 ms",
+    "tilt_angle": "-1 - 20Â°",
+    "vga": "1",
+    "weight": "3.55 kg"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "E2460SXDA - AOC Professional E2460Sxda  LED - Xpcpro.com",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "N",
+    "builtin_speakers": "Y",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "20000000:1",
+    "brightness": "250 cd/m²",
+    "screen_size": "61 cm",
+    "resolution": "1920 x 1200 pixels",
+    "certifications": "Silver",
+    "hdcp_supported": "Y",
+    "height_adjustable": "N",
+    "pivot": "N",
+    "pixel_pitch": "0.269 x 0.269 mm",
+    "led_indicators": "Y",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1"
+}

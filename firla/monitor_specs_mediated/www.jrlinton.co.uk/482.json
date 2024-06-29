@@ -1,0 +1,22 @@
+{
+    "name": "86010089, 860-10089, Dell, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:10",
+    "manufacturer": "Dell, Inc",
+    "brightness": "400 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "559.7 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "U2410",
+    "resolution": "1920 x 1200",
+    "power_consumption": "75 W",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "61 cm (24\")",
+    "refresh_rate": "50 Hz",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "11.04 kg"
+}

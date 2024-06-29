@@ -1,0 +1,20 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 60003403 | NEC Displays SpectraView 552 (55 inch) Large Format Display 4000:1 700cd/m2 1920x1080 8ms DisplayPort/HDMI/DVI-D",
+    "aspect_ratio": "16:9",
+    "audio_input": "2 x Cinch (RCA), 1 x Head-Jack 3.5mm, 1 x HDMI",
+    "audio_output": "1 x 3.5mm Mini Jack",
+    "brightness": "700cd/m2",
+    "certifications": "CE; TÜV GS; C-tick; FCC Class B; UL/C-UL or CSA; PSB; VCCI; RoHS",
+    "contrast_ratio": "4,000:1 (Static)",
+    "dimensions": "125.02cm (W) x 12.54cm (D) x 72.1cm (H) - Weight 40kg",
+    "displayport": "1 x DisplayPort (with HDCP)",
+    "model": "SpectraView",
+    "power_consumption": "255W (Max) / 0.5W (Standby)",
+    "description": "Display",
+    "response_time": "8ms",
+    "display_type": "S-PVA 16.77 million Colour",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 400mm x 400mm",
+    "warranty": "3 Years including backlight"
+}

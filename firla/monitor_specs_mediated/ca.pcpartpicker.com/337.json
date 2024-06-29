@@ -1,0 +1,18 @@
+{
+    "name": "NEC PA272W-BK-SV 85Hz 27.0\" Monitor (PA272W-BK-SV) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "340 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "1000:1",
+    "display_colors": "1070000000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "NEC",
+    "part_number": "PA272W-BK-SV",
+    "refresh_rate": "85Hz",
+    "response_time": "6 ms",
+    "screen_size": "27\"",
+    "viewing_angle": "178° H x 178° V"
+}

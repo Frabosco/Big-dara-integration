@@ -1,0 +1,17 @@
+{
+    "name": "Lenovo 3028LB2 ThinkVision LT2323z LED Monitor - 23\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "4.3 in",
+    "operating_temperature": "10 - 80%",
+    "pixel_pitch": "0.265 mm",
+    "power_consumption": "40 Watt",
+    "response_time": "7 ms",
+    "swivel_angle": "90",
+    "tilt_angle": "-5/+30",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "13.7 lbs"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Acer HN274Hbmiiid 120Hz 27.0\" Monitor (ET.HH4HP.001) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "300 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "ACM 10,000,000:1",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "hdmi": "3",
+    "backlight_technology": "Yes",
+    "manufacturer": "Acer",
+    "model": "HN274Hbmiiid",
+    "part_number": "ET.HH4HP.001",
+    "refresh_rate": "120Hz",
+    "response_time": "2 ms",
+    "screen_size": "27\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

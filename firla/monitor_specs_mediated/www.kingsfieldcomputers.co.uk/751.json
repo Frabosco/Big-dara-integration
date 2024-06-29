@@ -1,0 +1,21 @@
+{
+    "name": "LS24B350HS/EN, 886J604, Samsung, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "manufacturer": "Samsung",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "569 mm",
+    "displayport": "No",
+    "dvi": "No",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "350",
+    "resolution": "1920 x 1080",
+    "power_consumption": "300 mW",
+    "description": "LCD Monitor",
+    "response_time": "2 ms",
+    "screen_size": "61 cm (24\")",
+    "vga": "Yes",
+    "weight": "3.30 kg"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Dell P2012H 60Hz 20.0\" Monitor (469-1624) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "DC 2,000,000:1 (1000:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Dell",
+    "model": "P2012H",
+    "part_number": "469-1624\n(or) P2012H",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "20\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "AG Neovo DR-17P - MrHighTech Shop",
+    "aspect_ratio": "5:4",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "dimensions": "409 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "43.2 cm",
+    "resolution": "1280 x 1024 pixels",
+    "voltage": "100 - 240 V",
+    "operating_temperature": "-20 - 60 °C",
+    "audio_input": "Yes",
+    "pixel_pitch": "0.264 x 0.264 mm",
+    "power_consumption": "20 W",
+    "led_indicators": "Yes",
+    "manual": "Yes",
+    "response_time": "3 ms",
+    "tilt_angle": "0 - 20 °",
+    "vga": "1",
+    "weight": "5.8 kg"
+}

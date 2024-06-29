@@ -1,0 +1,18 @@
+{
+    "name": "BenQ XL2411Z 144Hz 24.0\" Monitor (XL2411Z) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "350 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "DC 12,000,000:1 (1000:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "BenQ",
+    "part_number": "XL2411Z",
+    "refresh_rate": "144Hz",
+    "response_time": "1 ms",
+    "screen_size": "24\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

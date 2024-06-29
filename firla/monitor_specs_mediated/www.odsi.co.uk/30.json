@@ -1,0 +1,12 @@
+{
+    "name": "Sharp PNE702 70\" LED-Backlit LCD Flat Panel Display",
+    "brightness": "450 cd/m2",
+    "dimensions": "161.6 cm",
+    "manufacturer": "Sharp",
+    "power_consumption": "0.38 Watt",
+    "description": "LED-backlit LCD flat panel display",
+    "resolution": "1920 x 1080",
+    "response_time": "6 ms",
+    "viewing_angle": "176 degrees",
+    "weight": "50 kg"
+}

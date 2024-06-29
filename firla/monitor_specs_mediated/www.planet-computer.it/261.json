@@ -1,0 +1,22 @@
+{
+    "name": "Benq Benq BL902TM 9H.L5FLA.DBE Planet Computer.it",
+    "dimensions": "419.2 mm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "160 °",
+    "security_lock_slot": "Kensington",
+    "display_colors": "16.77 M",
+    "vesa_mount_compatible": "100 x 100 mm",
+    "audio_output": "3.5 mm",
+    "screen_size": "482.6 mm (19 \")",
+    "builtin_camera": "N",
+    "hdcp_supported": "Si",
+    "wall_mountable": "Si",
+    "osd_languages": "Si",
+    "weight": "7.6 kg",
+    "dvi": "Si",
+    "contrast_ratio": "12000000:1",
+    "resolution": "1280 x 1024 Pixels",
+    "response_time": "5 ms",
+    "display_type": "LED",
+    "voltage": "90 - 264 V"
+}

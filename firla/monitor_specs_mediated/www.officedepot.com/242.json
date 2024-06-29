@@ -1,0 +1,23 @@
+{
+    "name": "Viewsonic Value VA2342 LED 23 LED LCD Monitor 169 5 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "21.6\"",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "110 V AC; 220 V AC",
+    "resolution": "1920 x 1080",
+    "model": "Value",
+    "power_consumption": "22 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "23\"",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "5.60 lb"
+}

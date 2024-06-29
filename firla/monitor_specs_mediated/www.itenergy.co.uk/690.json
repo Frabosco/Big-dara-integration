@@ -1,0 +1,20 @@
+{
+    "name": "LH46OLBPPGC/EN, Samsung, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Samsung",
+    "brightness": "1500 cd/mÂ²",
+    "contrast_ratio": "4,000:1",
+    "dimensions": "614.2 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "OL46B",
+    "resolution": "1920 x 1080",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "116.8 cm (46\")",
+    "power_consumption": "1 W",
+    "vga": "Yes"
+}

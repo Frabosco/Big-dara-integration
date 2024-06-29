@@ -1,0 +1,20 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 60003326 | NEC Displays MultiSync P702 (79 inch) Public Display 2000:1 600cd/m2 1920x1080 8ms HDMI/DisplayPort/DVI-D (Black)",
+    "aspect_ratio": "16:9",
+    "audio_input": "1 x Cinch (RCA) • 2 x 3.5mm jack",
+    "audio_output": "1 x 3.5mm Mini Jack",
+    "brightness": "600cd/m2",
+    "certifications": "CE; TÜV GS; C-tick; FCC Class B; UL/C-UL or CSA; PSB; VCCI; RoHS",
+    "contrast_ratio": "2,000:1 (Static)",
+    "dimensions": "168.2cm (W) x 19.8cm (D) x 100.4cm (H) - Weight 96kg",
+    "displayport": "1 x DisplayPort (with HDCP)",
+    "model": "MultiSync",
+    "power_consumption": "545W (Max) / 1W (Standby)",
+    "description": "Display",
+    "response_time": "8ms",
+    "display_type": "S-PVA",
+    "vga": "1 x 15-pin D-sub",
+    "wall_mountable": "Yes , VESA Compliant - 400mm x 400mm",
+    "warranty": "3 Years Warranty including Backlight"
+}

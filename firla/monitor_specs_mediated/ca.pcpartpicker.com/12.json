@@ -1,0 +1,18 @@
+{
+    "name": "HP E231i 60Hz 23.0\" Monitor (F9Z10A8#ABA) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "4,000,000:1",
+    "displayport": "1",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "HP",
+    "model": "E231i",
+    "part_number": "F9Z10A8#ABA",
+    "refresh_rate": "60Hz",
+    "response_time": "8 ms",
+    "screen_size": "23\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

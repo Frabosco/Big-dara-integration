@@ -1,0 +1,20 @@
+{
+    "name": "VG2435SM, B921672, ViewSonic, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "50,000,000:1",
+    "dimensions": "531.4 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "model": "VG2435Sm",
+    "resolution": "1920 x 1200",
+    "power_consumption": "31 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "61 cm (24\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "5.70 kg"
+}

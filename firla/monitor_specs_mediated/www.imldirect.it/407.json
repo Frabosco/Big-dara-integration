@@ -1,0 +1,22 @@
+{
+    "name": "BDL3210Q/00, Philips, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "Edge LED",
+    "manufacturer": "Philips Electronics",
+    "brightness": "350 cd/m²",
+    "contrast_ratio": "1,200:1",
+    "dimensions": "745.2 mm",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "warranty": "3 Year",
+    "model": "BDL3210Q",
+    "resolution": "1366 x 768",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "80 cm (31.5\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "200 x 100",
+    "vga": "Yes",
+    "weight": "8.05 kg"
+}

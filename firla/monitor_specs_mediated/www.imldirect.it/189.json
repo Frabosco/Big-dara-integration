@@ -1,0 +1,22 @@
+{
+    "name": "27EA83-D, 4065270, LG Electronics, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "LG Electronics",
+    "brightness": "350 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "27EA83-D",
+    "resolution": "2560 x 1440",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "68.6 cm (27\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "weight": "7.30 kg"
+}

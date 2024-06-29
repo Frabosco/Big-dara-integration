@@ -1,0 +1,20 @@
+{
+    "name": "VS207NE, 3054723, ASUSTeK COMPUTER, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "80,000,000:1",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "warranty": "3 Year",
+    "model": "VS207NE",
+    "resolution": "1600 x 900",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "49.5 cm (19.5\")",
+    "tilt_angle": "-5°20°",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes"
+}

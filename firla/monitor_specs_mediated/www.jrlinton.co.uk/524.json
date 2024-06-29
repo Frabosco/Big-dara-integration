@@ -1,0 +1,22 @@
+{
+    "name": "AS17LED-W, VIGAS17LEDWHITE, Vigilant Vision, Ltd, LCD Monitor, JR Linton",
+    "aspect_ratio": "4:3",
+    "backlight_technology": "LED",
+    "manufacturer": "Vigilant Vision, Ltd",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "10,000:1",
+    "dimensions": "379 mm",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "110 V AC",
+    "model": "AS17LED-(W)",
+    "resolution": "1280 x 1024",
+    "power_consumption": "15 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "43.2 cm (17\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes",
+    "weight": "3.17 kg"
+}

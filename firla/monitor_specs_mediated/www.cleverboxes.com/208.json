@@ -1,0 +1,15 @@
+{
+    "name": "Cleverboxes - BDL:K1374V140-UK | Fujitsu B19-6 (19-inch) LED Display",
+    "audio_input": "1 x Audio Line Input",
+    "brightness": "250cd/m2",
+    "contrast_ratio": "1,000:1 (Static) , 2,000,000:1 (Dynamic)",
+    "dimensions": "41.1cm (W) x 5.8cm (D) x 34.8cm (H) - Weight 5.0kg",
+    "display_type": "LED",
+    "model": "B19-6",
+    "description": "Display",
+    "resolution": "1024 x 768 Pixels",
+    "response_time": "5ms",
+    "swivel_angle": "340°",
+    "vga": "1 x 15-pin D-sub",
+    "warranty": "3 Years"
+}

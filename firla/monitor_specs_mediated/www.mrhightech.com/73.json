@@ -1,0 +1,19 @@
+{
+    "name": "LG 29EA73-P - MrHighTech Shop",
+    "aspect_ratio": "21:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "699.7 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "736.6 mm (29 \")",
+    "resolution": "2560 x 1080 pixels",
+    "hdcp_supported": "Yes",
+    "voltage": "100 - 240 V",
+    "operating_system": "Yes",
+    "power_consumption": "48 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 20 °",
+    "weight": "5.21632 kg"
+}

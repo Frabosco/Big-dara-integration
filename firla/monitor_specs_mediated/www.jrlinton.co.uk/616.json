@@ -1,0 +1,22 @@
+{
+    "name": "9H.LATLA.3PE, 3174388, BenQ, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:10",
+    "manufacturer": "BenQ Corporation",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "12,000,000:1",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "230 V AC",
+    "model": "BL",
+    "resolution": "1680 x 1050",
+    "power_consumption": "26 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "55.9 cm (22\")",
+    "swivel_angle": "45°",
+    "tilt_angle": "-5°to20°",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "5.50 kg"
+}

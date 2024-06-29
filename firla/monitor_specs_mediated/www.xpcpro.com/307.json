@@ -1,0 +1,21 @@
+{
+    "name": "VA2046M-LED - ViewSonic VA2046m-LED,  LED monitor - Xpcpro.com",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "N",
+    "builtin_speakers": "Y",
+    "contrast_ratio": "10000000:1",
+    "dimensions": "478.2 mm",
+    "brightness": "200 cd/m²",
+    "screen_size": "20 \"",
+    "resolution": "1600 x 900 pixels",
+    "height_adjustable": "N",
+    "voltage": "100 - 240 V",
+    "osd_languages": "Y",
+    "operating_temperature": "0 - 40 °C",
+    "power_consumption": "18 W",
+    "manual": "Y",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 18 °",
+    "vga": "1",
+    "weight": "2600 g"
+}

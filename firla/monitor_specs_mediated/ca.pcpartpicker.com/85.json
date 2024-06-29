@@ -1,0 +1,20 @@
+{
+    "name": "HP ZR2240w 60Hz 21.5\" Monitor (XW475A8#ABA) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "1000:1",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "HP",
+    "model": "ZR2240w",
+    "part_number": "XW475A8#ABA",
+    "refresh_rate": "60Hz",
+    "response_time": "8 ms",
+    "screen_size": "21.5\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

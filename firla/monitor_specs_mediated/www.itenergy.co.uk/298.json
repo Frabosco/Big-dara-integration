@@ -1,0 +1,22 @@
+{
+    "name": "VG2438SM, B921673, ViewSonic, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "50,000,000:1",
+    "dimensions": "556.8 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "warranty": "3 Year",
+    "model": "VG",
+    "resolution": "1920 x 1200",
+    "power_consumption": "30 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "61 cm (24\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "5.74 kg"
+}

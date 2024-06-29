@@ -1,0 +1,19 @@
+{
+    "name": "NEC MultiSync V423 - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "dimensions": "97.25 cm",
+    "brightness": "320 cd/mÂ²",
+    "screen_size": "106.68 cm",
+    "resolution": "1920 x 1080 pixels",
+    "ethernet": "Yes",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "No",
+    "led_indicators": "Yes",
+    "manual": "Yes",
+    "operating_temperature": "-20 - 60 Â°C",
+    "power_consumption": "0.5W",
+    "response_time": "12 ms",
+    "weight": "16800g"
+}

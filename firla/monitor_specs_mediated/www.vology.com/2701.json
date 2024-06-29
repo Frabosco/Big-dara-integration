@@ -1,0 +1,12 @@
+{
+    "name": "ACER UM.CV6AA.006 - Vology",
+    "aspect_ratio": "5:4",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "100000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor",
+    "power_consumption": "15.8 Watt",
+    "response_time": "5 ms",
+    "voltage": "AC 120/230 V",
+    "weight": "6.8 lbs"
+}

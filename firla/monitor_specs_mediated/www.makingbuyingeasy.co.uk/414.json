@@ -1,0 +1,20 @@
+{
+    "name": "NEC X552S - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "dimensions": "125.04 cm",
+    "brightness": "500 cd/mÂ²",
+    "screen_size": "139.7 cm (55\")",
+    "resolution": "1920 x 1080 pixels",
+    "display_surface": "Yes",
+    "ethernet": "Yes",
+    "operating_temperature": "-20 - 60 Â°C",
+    "audio_input": "Yes",
+    "pixel_pitch": "0.63 x 0.63 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "160W",
+    "vga": "1",
+    "weight": "2.5 kg",
+    "wifi": "No"
+}

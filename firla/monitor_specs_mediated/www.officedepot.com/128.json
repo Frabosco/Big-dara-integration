@@ -1,0 +1,21 @@
+{
+    "name": "Planar PXL2230MW 22 Edge LED LCD Touchscreen Monitor 169 5 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "Edge LED",
+    "manufacturer": "Planar Systems, Inc",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "20.3\"",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "voltage": "110 V AC; 220 V AC",
+    "resolution": "1920 x 1080",
+    "model": "PXL2230MW",
+    "description": "LCD Touchscreen Monitor",
+    "response_time": "5 ms",
+    "screen_size": "22\"",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "170°"
+}

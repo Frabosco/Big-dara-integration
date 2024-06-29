@@ -1,0 +1,22 @@
+{
+    "name": "iiyama ProLite E2278HD-GB1 - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "514.5 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "546.1 mm (21.5 \")",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "100 - 240 V",
+    "pixel_pitch": "0.248 x 0.248 mm",
+    "power_consumption": "20 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 23 °",
+    "vga": "1",
+    "weight": "2.8 kg"
+}

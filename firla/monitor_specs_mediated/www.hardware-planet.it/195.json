@@ -1,0 +1,23 @@
+{
+    "name": "ACER LED 24 B246HLwmdr Wide MONITOR LED",
+    "dimensions": "567 mm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "160 °",
+    "certifications": "Non specificato",
+    "display_colors": "16.77 M",
+    "vesa_mount_compatible": "100 x 100 mm",
+    "screen_size": "61 cm",
+    "builtin_camera": "N",
+    "hdcp_supported": "Si",
+    "wall_mountable": "Si",
+    "weight": "6.09 kg",
+    "dvi": "Si",
+    "contrast_ratio": "100000000:1",
+    "height_adjustable": "Si",
+    "resolution": "1920 x 1080 Pixels",
+    "pivot": "Si",
+    "source_datasheet": ".",
+    "response_time": "5 ms",
+    "display_type": "LCD",
+    "voltage": "110 - 220 V"
+}

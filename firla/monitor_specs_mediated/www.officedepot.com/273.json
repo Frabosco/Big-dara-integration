@@ -1,0 +1,22 @@
+{
+    "name": "Lenovo ThinkVision LT1952p 19 LED LCD Monitor 1610 5 ms by Office Depot",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "Lenovo Group Limited",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "17.4\"",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "resolution": "1440 x 900",
+    "model": "ThinkVision",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "19\"",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "9.49 lb"
+}

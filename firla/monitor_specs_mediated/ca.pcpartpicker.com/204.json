@@ -1,0 +1,18 @@
+{
+    "name": "Dell E2014T 60Hz 19.5\" Monitor (E2014T) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "225 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "8000000:1 (1000:1)",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "hdmi": "1",
+    "backlight_technology": "No",
+    "manufacturer": "Dell",
+    "part_number": "E2014T",
+    "refresh_rate": "60Hz",
+    "response_time": "2 ms",
+    "screen_size": "19.5\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

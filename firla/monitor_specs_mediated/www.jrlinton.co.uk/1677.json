@@ -1,0 +1,23 @@
+{
+    "name": "223V5LSB/00, 2788560, Philips, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Philips Electronics",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "503 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "220 V AC",
+    "model": "223V5LSB",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "54.6 cm (21.5\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "2.61 kg"
+}

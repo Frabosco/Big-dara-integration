@@ -1,0 +1,19 @@
+{
+    "name": "BenQ GW2760HS 60Hz 27.0\" Monitor (GW2760HS) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "300 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "DC 20,000,000:1 (3000:1)",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "BenQ",
+    "part_number": "GW2760HS",
+    "refresh_rate": "60Hz",
+    "response_time": "4 ms",
+    "screen_size": "27\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

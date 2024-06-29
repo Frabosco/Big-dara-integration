@@ -1,0 +1,14 @@
+{
+    "name": "3M 32  C3266PW MULTITOUCH TFT 3M",
+    "aspect_ratio": "Widescreen",
+    "backlight_technology": "LED backlight",
+    "brightness": "405 cd/m2",
+    "contrast_ratio": "1300:1",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "0 - 90% (non-condensing)",
+    "manufacturer": "3M",
+    "pixel_pitch": "0.364 mm",
+    "power_consumption": "100 Watt",
+    "response_time": "5 ms",
+    "voltage": "AC 120/230 V"
+}

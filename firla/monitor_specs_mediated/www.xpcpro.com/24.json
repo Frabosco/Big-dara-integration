@@ -1,0 +1,22 @@
+{
+    "name": "T72MDEU - Lenovo LT2252P 55.9CM 22\" WIDE TFT - Xpcpro.com",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "N",
+    "builtin_speakers": "N",
+    "security_lock_slot": "Kensington",
+    "dimensions": "506 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "55.9 cm",
+    "resolution": "1680 x 1050 pixels",
+    "certifications": "Gold",
+    "operating_system": "Y",
+    "manual": "Y",
+    "operating_temperature": "0 - 40 °C",
+    "pivot": "Y",
+    "pixel_pitch": "0.282 x 0.282 mm",
+    "power_consumption": "20 W",
+    "led_indicators": "Y",
+    "response_time": "5 ms",
+    "vga": "1",
+    "weight": "5890 g"
+}

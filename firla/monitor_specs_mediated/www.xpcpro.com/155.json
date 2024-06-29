@@ -1,0 +1,23 @@
+{
+    "name": "25UM65-P - LG 25UM65-P  LED monitor  25\"  2560 x - Xpcpro.com",
+    "aspect_ratio": "21:9",
+    "builtin_camera": "N",
+    "builtin_speakers": "Y",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "609 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "63.5 cm",
+    "resolution": "2560 x 1080 pixels",
+    "display_surface": "Matt",
+    "hdcp_supported": "Y",
+    "voltage": "90 - 240 V",
+    "led_indicators": "Y",
+    "osd_languages": "Y",
+    "operating_temperature": "-20 - 60 °C",
+    "pixel_pitch": "0.2286 x 0.2286 mm",
+    "plug_and_play": "Y",
+    "power_consumption": "31 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 20 °",
+    "weight": "3780 g"
+}

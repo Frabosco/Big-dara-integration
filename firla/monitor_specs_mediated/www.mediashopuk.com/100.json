@@ -1,0 +1,18 @@
+{
+    "name": "Samsung NS190 Thin Client Monitor - MediaShopUK",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "No",
+    "dimensions": "443 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "482.6 mm (19 \")",
+    "resolution": "1440 x 900 pixels",
+    "hdcp_supported": "No",
+    "voltage": "100 - 240 V",
+    "power_consumption": "35 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "vga": "1",
+    "weight": "4.42 kg"
+}

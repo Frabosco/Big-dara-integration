@@ -1,0 +1,21 @@
+{
+    "name": "9H.LAGLB.QBE, 2997289, BenQ, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "BenQ Corporation",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "20,000,000:1",
+    "dimensions": "545.7 mm",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "EW40",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "4 ms",
+    "screen_size": "61 cm (24\")",
+    "tilt_angle": "-5Â°to20Â°",
+    "vga": "Yes",
+    "weight": "3.74 kg"
+}

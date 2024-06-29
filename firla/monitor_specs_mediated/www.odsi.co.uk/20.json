@@ -1,0 +1,13 @@
+{
+    "name": "NEC 60003594 MultiSync X462UNV - 46\" LED-Backlit LCD Flat Panel Display",
+    "brightness": "450 cd/m2",
+    "dimensions": "102.4 cm",
+    "operating_temperature": "20 - 80%",
+    "manufacturer": "NEC",
+    "power_consumption": "260 Watt",
+    "description": "LED-backlit LCD flat panel display",
+    "resolution": "1920 x 1080",
+    "response_time": "8 ms",
+    "viewing_angle": "178 degrees",
+    "weight": "24.3 kg"
+}

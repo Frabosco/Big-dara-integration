@@ -1,0 +1,22 @@
+{
+    "name": "LG 29UM65-P LED display - MBE",
+    "aspect_ratio": "21:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "70.25 cm",
+    "brightness": "300 cd/mÂ²",
+    "screen_size": "73.66 cm (29\")",
+    "resolution": "2560 x 1080 pixels",
+    "display_surface": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "100 - 240V",
+    "osd_languages": "Yes",
+    "audio_input": "Yes",
+    "pixel_pitch": "0.0876 x 0.2628 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "38W",
+    "response_time": "5 ms",
+    "tilt_angle": "20Â°",
+    "weight": "5.2 kg"
+}

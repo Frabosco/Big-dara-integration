@@ -1,0 +1,15 @@
+{
+    "name": "HP A5V72AA#ABA LV1911 LED Monitor - 18.5\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "200 cd/m2",
+    "contrast_ratio": "600:1 / 3000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "20 - 80% (non-condensing)",
+    "pixel_pitch": "0.3 mm",
+    "power_consumption": "0.5 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "-4/+18",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "5.5 lbs"
+}

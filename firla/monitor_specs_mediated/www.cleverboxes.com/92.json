@@ -1,0 +1,16 @@
+{
+    "name": "Cleverboxes - LH40MECPLGC/EN | Samsung ME40C (40 inch) 60Hz LED BLU Display 5000:1 350cd/m2 1920x1080 8ms HDMI/DVI-D",
+    "aspect_ratio": "16:9",
+    "audio_input": "1 x 3.5mm Stereo Mini-Jack",
+    "audio_output": "1 x 3.5mm Stereo Mini-jack",
+    "brightness": "350cd/m2",
+    "contrast_ratio": "5,000:1 (Static) , 100,000:1 (Dynamic)",
+    "dimensions": "92.54cm (W) x 9.35cm (D) x 54.26cm (H)",
+    "model": "ME40C",
+    "pixel_pitch": "(H) 0.153mm x (V) 0.461mm",
+    "description": "Display",
+    "response_time": "8ms",
+    "display_type": "60Hz LED BLU 16.7 Million Colour",
+    "vga": "1 x 15-pin D-sub",
+    "wall_mountable": "Yes , VESA Compliant - 200mm x 200mm"
+}

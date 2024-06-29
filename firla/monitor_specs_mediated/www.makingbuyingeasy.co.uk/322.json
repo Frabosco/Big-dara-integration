@@ -1,0 +1,19 @@
+{
+    "name": "DELL UltraSharp U2713HM - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Yes",
+    "contrast_ratio": "2000000:1",
+    "dimensions": "63.93 cm",
+    "brightness": "350 cd/mÂ²",
+    "screen_size": "68.58 cm",
+    "resolution": "2560 x 1440 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Yes",
+    "pixel_pitch": "0.23 x 0.23 mm",
+    "power_consumption": "0.5W",
+    "response_time": "68.58 ms",
+    "vga": "1",
+    "weight": "5.6 kg"
+}

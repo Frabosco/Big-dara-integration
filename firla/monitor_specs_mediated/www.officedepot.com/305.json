@@ -1,0 +1,22 @@
+{
+    "name": "HP x2401 24 LED LCD Monitor 169 12 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hewlett-Packard",
+    "brightness": "250 Nit",
+    "contrast_ratio": "5,000:1",
+    "dimensions": "22.3\"",
+    "displayport": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "resolution": "1920 x 1080",
+    "model": "x2401",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "12 ms",
+    "screen_size": "24\"",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "Yes",
+    "viewing_angle": "178°",
+    "weight": "10.14 lb"
+}

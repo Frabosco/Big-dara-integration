@@ -1,0 +1,19 @@
+{
+    "name": "CDP6530, B921370, ViewSonic, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "500 cd/mÂ²",
+    "contrast_ratio": "5,000:1",
+    "dimensions": "1500 mm",
+    "dvi": "Yes",
+    "hdmi": "Yes",
+    "model": "CDP6530",
+    "resolution": "1920 x 1080",
+    "power_consumption": "520 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "165.1 cm (65\")",
+    "vesa_mount_compatible": "400 x 400",
+    "vga": "Yes",
+    "weight": "70 kg"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "PL C1911S-B3 - Iiyama ProLite C1911S-3 - LCD - Xpcpro.com",
+    "aspect_ratio": "16:9",
+    "builtin_speakers": "Y",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "-",
+    "dimensions": "407 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "19 \"",
+    "resolution": "1280 x 1024 pixels",
+    "hdcp_supported": "N",
+    "voltage": "100 - 240 V",
+    "manual": "Y",
+    "power_consumption": "19 W",
+    "led_indicators": "Y",
+    "response_time": "5 ms",
+    "vga": "1",
+    "weight": "3900 g"
+}

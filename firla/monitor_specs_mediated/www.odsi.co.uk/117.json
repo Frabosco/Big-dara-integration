@@ -1,0 +1,18 @@
+{
+    "name": "Lenovo T48MNUK ThinkVision LT1952p -19\" LED Monitor",
+    "aspect_ratio": "Widescreen - 16:10",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 10000000:1 (dynamic)",
+    "dimensions": "44.1 cm",
+    "display_type": "LCD display / TFT active matrix - WLED backlight",
+    "height_adjustable": "110 mm",
+    "manufacturer": "LENOVO",
+    "pixel_pitch": "0.2835 mm",
+    "power_consumption": "13 Watt",
+    "response_time": "5 ms",
+    "swivel_angle": "360",
+    "tilt_angle": "-3/+20",
+    "voltage": "( 50/60 Hz )",
+    "weight": "4.3 kg"
+}

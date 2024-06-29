@@ -1,0 +1,19 @@
+{
+    "name": "BenQ RL2460HT 60Hz 24.0\" Monitor (RL2460HT) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "DC 12,000,000:1 (1000:1)",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "2",
+    "backlight_technology": "Yes",
+    "manufacturer": "BenQ",
+    "part_number": "RL2460HT",
+    "refresh_rate": "60Hz",
+    "response_time": "1 ms",
+    "screen_size": "24\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Hanns.G HW246HBB LED display - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "40000000:1",
+    "dimensions": "55.87 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "60 cm",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "voltage": "100 - 240V",
+    "manual": "Yes",
+    "osd_languages": "Yes",
+    "operating_temperature": "5 - 35 Â°C",
+    "pixel_pitch": "0.271 x 0.271 mm",
+    "power_consumption": "22W",
+    "response_time": "5 ms",
+    "tilt_angle": "-1.5 - 18.5Â°",
+    "vga": "1",
+    "weight": "5.1 kg"
+}

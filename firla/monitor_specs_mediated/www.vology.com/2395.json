@@ -1,0 +1,15 @@
+{
+    "name": "ASUS VG248QE - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "LED backlight",
+    "brightness": "350 cd/m2",
+    "contrast_ratio": "80000000:1 (dynamic)",
+    "display_type": "LCD monitor / TFT active matrix",
+    "height_adjustable": "4.3 in",
+    "pixel_pitch": "0.2768 mm",
+    "power_consumption": "45 Watt",
+    "response_time": "1 ms (gray-to-gray)",
+    "swivel_angle": "90",
+    "tilt_angle": "-5/+15",
+    "voltage": "AC 120/230 V ( 50/60 Hz )"
+}

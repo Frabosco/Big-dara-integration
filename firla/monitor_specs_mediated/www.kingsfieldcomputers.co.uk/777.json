@@ -1,0 +1,22 @@
+{
+    "name": "24MB35PY-B, 2975557, LG Electronics, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "LG Electronics",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "5,000,000:1",
+    "dimensions": "569 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdmi": "No",
+    "model": "24MB35PY-B",
+    "resolution": "1920 x 1080",
+    "power_consumption": "24 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "61 cm (24\")",
+    "tilt_angle": "-5°to20°",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.72 kg"
+}

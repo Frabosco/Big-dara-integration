@@ -1,0 +1,16 @@
+{
+    "name": "NEC-60002697-NEC MultiSync PA241W-BK - 24\" -LED Backlit LCD Monitor",
+    "aspect_ratio": "Widescreen - 16:10",
+    "brightness": "360 cd/m2",
+    "contrast_ratio": "1000:1",
+    "display_type": "LCD monitor / TFT active matrix",
+    "height_adjustable": "150 mm",
+    "operating_temperature": "30 - 80%",
+    "manufacturer": "NEC",
+    "pixel_pitch": "0.27 mm",
+    "power_consumption": "95 Watt",
+    "response_time": "16 ms (typical rise + fall); 8 ms (grey-to-grey)",
+    "tilt_angle": "35",
+    "voltage": "AC 120/230 V",
+    "weight": "10.6 kg"
+}

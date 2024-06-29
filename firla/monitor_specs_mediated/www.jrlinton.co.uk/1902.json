@@ -1,0 +1,21 @@
+{
+    "name": "60003493, NECEA274WMIB, NEC Display Solutions, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "NEC Display Solutions",
+    "brightness": "350 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "warranty": "3 Year",
+    "model": "EA",
+    "resolution": "2560 x 1440",
+    "power_consumption": "800 mW",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vga": "Yes",
+    "weight": "8.70 kg"
+}

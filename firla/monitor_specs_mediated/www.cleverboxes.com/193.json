@@ -1,0 +1,19 @@
+{
+    "name": "Cleverboxes - PA249Q | Asus PA249Q (24 inch) LCD Monitor  80000000:1 350 cd/m2 1920 x 1200 6ms HDMI DVI VGA DisplayPort",
+    "aspect_ratio": "16:10",
+    "brightness": "350cd/m2",
+    "certifications": "TCO 5.2 • UL/cUL • CB • CE • ErP • FCC • CCC • TUV-GS • TUV-ERGO • ISO9241-307 • BSMI • Gost-R • C-Tick • VCCI • PSB • NOM • J-MOSS • RoHS • Windows 7 WHQL • Mac Compliance • Energy Star",
+    "contrast_ratio": "8,000,0000:1 (Dynamic)",
+    "display_type": "IPS",
+    "displayport": "1 x DisplayPort",
+    "audio_output": "1 x 3.5mm Mini-Jack",
+    "height_adjustable": "Yes",
+    "model": "PA249Q",
+    "pivot": "Yes",
+    "pixel_pitch": "0.270mm",
+    "description": "Display",
+    "response_time": "6ms",
+    "usb_ports": "2 x USB (1 x Upstream, 1 x Downstream)",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 100mm x 100mm"
+}

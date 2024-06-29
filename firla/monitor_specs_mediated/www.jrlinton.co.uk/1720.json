@@ -1,0 +1,20 @@
+{
+    "name": "HE195APB, V320092, Hannspree, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hannspree, Inc",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "40,000,000:1",
+    "dimensions": "444.2 mm",
+    "certifications": "Yes",
+    "warranty": "3 Year",
+    "model": "HE",
+    "resolution": "1366 x 768",
+    "power_consumption": "22 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "47 cm (18.5\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "2.80 kg"
+}

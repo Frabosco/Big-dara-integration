@@ -1,0 +1,20 @@
+{
+    "name": "R52DSEU, S601YZ7, Lenovo, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Lenovo Group Limited",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "400:1",
+    "dimensions": "335 mm",
+    "certifications": "Yes",
+    "warranty": "3 Year",
+    "model": "LT1421",
+    "resolution": "1366 x 768",
+    "power_consumption": "100 mW",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "35.6 cm (14\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "No",
+    "weight": "840 g"
+}

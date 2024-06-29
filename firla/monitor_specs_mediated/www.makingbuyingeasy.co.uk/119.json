@@ -1,0 +1,22 @@
+{
+    "name": "AOC e2070Swn 19.5 LED 1600x900 VGA Black - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "20000000:1",
+    "brightness": "200 cd/mÂ²",
+    "screen_size": "49.5 cm",
+    "resolution": "1600 x 900 pixels",
+    "display_surface": "Matt",
+    "certifications": "Silver",
+    "hdcp_supported": "No",
+    "height_adjustable": "No",
+    "voltage": "90 - 240V",
+    "pivot": "No",
+    "pixel_pitch": "0.27 x 0.27 mm",
+    "power_consumption": "18W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 15Â°",
+    "vga": "1"
+}

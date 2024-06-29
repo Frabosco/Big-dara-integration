@@ -1,0 +1,21 @@
+{
+    "name": "IIyama 22 PL T2234MC Touch MONITOR LED",
+    "dimensions": "51,75 cm",
+    "viewing_angle": "178°",
+    "certifications": "CE, TÜV-Bauart, VCCI, IP54",
+    "display_colors": "16,77M",
+    "vesa_mount_compatible": "100 x 100 mm",
+    "screen_size": "54,61 cm (21.5\")",
+    "pixel_pitch": "0,247 x 0,247 mm",
+    "tilt_angle": "-5 - 90°",
+    "wall_mountable": "Si",
+    "osd_languages": "8",
+    "weight": "7,2 kg",
+    "contrast_ratio": "1000:1",
+    "resolution": "1920 x 1080 Pixels",
+    "operating_system": "Si",
+    "sync_hv_separated": "Si",
+    "response_time": "8 ms",
+    "display_type": "IPS",
+    "voltage": "100 - 240V"
+}

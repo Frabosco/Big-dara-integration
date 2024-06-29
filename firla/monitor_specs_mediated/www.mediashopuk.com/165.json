@@ -1,0 +1,21 @@
+{
+    "name": "LG IPS277L - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "contrast_ratio": "5000000:1",
+    "brightness": "250 cd/m²",
+    "screen_size": "68.6 cm",
+    "resolution": "1920 x 1080 pixels",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "No",
+    "voltage": "100 - 240 V",
+    "pixel_pitch": "0.311 x 0.311 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "31 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "4.36 kg"
+}

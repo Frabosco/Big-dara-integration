@@ -1,0 +1,16 @@
+{
+    "name": "NEC-60003295-NEC AccuSync AS241W - 24\" LCD Monitor",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "CCFL",
+    "brightness": "300 cd/m2",
+    "contrast_ratio": "1000:1",
+    "display_type": "LCD monitor / TFT active matrix",
+    "operating_temperature": "20 - 80%",
+    "manufacturer": "NEC",
+    "pixel_pitch": "0.272 mm",
+    "power_consumption": "23 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "22",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "4.3 kg"
+}

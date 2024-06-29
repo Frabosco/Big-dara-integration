@@ -1,0 +1,18 @@
+{
+    "name": "Gateway FHX2303LAbd 60Hz 23.0\" Monitor (UM.VW3AA.A01) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "200 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "100,000,000:1 (600:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Gateway",
+    "model": "FHX2303LAbd",
+    "part_number": "UM.VW3AA.A01",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "23\"",
+    "vga": "1",
+    "viewing_angle": "110° H x 70° V"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "LG LED 24 24MB65PM-W IPS 16:10 5ms VGA DVI Speaker MONITOR LED",
+    "dimensions": "55,8 cm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "178°",
+    "certifications": "Non specificato",
+    "display_colors": "16,77M",
+    "screen_size": "60,96 cm (24\")",
+    "builtin_camera": "No",
+    "swivel_angle": "Si",
+    "hdcp_supported": "Si",
+    "tilt_angle": "Si",
+    "audio_input": "Si",
+    "wall_mountable": "Si",
+    "weight": "5,4 kg",
+    "dvi": "Si",
+    "contrast_ratio": "1000:1",
+    "resolution": "1920 x 1200 Pixels",
+    "pivot": "Si",
+    "response_time": "5 ms",
+    "display_type": "LED"
+}

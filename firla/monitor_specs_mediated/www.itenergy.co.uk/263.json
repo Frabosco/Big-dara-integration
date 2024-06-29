@@ -1,0 +1,23 @@
+{
+    "name": "855-BBBC, DELE1715S, Dell, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "5:4",
+    "backlight_technology": "LED",
+    "manufacturer": "Dell, Inc",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "374.5 mm",
+    "displayport": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "3 Year",
+    "model": "P1914S",
+    "resolution": "1280 x 1024",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "43.2 cm (17\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "2.08 kg"
+}

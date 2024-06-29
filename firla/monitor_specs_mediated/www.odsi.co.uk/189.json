@@ -1,0 +1,14 @@
+{
+    "name": "NEC-60003323-NEC MultiSync P232W - 23\" - LED-Backlit LCD Monitor",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "150 mm",
+    "manufacturer": "NEC",
+    "pixel_pitch": "0.265 mm",
+    "power_consumption": "29 Watt",
+    "response_time": "8 ms",
+    "weight": "9.2 kg"
+}

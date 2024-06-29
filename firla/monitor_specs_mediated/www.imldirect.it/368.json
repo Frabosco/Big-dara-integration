@@ -1,0 +1,22 @@
+{
+    "name": "LS27D390HS/XU, Samsung, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Samsung",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "625.2 mm",
+    "displayport": "No",
+    "dvi": "No",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "120 V AC",
+    "model": "390",
+    "resolution": "1920 x 1080",
+    "power_consumption": "300 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vga": "Yes",
+    "weight": "4.70 kg"
+}

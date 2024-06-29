@@ -1,0 +1,15 @@
+{
+    "name": "Elo TouchSystems 1541L - MBE",
+    "aspect_ratio": "16:9",
+    "brightness": "225 cd/mÂ²",
+    "screen_size": "39.62 cm (15.6\")",
+    "resolution": "1366 x 768 pixels",
+    "display_type": "LCD",
+    "voltage": "12V",
+    "osd_languages": "Yes",
+    "operating_temperature": "-20 - 60 Â°C",
+    "power_consumption": "15W",
+    "response_time": "16 ms",
+    "vga": "1",
+    "weight": "2.94 kg"
+}

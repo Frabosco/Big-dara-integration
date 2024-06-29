@@ -1,0 +1,20 @@
+{
+    "name": "VX2452MH, B921504, ViewSonic, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "558.8 mm",
+    "dvi": "Yes",
+    "hdmi": "Yes",
+    "model": "VX",
+    "resolution": "1920 x 1080",
+    "power_consumption": "21.50 W",
+    "description": "LCD Monitor",
+    "response_time": "2 ms",
+    "screen_size": "61 cm (24\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "3.80 kg"
+}

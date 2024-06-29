@@ -1,0 +1,23 @@
+{
+    "name": "ASUS MX239H 23'' Full HD LED screen - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "subwoofer": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "80000000:1",
+    "dimensions": "52.22 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "58.4 cm",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "voltage": "110 - 240V",
+    "pixel_pitch": "0.2652 x 0.2652 mm",
+    "power_consumption": "33W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 20Â°",
+    "vga": "1",
+    "weight": "3.7 kg"
+}

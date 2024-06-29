@@ -1,0 +1,14 @@
+{
+    "name": "Cleverboxes - U-23 | AG Neovo U-19 23 inch Multimedia LED Display and Built in Speakers",
+    "audio_input": "1 x 3.5mm Stereo Audio line in",
+    "audio_output": "1 x 3.5mm Stereo Audio line out",
+    "brightness": "250cd/m2",
+    "certifications": "CB, FCC, CE, TCO 5.2, Energy Star, RoHS, WEEE, REACH",
+    "contrast_ratio": "1,000,000:1 (Dynamic)",
+    "dimensions": "51.2cm (W) x 17.4cm (D) x 40.3cm (H) - Weight 5.8kg",
+    "display_type": "LED Monitor",
+    "pixel_pitch": "0.266mm",
+    "plug_and_play": "VESA DDC 2B, DDC/CI",
+    "response_time": "3ms",
+    "vga": "1 x 15-pin D-Sub"
+}

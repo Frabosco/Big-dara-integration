@@ -1,0 +1,14 @@
+{
+    "name": "TD2740 27 TOUCH MM IPS HD DP TD2740 Viewsonic",
+    "aspect_ratio": "Widescreen",
+    "backlight_technology": "WLED",
+    "brightness": "260 cd/m2",
+    "contrast_ratio": "3000:1",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "manufacturer": "Viewsonic",
+    "power_consumption": "52 Watt",
+    "response_time": "12 ms",
+    "tilt_angle": "+15/+70",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "8.8 kg"
+}

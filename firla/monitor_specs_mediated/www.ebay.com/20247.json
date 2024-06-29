@@ -1,0 +1,15 @@
+{
+    "name": "Elo 1517L 15\" LED LCD Touchscreen Monitor - 4:3 - 25 ms - IntelliTouch E344758",
+    "aspect_ratio": "4:3",
+    "backlight_technology": "LED",
+    "manufacturer": "Elo",
+    "brightness": "250 Nit",
+    "contrast_ratio": "700:1",
+    "voltage": "110 V AC",
+    "model": "1517L",
+    "resolution": "1024 x 768",
+    "description": "LCD Touchscreen Monitor",
+    "response_time": "25 ms",
+    "screen_size": "15\"",
+    "refresh_rate": "75 Hz"
+}

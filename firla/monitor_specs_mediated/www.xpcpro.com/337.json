@@ -1,0 +1,20 @@
+{
+    "name": "E2280WSD-B1 - Iiyama ProLite E2280WSD-B1 LED - Xpcpro.com",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "N",
+    "builtin_speakers": "Y",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "512.5 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "22 \"",
+    "resolution": "1680 x 1050 pixels",
+    "hdcp_supported": "Y",
+    "voltage": "100 - 240 V",
+    "pixel_pitch": "0.282 x 0.282 mm",
+    "power_consumption": "21 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-4 - 21 °",
+    "vga": "1",
+    "weight": "3600 g"
+}

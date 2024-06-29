@@ -1,0 +1,21 @@
+{
+    "name": "DSM10.4LED-WGF, VIGDSM10.4LED, Vigilant Vision, Ltd, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "4:3",
+    "backlight_technology": "LED",
+    "manufacturer": "Vigilant Vision, Ltd",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "500:1",
+    "dimensions": "267 mm",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "DSM 10.4 LED-WGF",
+    "resolution": "800 x 600",
+    "power_consumption": "15 W",
+    "description": "LCD Monitor",
+    "response_time": "25 ms",
+    "screen_size": "26.4 cm (10.4\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes",
+    "weight": "2 kg"
+}

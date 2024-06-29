@@ -1,0 +1,18 @@
+{
+    "name": "HP ZR2330w 60Hz 23.0\" Monitor (C6Y18A8#ABA) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "DC 1,000,000:1 (1000:1)",
+    "displayport": "1",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "HP",
+    "model": "ZR2330w",
+    "part_number": "C6Y18A8#ABA",
+    "refresh_rate": "60Hz",
+    "response_time": "14 ms",
+    "screen_size": "23\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

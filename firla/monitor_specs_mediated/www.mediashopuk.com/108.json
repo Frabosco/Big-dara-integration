@@ -1,0 +1,19 @@
+{
+    "name": "Wortmann AG TERRA LED 2450W - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "15000000:1",
+    "dimensions": "578 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "609.6 mm (24 \")",
+    "resolution": "1920 x 1080 pixels",
+    "hdcp_supported": "Yes",
+    "pixel_pitch": "0.277 x 0.277 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "20 W",
+    "response_time": "5 ms",
+    "tilt_angle": "5 - 20 °",
+    "vga": "1",
+    "weight": "3.6 kg"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "E2070SWN, 2779103, AOC, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "AOC",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "800:1",
+    "displayport": "No",
+    "dvi": "No",
+    "certifications": "Yes",
+    "hdcp_supported": "No",
+    "hdmi": "No",
+    "voltage": "220 V AC",
+    "warranty": "3 Year",
+    "model": "E2070SWN",
+    "resolution": "1600 x 900",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "49.5 cm (19.5\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes"
+}

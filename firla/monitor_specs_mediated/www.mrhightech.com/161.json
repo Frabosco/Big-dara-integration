@@ -1,0 +1,20 @@
+{
+    "name": "Samsung LS22C65UDC LED display - MrHighTech Shop",
+    "aspect_ratio": "16:9",
+    "bluetooth": "No",
+    "dimensions": "576.58 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "546.1 mm (21.5 \")",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Gold",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 240 V",
+    "pivot": "-1 - 95 °",
+    "pixel_pitch": "0.24825 x 0.24825 mm",
+    "power_consumption": "38 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-3 - 25 °",
+    "vga": "1",
+    "weight": "3.221 kg"
+}

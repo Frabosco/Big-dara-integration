@@ -1,0 +1,22 @@
+{
+    "name": "210-ABRO, 0912943, Dell, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Dell, Inc",
+    "brightness": "300 cd/mÂ²",
+    "contrast_ratio": "2,000,000:1",
+    "dimensions": "641.4 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "warranty": "3 Year",
+    "model": "P2714H",
+    "resolution": "1920 x 1080",
+    "power_consumption": "43 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "4.56 kg"
+}

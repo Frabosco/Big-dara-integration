@@ -1,0 +1,22 @@
+{
+    "name": "ASUS PB298Q LED display - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "80000000:1",
+    "brightness": "300 cd/mÂ²",
+    "screen_size": "73.025 cm",
+    "resolution": "2650 x 1080 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 240V",
+    "osd_languages": "Yes",
+    "pivot": "Yes",
+    "pixel_pitch": "0.2628 x 0.2628 mm",
+    "power_consumption": "31.7W",
+    "led_indicators": "Yes",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 20Â°"
+}

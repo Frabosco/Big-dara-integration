@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 25000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "53.8 mm",
+    "operating_temperature": "20 - 80%",
+    "manufacturer": "NEC",
+    "pixel_pitch": "0.27 mm",
+    "power_consumption": "24 Watt",
+    "response_time": "5 ms",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "7.6 kg"
+}

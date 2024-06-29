@@ -1,0 +1,20 @@
+{
+    "name": "Edge10 C192 LED display - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "dimensions": "440 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "47 cm",
+    "resolution": "1366 x 768 pixels",
+    "hdcp_supported": "No",
+    "height_adjustable": "No",
+    "voltage": "100 - 240 V",
+    "osd_languages": "Yes",
+    "pixel_pitch": "0.264 x 0.264 mm",
+    "power_consumption": "21 W",
+    "response_time": "5 ms",
+    "vga": "1",
+    "weight": "3.635 kg"
+}

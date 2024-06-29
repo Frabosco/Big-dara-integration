@@ -1,0 +1,17 @@
+{
+    "name": "HP A9S75A8#ABA Compaq LA1956x LED Monitor - 19\" - Smart Buy - Vology",
+    "aspect_ratio": "5:4",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 1000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "4.7 in",
+    "operating_temperature": "20 - 80% (non-condensing)",
+    "pixel_pitch": "0.294 mm",
+    "power_consumption": "27 Watt",
+    "response_time": "5 ms",
+    "swivel_angle": "360",
+    "tilt_angle": "-5/+25",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "9.9 lbs"
+}

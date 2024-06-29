@@ -1,0 +1,21 @@
+{
+    "name": "AG Neovo U-17 - MediaShopUK",
+    "aspect_ratio": "4:3, 5:4",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "dimensions": "397 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "43.2 cm",
+    "resolution": "1280 x 1024 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "No",
+    "voltage": "100 - 240 V",
+    "manual": "Yes",
+    "operating_temperature": "-20 - 60 °C",
+    "power_consumption": "20 W",
+    "response_time": "3 ms",
+    "tilt_angle": "0 - 20 °",
+    "vga": "1",
+    "weight": "5.7 kg"
+}

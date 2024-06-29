@@ -1,0 +1,17 @@
+{
+    "name": "HP XW476A8#ABA ZR2740w LED Monitor - 27\" - Smart Buy - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "380 cd/m2",
+    "contrast_ratio": "1000:1",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "3.9 in",
+    "operating_temperature": "20 - 80% (non-condensing)",
+    "pixel_pitch": "0.2331 mm",
+    "power_consumption": "95 Watt",
+    "response_time": "14 ms (On/Off); 12 ms (gray-to-gray)",
+    "swivel_angle": "90",
+    "tilt_angle": "-5/+35",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "23.1 lbs"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Acer H236HLbid 60Hz 23.0\" Monitor (UM.VH6AA.003) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "ACM 100,000,000:1 (1000:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Acer",
+    "model": "H236HLbid",
+    "part_number": "UM.VH6AA.003\n(or) H236HLbid",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "23\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

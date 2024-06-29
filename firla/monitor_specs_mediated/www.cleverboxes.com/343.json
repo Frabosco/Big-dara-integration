@@ -1,0 +1,14 @@
+{
+    "name": "Cleverboxes - EB220H | Edge10 EB220h (21.5 inch)  Full HD LED Monitor with Height Adjustable Stand 20,000:1 300cd/m2 1920x1080 5ms DVI (Black Bezel)",
+    "brightness": "300cd/m2",
+    "contrast_ratio": "20,000:1 (Static)",
+    "model": "EB220h",
+    "pixel_pitch": "0.24835mm",
+    "plug_and_play": "DDC1/2B",
+    "description": "Display",
+    "response_time": "5ms",
+    "display_type": "Active Matrix TFT LCD 16.7 Million Colour",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 100mm x 100mm",
+    "warranty": "3 years"
+}

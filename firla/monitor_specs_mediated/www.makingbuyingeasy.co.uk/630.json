@@ -1,0 +1,22 @@
+{
+    "name": "DELL UltraSharp U3014 - MBE",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Yes",
+    "contrast_ratio": "2000000:1",
+    "dimensions": "68.97 cm",
+    "brightness": "350 cd/mÂ²",
+    "screen_size": "75.6 cm",
+    "resolution": "2560 x 1600 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 240V",
+    "operating_temperature": "-20 - 60 Â°C",
+    "pixel_pitch": "0.25 x 0.25 mm",
+    "power_consumption": "60W",
+    "manual": "Yes",
+    "response_time": "6 ms",
+    "weight": "10840g"
+}

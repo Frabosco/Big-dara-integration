@@ -1,0 +1,14 @@
+{
+    "name": "AG Neovo X-15 - MediaShopUK",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "dimensions": "380 mm",
+    "brightness": "320 cd/m²",
+    "screen_size": "381 mm (15 \")",
+    "resolution": "1024 x 768 pixels",
+    "pixel_pitch": "0.297 x 0.297 mm",
+    "response_time": "4 ms",
+    "vga": "1",
+    "weight": "4.8 kg"
+}

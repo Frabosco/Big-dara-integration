@@ -1,0 +1,22 @@
+{
+    "name": "857-BBCJ, DELE1914H, Dell, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Dell, Inc",
+    "brightness": "200 cd/mÂ²",
+    "contrast_ratio": "600:1",
+    "dimensions": "446.4 mm",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "3 Year",
+    "model": "E1914H",
+    "resolution": "1366 x 768",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "47 cm (18.5\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "2.39 kg"
+}

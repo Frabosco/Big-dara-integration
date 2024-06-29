@@ -1,0 +1,23 @@
+{
+    "name": "NEC MultiSync PA272W - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "dimensions": "64.04 cm",
+    "brightness": "340 cd/mÂ²",
+    "screen_size": "68.5 cm",
+    "resolution": "2560 x 1440 pixels",
+    "display_surface": "Yes",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 240V",
+    "manual": "Yes",
+    "osd_languages": "Yes",
+    "operating_temperature": "5 - 35 Â°C",
+    "pivot": "0 - 90Â°",
+    "pixel_pitch": "0.23 x 0.23 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "50W",
+    "response_time": "6 ms",
+    "weight": "8.9 kg"
+}

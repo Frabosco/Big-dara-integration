@@ -1,0 +1,20 @@
+{
+    "name": "Iiyama ProLite XU2290HS-B1 - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "53.25 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "58.4 cm",
+    "resolution": "1920 x 1080 pixels",
+    "hdcp_supported": "Yes",
+    "voltage": "100 - 240V",
+    "operating_temperature": "-20 - 60 Â°C",
+    "pixel_pitch": "0.265 x 0.265 mm",
+    "power_consumption": "24W",
+    "manual": "Yes",
+    "response_time": "5 ms",
+    "vga": "1",
+    "weight": "3.22 kg"
+}

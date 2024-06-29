@@ -1,0 +1,23 @@
+{
+    "name": "LS20C300BL/EN, Samsung, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Samsung",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "476.2 mm",
+    "displayport": "No",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "No",
+    "voltage": "110 V AC",
+    "warranty": "2 Year",
+    "model": "300",
+    "resolution": "1600 x 900",
+    "power_consumption": "300 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "49.5 cm (19.5\")",
+    "vga": "Yes",
+    "weight": "2.40 kg"
+}

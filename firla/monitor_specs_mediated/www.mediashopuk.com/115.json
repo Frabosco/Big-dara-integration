@@ -1,0 +1,19 @@
+{
+    "name": "AG Neovo X-15W White - MediaShopUK",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "dimensions": "380 mm",
+    "brightness": "320 cd/m²",
+    "screen_size": "381 mm (15 \")",
+    "resolution": "1024 x 768 pixels",
+    "certifications": "Yes",
+    "operating_temperature": "-20 - 60 °C",
+    "pixel_pitch": "0.297 x 0.297 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "36 W",
+    "response_time": "4 ms",
+    "tilt_angle": "0 - 20 °",
+    "vga": "1",
+    "weight": "4.8 kg"
+}

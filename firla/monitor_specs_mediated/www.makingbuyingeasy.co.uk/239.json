@@ -1,0 +1,20 @@
+{
+    "name": "Benq BL902TM - MBE",
+    "aspect_ratio": "5:4",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "12000000:1",
+    "dimensions": "41.92 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "48.26 cm (19\")",
+    "resolution": "1280 x 1024 pixels",
+    "hdcp_supported": "Yes",
+    "voltage": "90 - 264V",
+    "manual": "Yes",
+    "osd_languages": "Yes",
+    "power_consumption": "25.8W",
+    "response_time": "5 ms",
+    "vga": "1",
+    "weight": "5.1 kg"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "HP L1506x 75Hz 15.0\" Monitor (LL543A8#ABA) - PCPartPicker Canada",
+    "aspect_ratio": "4:3",
+    "brightness": "400 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "DC 1,000,000:1 (700:1)",
+    "backlight_technology": "Yes",
+    "manufacturer": "HP",
+    "model": "L1506x",
+    "part_number": "LL543A8#ABA",
+    "refresh_rate": "75Hz",
+    "response_time": "8 ms",
+    "screen_size": "15\"",
+    "vga": "1",
+    "viewing_angle": "160° H x 140° V"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Acer LED 22 V226WLbmd MONITOR LED",
+    "dimensions": "505.7 mm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "160 °",
+    "certifications": "Non specificato",
+    "display_colors": "16.77 M",
+    "screen_size": "558.8 mm (22 \")",
+    "builtin_camera": "N",
+    "hdcp_supported": "Si",
+    "led_indicators": "Si",
+    "weight": "3.52 kg",
+    "dvi": "Si",
+    "contrast_ratio": "100000000:1",
+    "resolution": "1680 x 1050 Pixels",
+    "source_datasheet": ".",
+    "response_time": "5 ms",
+    "display_type": "LED",
+    "voltage": "110 - 220 V"
+}

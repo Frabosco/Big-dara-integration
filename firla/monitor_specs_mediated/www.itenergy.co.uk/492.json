@@ -1,0 +1,16 @@
+{
+    "name": "HP205DJB, V320104, Hannspree, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hannspree, Inc",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "80,000,000:1",
+    "dvi": "Yes",
+    "model": "HP205DJB",
+    "resolution": "1600 x 900",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "49.5 cm (19.5\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes"
+}

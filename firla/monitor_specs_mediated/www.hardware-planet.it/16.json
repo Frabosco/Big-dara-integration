@@ -1,0 +1,22 @@
+{
+    "name": "LG LED 23 23MB35PM-W IPS16:9 5ms VGA DVI Sp MONITOR LED",
+    "dimensions": "54,9 cm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "178°",
+    "certifications": "Non specificato",
+    "display_colors": "16,77M",
+    "screen_size": "58,42 cm (23\")",
+    "pixel_pitch": "0,265 x 0,265 mm",
+    "builtin_camera": "No",
+    "manual": "Si",
+    "hdcp_supported": "Si",
+    "led_indicators": "Si",
+    "audio_input": "Si",
+    "weight": "4,485 kg",
+    "dvi": "Si",
+    "contrast_ratio": "5000000:1",
+    "resolution": "1920 x 1080 Pixels",
+    "response_time": "5 ms",
+    "display_type": "LED",
+    "voltage": "100 - 240V"
+}

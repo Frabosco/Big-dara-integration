@@ -1,0 +1,22 @@
+{
+    "name": "E2280WSD-B, Iiyama, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "iiyama North America, Inc",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "220 V AC",
+    "model": "E2280WSD",
+    "resolution": "1680 x 1050",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "55.9 cm (22\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "3.60 kg"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "U2868PQU, 3058977, AOC, LCD Monitor, JR Linton",
+    "manufacturer": "AOC",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "80,000,000:1",
+    "dimensions": "658.9 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdmi": "Yes",
+    "model": "U2868PQU",
+    "resolution": "3840 x 2160",
+    "description": "LCD Monitor",
+    "response_time": "2 ms",
+    "screen_size": "71.1 cm (28\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes"
+}

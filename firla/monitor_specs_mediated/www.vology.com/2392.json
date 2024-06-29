@@ -1,0 +1,13 @@
+{
+    "name": "ASUS PA249Q - Vology",
+    "aspect_ratio": "Widescreen - 16:10",
+    "backlight_technology": "LED backlight",
+    "brightness": "350 cd/m2",
+    "contrast_ratio": "80000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "pixel_pitch": "0.27 mm",
+    "power_consumption": "75 Watt",
+    "response_time": "6 ms (gray-to-gray)",
+    "tilt_angle": "-5/+20",
+    "voltage": "AC 120/230 V"
+}

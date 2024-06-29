@@ -1,0 +1,21 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 60003323 | NEC Displays MultiSync P232W (23 inch) IPS Monitor 100:1 250cd/m2 1920x1080 8ms DisplayPort/HDMI/DVI-D (White)",
+    "aspect_ratio": "16:9",
+    "brightness": "250cd/m2",
+    "contrast_ratio": "1,000:1 (Static)",
+    "dimensions": "54.36cm (W) x 22.76cm (D) x 48.74cm (H) - Weight 9.20kg",
+    "displayport": "1 x DisplayPort",
+    "height_adjustable": "Yes",
+    "model": "MultiSync",
+    "pixel_pitch": "0.265mm",
+    "plug_and_play": "VESA DDC/CI; EDID Standard; VESA DDC2B",
+    "power_consumption": "29W (Max) / 1W (Standby)",
+    "description": "Monitor",
+    "response_time": "8ms",
+    "display_type": "IPS 16.77 million Colour",
+    "swivel_angle": "±45°",
+    "vga": "1 x 15-pin D-sub",
+    "wall_mountable": "Yes , VESA Compliant - 200mm x 100mm",
+    "warranty": "3 Years Including Backlight"
+}

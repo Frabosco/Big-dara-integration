@@ -1,0 +1,17 @@
+{
+    "name": "Planar PT1700MX Touchscreen LCD Monitor by Office Depot",
+    "aspect_ratio": "4:3",
+    "manufacturer": "Planar Systems, Inc",
+    "brightness": "240 Nit",
+    "contrast_ratio": "700:1",
+    "dimensions": "15.8\"",
+    "voltage": "110 V AC; 220 V AC",
+    "resolution": "1280 x 1024",
+    "model": "PT",
+    "description": "LCD Touchscreen Monitor",
+    "screen_size": "17\"",
+    "refresh_rate": "76 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "13.60 lb"
+}

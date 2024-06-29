@@ -1,0 +1,22 @@
+{
+    "name": "VG2401MH, B921671, ViewSonic, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "350 cd/m²",
+    "contrast_ratio": "30,000,000:1",
+    "dimensions": "568.2 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "warranty": "3 Year",
+    "model": "VG",
+    "resolution": "1920 x 1080",
+    "power_consumption": "37 W",
+    "description": "LCD Monitor",
+    "response_time": "1 ms",
+    "screen_size": "61 cm (24\")",
+    "vesa_mount_compatible": "Yes",
+    "weight": "6.45 kg"
+}

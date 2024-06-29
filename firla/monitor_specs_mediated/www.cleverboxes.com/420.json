@@ -1,0 +1,16 @@
+{
+    "name": "Cleverboxes - AG Neovo U-17 Neo-v Eco 17 inch Multimedia LCD Monitor",
+    "audio_input": "1 x 3.5mm Mini-Jack",
+    "brightness": "250cd/m2",
+    "certifications": "UL, FCC, CB, CE, BSMI, EUP, Energy Star, RoHS, WEEE, REACH",
+    "contrast_ratio": "1,000:1 (Static)",
+    "dimensions": "39.7cm (W) x 17.4cm (D) x 39.0cm (H) - Weight 5.7kg",
+    "audio_output": "1 x 3.5mm Mini-Jack",
+    "pixel_pitch": "0.264mm",
+    "power_consumption": "25W (Max) / 1W (Standby) / 0W (Saving)",
+    "resolution": "SXGA",
+    "response_time": "3ms",
+    "display_type": "TFT LCD 16.7 million Colours",
+    "vga": "1 x 15-pin D-sub",
+    "wall_mountable": "VESA Compliant - 100mm x 100mm"
+}

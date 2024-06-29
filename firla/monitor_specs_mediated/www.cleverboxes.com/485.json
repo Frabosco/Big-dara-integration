@@ -1,0 +1,21 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 60003430 | NEC Displays MultiSync X551S 55 inch S-PVA with Edge LED Backlights Display 4000:1 600cd/m2 1920x1080 8ms HDMI/DisplayPort/DVI-D/VGA (Black) + Integrated Protective Glass",
+    "aspect_ratio": "16:9",
+    "audio_input": "1 x 3.5mm Mini-Jack",
+    "audio_output": "1 x 3.5mm Mini Jack",
+    "brightness": "600cd/m2",
+    "certifications": "CE; TÜV GS; C-tick; Energy Star 5.0; FCC Class A; UL/C-UL or CSA; PSB; VCCI; RoHS",
+    "contrast_ratio": "4,000:1 (Static)",
+    "dimensions": "125.40cm (W) x 4.33cm (D) x 72.63cm (H) - Weight 23.90kg",
+    "displayport": "1 x DisplayPort",
+    "model": "MultiSync",
+    "plug_and_play": "VESA DDC2Bi",
+    "power_consumption": "200W (Max) / 0.5W (Standby)",
+    "description": "Display",
+    "response_time": "8ms",
+    "display_type": "S-PVA LCD",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 300mm x 300mm",
+    "warranty": "3 years warranty including backlight"
+}

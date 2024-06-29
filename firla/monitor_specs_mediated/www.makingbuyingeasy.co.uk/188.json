@@ -1,0 +1,19 @@
+{
+    "name": "Benq VW2245Z - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "2000000:1",
+    "dimensions": "38.22 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "54.61 cm (21.5\")",
+    "resolution": "1920 x 1080 pixels",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "No",
+    "pixel_pitch": "0.248 x 0.248 mm",
+    "power_consumption": "0.5W",
+    "response_time": "25 ms",
+    "vga": "1",
+    "weight": "2.7 kg"
+}

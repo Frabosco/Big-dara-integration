@@ -1,0 +1,21 @@
+{
+    "name": "K9602016, 2315300, Barco, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:10",
+    "manufacturer": "Barco",
+    "brightness": "800 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "731 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "5 Year",
+    "model": "MDCC-6130",
+    "resolution": "3280 x 2048",
+    "power_consumption": "166 W",
+    "description": "LCD Monitor",
+    "response_time": "18 ms",
+    "screen_size": "76.2 cm (30\")",
+    "refresh_rate": "80 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "weight": "26.90 kg"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Asus Designo MX299Q 29 LED LCD Monitor 219 5 ms by Office Depot",
+    "aspect_ratio": "21:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "300 Nit",
+    "contrast_ratio": "80,000,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "resolution": "2560 x 1080",
+    "model": "MX",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "29\"",
+    "vesa_mount_compatible": "No",
+    "vga": "No",
+    "viewing_angle": "178°",
+    "weight": "12.13 lb"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "DoubleSight DS-279W 60Hz 27.0\" Monitor (DS-279W) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "350 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "1000:1",
+    "display_colors": "1070000000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "DoubleSight",
+    "part_number": "DS-279W",
+    "refresh_rate": "60Hz",
+    "response_time": "6 ms",
+    "screen_size": "27\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

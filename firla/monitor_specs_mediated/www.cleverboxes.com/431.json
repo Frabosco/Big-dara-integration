@@ -1,0 +1,14 @@
+{
+    "name": "Cleverboxes - EB190H | Edge10 EB190h (19 inch) Full HD LED Monitor with Height Adjustable Stand 20,000:1 300cd/m2 1440x900 5ms DVI Black Bezel)",
+    "brightness": "300cd/m2",
+    "contrast_ratio": "20,000:1 (Static)",
+    "model": "EB190h",
+    "pixel_pitch": "0.24835mm",
+    "plug_and_play": "DDC1/2B",
+    "description": "Display",
+    "response_time": "5ms",
+    "display_type": "Active Matrix TFT 16.7 Million Colour",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 100mm x 200mm",
+    "warranty": "3 years"
+}

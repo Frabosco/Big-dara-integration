@@ -1,0 +1,19 @@
+{
+    "name": "Iiyama ProLite T2452MTS-B4 - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_speakers": "Yes",
+    "dimensions": "55.6 cm",
+    "brightness": "260 cd/mÂ²",
+    "screen_size": "59.94 cm (23.6\")",
+    "resolution": "1920 x 1080 pixels",
+    "display_type": "LED",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "100 - 240V",
+    "pixel_pitch": "0.272 x 0.272 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "22W",
+    "response_time": "2 ms",
+    "tilt_angle": "-9 - 22Â°",
+    "weight": "6.2 kg"
+}

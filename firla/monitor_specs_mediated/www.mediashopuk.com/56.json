@@ -1,0 +1,23 @@
+{
+    "name": "ASUS VE228TR - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "80000000:1",
+    "dimensions": "512.84 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "54.6 cm",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "height_adjustable": "No",
+    "voltage": "100 - 240 V",
+    "pixel_pitch": "0.248 x 0.248 mm",
+    "power_consumption": "35 W",
+    "manual": "Yes",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "4.1 kg"
+}

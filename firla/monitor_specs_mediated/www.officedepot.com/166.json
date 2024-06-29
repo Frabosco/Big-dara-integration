@@ -1,0 +1,20 @@
+{
+    "name": "Asus VS24AH P 241 LED LCD Monitor 1610 5 ms by Office Depot",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "contrast_ratio": "80,000,000:1",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "resolution": "1920 x 1200",
+    "model": "VS24AH-P",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "refresh_rate": "61 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "178°",
+    "weight": "10.14 lb"
+}

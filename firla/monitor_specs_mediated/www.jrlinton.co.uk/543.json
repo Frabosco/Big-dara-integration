@@ -1,0 +1,20 @@
+{
+    "name": "210-ABYZ, 0912938, Dell, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Dell, Inc",
+    "brightness": "350 cd/m²",
+    "contrast_ratio": "2,000,000:1",
+    "dimensions": "749.3 mm",
+    "displayport": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "model": "UP3214Q",
+    "resolution": "3840 x 2160",
+    "power_consumption": "170 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "80 cm (31.5\")",
+    "vesa_mount_compatible": "Yes",
+    "weight": "9.22 kg"
+}

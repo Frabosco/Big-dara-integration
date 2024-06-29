@@ -1,0 +1,10 @@
+{
+    "name": "ACER UM.RB6AA.001 - Vology",
+    "aspect_ratio": "Widescreen - 21:9",
+    "backlight_technology": "WLED",
+    "brightness": "300 cd/m2",
+    "contrast_ratio": "100000000:1 (dynamic)",
+    "display_type": "LCD monitor / TFT active matrix",
+    "response_time": "8 ms",
+    "voltage": "AC 120/230 V"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Benq GL2450HT - MrHighTech Shop",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "12000000:1",
+    "dimensions": "579 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "609.6 mm (24 \")",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "osd_languages": "Yes",
+    "pivot": "Yes",
+    "pixel_pitch": "0.276 x 0.276 mm",
+    "power_consumption": "23 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 15 °",
+    "vga": "1",
+    "weight": "5.1 kg"
+}

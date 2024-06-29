@@ -1,0 +1,11 @@
+{
+    "name": "Dell UltraSharp U2713H 27 LED Monitor by Office Depot",
+    "aspect_ratio": "16:9",
+    "manufacturer": "Dell, Inc.",
+    "contrast_ratio": "1000:1 (static, typical); 2 million:1 (dynamic)",
+    "dimensions": "16.67\"-21.2\"H x 25.17\"W x 7.89\"D",
+    "resolution": "2560 x 1440",
+    "model": "UltraSharp U2713H",
+    "pixel_pitch": "0.231 mm",
+    "display_type": "in-plane switching (IPS)"
+}

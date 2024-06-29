@@ -1,0 +1,15 @@
+{
+    "name": "NEC-60003682-NEC MultiSync E243WMI-WH - 23.8\" - LED-Backlit LCD Monitor",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 25000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "110 mm",
+    "operating_temperature": "20 - 80%",
+    "manufacturer": "NEC",
+    "pixel_pitch": "0.28 mm",
+    "power_consumption": "19 Watt",
+    "response_time": "6 ms",
+    "weight": "6.3 kg"
+}

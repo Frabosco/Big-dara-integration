@@ -1,0 +1,18 @@
+{
+    "name": "NEC MD242C2 60Hz 24.0\" Monitor (MD242C2) - PCPartPicker Canada",
+    "aspect_ratio": "16:10",
+    "brightness": "180 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "1000:1",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "No",
+    "manufacturer": "NEC",
+    "part_number": "MD242C2",
+    "refresh_rate": "60Hz",
+    "response_time": "8 ms",
+    "screen_size": "24\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

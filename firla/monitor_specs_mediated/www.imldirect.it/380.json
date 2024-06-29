@@ -1,0 +1,21 @@
+{
+    "name": "A1W80AT#ABU, HP, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hewlett-Packard",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "555.1 mm",
+    "certifications": "Yes",
+    "voltage": "110 V AC",
+    "model": "Advantage",
+    "resolution": "1920 x 1080",
+    "power_consumption": "1 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "58.4 cm (23\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "6.55 kg"
+}

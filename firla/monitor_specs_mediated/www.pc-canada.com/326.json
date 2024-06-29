@@ -1,0 +1,20 @@
+{
+    "name": "BL2410PT - Benq Bl2410pt Widescreen Lcd Monitor - PC-Canada.com",
+    "aspect_ratio": "16:9",
+    "manufacturer": "BenQ Corporation",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "5,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "No",
+    "model": "BL",
+    "resolution": "1920 x 1080",
+    "power_consumption": "200 mW",
+    "description": "LCD Monitor",
+    "response_time": "4 ms",
+    "screen_size": "24\"",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "6.70 kg"
+}

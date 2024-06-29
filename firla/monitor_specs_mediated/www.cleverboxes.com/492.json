@@ -1,0 +1,23 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 60003337 | NEC Displays MultiSync EA224WMi (22 inch) IPS W-LED Backlight Monitor 1000:1 250cd/m2 1920x1080 6ms HDMI/DisplayPort/DVI-D (White)",
+    "aspect_ratio": "16:9",
+    "brightness": "250cd/m2",
+    "contrast_ratio": "1,000:1 (Static) , 25,000:1 (Dynamic)",
+    "dimensions": "50.70cm (W) x 21.80cm (D) x 37.0cm (H) - Weight 5.60kg",
+    "displayport": "1 x DisplayPort",
+    "audio_output": "1 x Headphone Port",
+    "height_adjustable": "Yes",
+    "model": "MultiSync",
+    "pixel_pitch": "0.247mm",
+    "plug_and_play": "VESA DDCi; VESA DDC2B",
+    "power_consumption": "26W (Max) / 0.43W (Standby)",
+    "description": "Monitor",
+    "response_time": "6ms",
+    "display_type": "IPS TFT 16.7 Million Colour",
+    "swivel_angle": "±170°",
+    "usb_ports": "1 x USB 2.0 (4 down, 1 up)",
+    "vga": "1 x Mini 15-pin D-sub",
+    "wall_mountable": "Yes , VESA Compliant - 100mm x 100mm",
+    "warranty": "3 Years Including Backlight"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ViewSonic VP2772 27\" 2560x1440 6ms DVI-D HDMI Display Port LED Monitor",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "350 cd/m2",
+    "contrast_ratio": "1000:1 / 20000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "150 mm",
+    "manufacturer": "Viewsonic",
+    "power_consumption": "65 Watt",
+    "response_time": "6 ms",
+    "swivel_angle": "120",
+    "tilt_angle": "-5/+23",
+    "voltage": "AC 120/230 V",
+    "weight": "8.5 kg"
+}

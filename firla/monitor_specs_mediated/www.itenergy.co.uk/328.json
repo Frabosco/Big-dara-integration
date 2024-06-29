@@ -1,0 +1,23 @@
+{
+    "name": "D7R00A4#ABU, HP, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hewlett-Packard",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "641 mm",
+    "displayport": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "voltage": "230 V AC",
+    "warranty": "3 Year",
+    "model": "Z",
+    "resolution": "2560 x 1440",
+    "description": "LCD Monitor",
+    "response_time": "7 ms",
+    "screen_size": "68.6 cm (27\")",
+    "swivel_angle": "45Â°",
+    "tilt_angle": "-5Â°to20Â°",
+    "weight": "8.80 kg"
+}

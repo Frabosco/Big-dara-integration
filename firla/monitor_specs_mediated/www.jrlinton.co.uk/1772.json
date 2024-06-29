@@ -1,0 +1,22 @@
+{
+    "name": "VG2233-LED, B921450, ViewSonic, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "505.6 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "VG2233-LED",
+    "resolution": "1920 x 1080",
+    "power_consumption": "22 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "54.6 cm (21.5\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "6.72 kg"
+}

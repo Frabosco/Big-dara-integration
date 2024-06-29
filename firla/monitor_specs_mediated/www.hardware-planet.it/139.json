@@ -1,0 +1,14 @@
+{
+    "name": "Acer LED 27 V276HLbd MONITOR LED",
+    "builtin_speakers": "N",
+    "certifications": "Non specificato",
+    "screen_size": "685.8 mm (27 \")",
+    "builtin_camera": "N",
+    "led_indicators": "Si",
+    "dvi": "Si",
+    "contrast_ratio": "100000000:1",
+    "resolution": "1920 x 1080 Pixels",
+    "source_datasheet": ".",
+    "response_time": "6 ms",
+    "display_type": "LED"
+}

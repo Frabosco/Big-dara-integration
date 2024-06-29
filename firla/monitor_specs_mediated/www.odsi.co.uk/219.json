@@ -1,0 +1,18 @@
+{
+    "name": "HP F0W81AT#ABU EliteDisplay E241i 23\" 1920x1080 VGA DVI-D DisplayPort LED Monitor",
+    "aspect_ratio": "Widescreen - 16:10",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 5000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor",
+    "height_adjustable": "150 mm",
+    "operating_temperature": "25 - 85% (non-condensing)",
+    "manufacturer": "HP",
+    "pixel_pitch": "0.27 mm",
+    "power_consumption": "35 Watt",
+    "response_time": "8 ms (grey-to-grey)",
+    "swivel_angle": "360",
+    "tilt_angle": "-5/+30",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "4.11 kg"
+}

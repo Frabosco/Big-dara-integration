@@ -1,0 +1,18 @@
+{
+    "name": "Cleverboxes - 60003437 | NEC MultiSync X401S PG (Protective Glass) (40 inch) LED Backlit LCD Display Panel 3000:1 600cd/m2 1920 x 1080 8ms D-Sub/DVI-D/HDMI/DisplayPort",
+    "aspect_ratio": "16:9",
+    "brightness": "600cd/m2",
+    "contrast_ratio": "3,000:1 (Static)",
+    "dimensions": "92.51cm (W) x 4.83cm (D) x 53.71cm (H) - Weight 24.4kg",
+    "display_type": "S-PVA LED Backlit LCD",
+    "displayport": "1 x DisplayPort (with HDCP)",
+    "audio_output": "1 x 3.5mm Stereo Mini Jack",
+    "model": "MultiSync",
+    "plug_and_play": "VESA DDC2Bi",
+    "power_consumption": "12W (Max) /",
+    "description": "Display",
+    "resolution": "1920 x 1080 Pixels",
+    "response_time": "8ms",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 300mm x 300mm"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "NEC MultiSync EX231W - MrHighTech Shop",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "25000:1",
+    "dimensions": "540.2 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "584.2 mm (23 \")",
+    "resolution": "1920 x 1080 pixels",
+    "height_adjustable": "110 mm",
+    "manual": "Yes",
+    "operating_temperature": "-10 - 60 °C",
+    "pixel_pitch": "0.265 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "32 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 30 °",
+    "weight": "2.8 kg"
+}

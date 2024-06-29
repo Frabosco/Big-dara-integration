@@ -1,0 +1,23 @@
+{
+    "name": "DELL UltraSharp U2913WM - MBE",
+    "aspect_ratio": "21:9",
+    "bluetooth": "No",
+    "builtin_camera": "No",
+    "security_lock_slot": "Yes",
+    "contrast_ratio": "2000000:1",
+    "dimensions": "69.98 cm",
+    "brightness": "300 cd/mÂ²",
+    "screen_size": "73.02 cm",
+    "resolution": "2560 x 1080 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 240V",
+    "pixel_pitch": "0.09 x 0.26 mm",
+    "power_consumption": "32W",
+    "manual": "Yes",
+    "response_time": "8 ms",
+    "vga": "1",
+    "weight": "5.76 kg",
+    "wifi": "No"
+}

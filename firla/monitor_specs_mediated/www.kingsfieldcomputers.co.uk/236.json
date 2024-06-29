@@ -1,0 +1,21 @@
+{
+    "name": "9H.LAALB.QBE, 2819843, BenQ, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "manufacturer": "BenQ Corporation",
+    "brightness": "350 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "BL2710PT",
+    "resolution": "2560 x 1440",
+    "description": "LCD Monitor",
+    "response_time": "4 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "8.20 kg"
+}

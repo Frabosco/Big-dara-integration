@@ -1,0 +1,13 @@
+{
+    "name": "ACER UM.IS0AA.002 - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "100000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "pixel_pitch": "0.27 mm",
+    "power_consumption": "14 Watt",
+    "response_time": "5 ms",
+    "voltage": "AC 120/230 V",
+    "weight": "4.4 lbs"
+}

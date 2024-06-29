@@ -1,0 +1,22 @@
+{
+    "name": "60002993, NEC Display Solutions, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:10",
+    "manufacturer": "NEC Display Solutions",
+    "brightness": "360 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "556.3 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "3 Year",
+    "model": "PA241W",
+    "resolution": "1920 x 1200",
+    "power_consumption": "1 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "61.2 cm (24.1\")",
+    "vesa_mount_compatible": "200 x 100",
+    "vga": "Yes",
+    "weight": "10.60 kg"
+}

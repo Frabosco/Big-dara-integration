@@ -1,0 +1,16 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 861-BBCD | Dell E-Series E2214H (22 inch) LED Backlit LCD Monitor 1000:1 250cd/m2 1920x1080 5ms DVI-D/VGA Black (UK)",
+    "aspect_ratio": "16:9",
+    "brightness": "250cd/m2",
+    "contrast_ratio": "1,000:1 (Static)",
+    "dimensions": "47.39cm (W) x 16.55cm (D) x 35.88cm (H) - Weight 2.41kg",
+    "model": "E-Series",
+    "pixel_pitch": "0.27mm",
+    "power_consumption": "19W (Max) / 0.5W (Standby)",
+    "description": "Monitor",
+    "response_time": "5ms",
+    "display_type": "TN (Twisted nematic) 16.7 Million Colour",
+    "vga": "1 x 15-pin D-sub",
+    "wall_mountable": "Yes , VESA Compliant - 100mm x 100mm"
+}

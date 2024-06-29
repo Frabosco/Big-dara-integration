@@ -1,0 +1,22 @@
+{
+    "name": "Benq GL955A - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Yes",
+    "contrast_ratio": "12000000:1",
+    "dimensions": "459 mm",
+    "brightness": "200 cd/m²",
+    "screen_size": "46.9 cm",
+    "resolution": "1366 x 768 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "No",
+    "height_adjustable": "No",
+    "osd_languages": "Yes",
+    "pixel_pitch": "0.3 x 0.3 mm",
+    "power_consumption": "11 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 15 °",
+    "vga": "1",
+    "weight": "2.8 kg"
+}

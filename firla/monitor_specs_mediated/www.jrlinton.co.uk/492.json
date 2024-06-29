@@ -1,0 +1,21 @@
+{
+    "name": "859-BBCT, 0912944, Dell, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Dell, Inc",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "2,000,000:1",
+    "dimensions": "545.8 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "model": "P2314H",
+    "resolution": "1920 x 1080",
+    "power_consumption": "38 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "58.4 cm (23\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "7.39 kg"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Asus VS247H P 236 LED LCD Monitor 169 2 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "300 Nit",
+    "contrast_ratio": "50,000,000:1",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "resolution": "1920 x 1080",
+    "model": "VS",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "2 ms",
+    "screen_size": "23.6\"",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "9.70 lb"
+}

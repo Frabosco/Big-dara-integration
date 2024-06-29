@@ -1,0 +1,14 @@
+{
+    "name": "Lenovo 60A3UAR2US ThinkVision LT1423p LED Monitor - 13.3\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "200 cd/m2",
+    "contrast_ratio": "500:1",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "10 - 80%",
+    "pixel_pitch": "0.184 mm",
+    "power_consumption": "6 Watt",
+    "response_time": "35 ms",
+    "voltage": "DC 5 V",
+    "weight": "30 oz"
+}

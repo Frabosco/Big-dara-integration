@@ -1,0 +1,23 @@
+{
+    "name": "VA2037M-LED - Viewsonic 20\" (19.5\" Viewable) Widescreen Led - PC-Canada.com",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "21.9\" (556.3 mm)",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "110 V AC, 220 V AC",
+    "warranty": "3 Year",
+    "model": "VA2037m-LED",
+    "resolution": "1600 x 900",
+    "power_consumption": "1 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "20\"",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.22 kg"
+}

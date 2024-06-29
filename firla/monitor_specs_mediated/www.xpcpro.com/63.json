@@ -1,0 +1,23 @@
+{
+    "name": "X19P00A1E0100 - AG neovo X-19PW 48.2CM 19IN LED - Xpcpro.com",
+    "bluetooth": "N",
+    "builtin_camera": "N",
+    "builtin_speakers": "Y",
+    "subwoofer": "N",
+    "security_lock_slot": "Kensington",
+    "dimensions": "445 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "48.2 cm",
+    "resolution": "1280 x 1024 pixels",
+    "ethernet": "Y",
+    "voltage": "12 V",
+    "manual": "Y",
+    "operating_temperature": "-20 - 60 °C",
+    "audio_input": "Y",
+    "pixel_pitch": "0.294 x 0.294 mm",
+    "power_consumption": "22 W",
+    "response_time": "3 ms",
+    "vga": "1",
+    "weight": "6800 g",
+    "wifi": "N"
+}

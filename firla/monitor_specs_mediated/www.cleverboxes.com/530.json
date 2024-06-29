@@ -1,0 +1,20 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 60003329 | NEC Displays MultiSync X552S (55 inch) Edge LED Backlit LCD Public Display 4000:1 700cd/m2 1920x1080 8ms HDMI/DisplayPort/DVI-D",
+    "aspect_ratio": "16:9",
+    "audio_input": "1 x 3.5mm Mini-Jack",
+    "audio_output": "1 x 3.5mm Mini Jack",
+    "brightness": "700cd/m2",
+    "certifications": "C-tick; CE; FCC Class B; PSB; TÜV GS; UL/C-UL or CSA; VCCI; Energy Star 5.1; RoHS",
+    "contrast_ratio": "4,000:1 (Static)",
+    "dimensions": "125.45cm (W) x 4.61cm (D) x 72.53cm (H) - Weight 20.50kg",
+    "displayport": "1 x DisplayPort (with HDCP)",
+    "model": "MultiSync",
+    "plug_and_play": "VESA DDC2Bi",
+    "power_consumption": "305W (Max) / 0.5W (Standby)",
+    "description": "Display",
+    "response_time": "8ms",
+    "display_type": "S-PVA",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 300mm x 300mm"
+}

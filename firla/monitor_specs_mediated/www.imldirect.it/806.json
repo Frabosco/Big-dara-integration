@@ -1,0 +1,21 @@
+{
+    "name": "861-BBDH, 0912937, Dell, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Dell, Inc",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "8,000,000:1",
+    "dimensions": "530.6 mm",
+    "displayport": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "model": "UZ2215H",
+    "resolution": "1920 x 1080",
+    "power_consumption": "60 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "54.6 cm (21.5\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "4.88 kg"
+}

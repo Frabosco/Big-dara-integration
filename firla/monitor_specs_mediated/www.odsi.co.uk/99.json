@@ -1,0 +1,15 @@
+{
+    "name": "VA2342-LED 23 DVI HD LED VA2342-LED Viewsonic",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "LED backlight",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 10000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "10 - 90% (non-condensing)",
+    "manufacturer": "Viewsonic",
+    "power_consumption": "22 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "-5/+15",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "2.55 kg"
+}

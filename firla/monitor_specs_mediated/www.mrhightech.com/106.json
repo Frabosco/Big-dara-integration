@@ -1,0 +1,19 @@
+{
+    "name": "AG Neovo X-19 - MrHighTech Shop",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "dimensions": "444 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "482.6 mm (19 \")",
+    "resolution": "1280 x 1024 pixels",
+    "hdcp_supported": "No",
+    "voltage": "100 - 240 V",
+    "manual": "Yes",
+    "operating_temperature": "-20 - 60 °C",
+    "power_consumption": "48 W",
+    "response_time": "3 ms",
+    "tilt_angle": "0 - 15 °",
+    "vga": "1",
+    "weight": "7.9 kg"
+}

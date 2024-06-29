@@ -1,0 +1,13 @@
+{
+    "name": "NEC-60003484-NEC MultiSync E424 - 42\" LED-backlit LCD Flat Panel Display",
+    "brightness": "350 cd/m2",
+    "dimensions": "95.7 cm",
+    "operating_temperature": "10 - 80%",
+    "manufacturer": "NEC",
+    "power_consumption": "86 Watt",
+    "description": "LED-backlit LCD flat panel display",
+    "resolution": "1920 x 1080",
+    "response_time": "6.5 ms",
+    "viewing_angle": "176 degrees",
+    "weight": "12.1 kg"
+}

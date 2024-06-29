@@ -1,0 +1,13 @@
+{
+    "name": "NEC 60003707 MultiSync P703 PG - 70\" LED-backlit LCD Flat Panel Display",
+    "brightness": "700 cd/m2",
+    "dimensions": "158.7 cm",
+    "operating_temperature": "20 - 80%",
+    "manufacturer": "NEC",
+    "power_consumption": "320 Watt",
+    "description": "LED-backlit LCD flat panel display",
+    "resolution": "1920 x 1080",
+    "response_time": "4 ms",
+    "viewing_angle": "178 degrees",
+    "weight": "64.6 kg"
+}

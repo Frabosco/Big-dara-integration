@@ -1,0 +1,15 @@
+{
+    "name": "VA2046M-LED 20 DVI &  SPEAKERS VA2046M-LED Viewsonic",
+    "aspect_ratio": "Widescreen",
+    "backlight_technology": "WLED",
+    "brightness": "200 cd/m2",
+    "contrast_ratio": "600:1 / 10000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "5 - 90% (non-condensing)",
+    "manufacturer": "Viewsonic",
+    "power_consumption": "18 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "-5/+18",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "3 kg"
+}

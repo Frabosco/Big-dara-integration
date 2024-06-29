@@ -1,0 +1,20 @@
+{
+    "name": "DSM17LED-WGF, VIGDSM17LEDWGF, Vigilant Vision, Ltd, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "4:3",
+    "backlight_technology": "LED",
+    "manufacturer": "Vigilant Vision, Ltd",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "model": "DSM17LED-WGF",
+    "resolution": "1280 x 1024",
+    "power_consumption": "30 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "43.2 cm (17\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.80 kg"
+}

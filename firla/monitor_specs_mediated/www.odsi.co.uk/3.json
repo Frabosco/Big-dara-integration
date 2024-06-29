@@ -1,0 +1,13 @@
+{
+    "name": "NEC-60003673-NEC MultiSync X554UNS - 55\" LED-Backlit LCD Flat Panel Display",
+    "brightness": "700 cd/m2",
+    "dimensions": "121.35 cm",
+    "operating_temperature": "20 - 80%",
+    "manufacturer": "NEC",
+    "power_consumption": "300 Watt",
+    "description": "LED-backlit LCD flat panel display",
+    "resolution": "1920 x 1080",
+    "response_time": "8 ms",
+    "viewing_angle": "178 degrees",
+    "weight": "27.9 kg"
+}

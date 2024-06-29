@@ -1,0 +1,23 @@
+{
+    "name": "9H.L4RLB.SBE, M351870, BenQ, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "BenQ Corporation",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "3,000:1",
+    "dimensions": "576.4 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "110 V AC",
+    "model": "BL2400PT",
+    "resolution": "1920 x 1080",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "61 cm (24\")",
+    "power_consumption": "42 W",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "6.20 kg"
+}

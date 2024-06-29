@@ -1,0 +1,18 @@
+{
+    "name": "HP ZR2740w - MrHighTech Shop",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "security_lock_slot": "Yes",
+    "dimensions": "646 mm",
+    "brightness": "380 cd/m²",
+    "screen_size": "685.8 mm (27 \")",
+    "resolution": "2560 x 1440 pixels",
+    "hdcp_supported": "Yes",
+    "operating_temperature": "5 - 35 °C",
+    "pixel_pitch": "0.233 x 0.233 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "120 W",
+    "response_time": "12 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 35 °"
+}

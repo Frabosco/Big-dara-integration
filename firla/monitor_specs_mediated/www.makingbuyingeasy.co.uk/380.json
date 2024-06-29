@@ -1,0 +1,13 @@
+{
+    "name": "Elo TouchSystems 1717L Rev B - MBE",
+    "aspect_ratio": "5:4",
+    "brightness": "200 cd/mÂ²",
+    "screen_size": "43.18 cm (17\")",
+    "resolution": "1280 x 1024 pixels",
+    "display_type": "LCD",
+    "voltage": "100 - 240V",
+    "operating_temperature": "20 - 60 Â°C",
+    "power_consumption": "20W",
+    "response_time": "5 ms",
+    "vga": "1"
+}

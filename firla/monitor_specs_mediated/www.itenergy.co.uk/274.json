@@ -1,0 +1,23 @@
+{
+    "name": "60003414, 3967930, NEC Display Solutions, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "NEC Display Solutions",
+    "brightness": "350 cd/mÂ²",
+    "contrast_ratio": "25,000:1",
+    "dimensions": "556.2 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "warranty": "3 Year",
+    "model": "EA244WMi",
+    "resolution": "1920 x 1200",
+    "power_consumption": "29 W",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "61 cm (24\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "7.50 kg"
+}

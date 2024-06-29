@@ -1,0 +1,16 @@
+{
+    "name": "HP QC841AA Compaq LE2002xi - LED Monitor - 20\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "LED backlight",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 3000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "20 - 80% (non-condensing)",
+    "pixel_pitch": "0.277 mm",
+    "power_consumption": "22 Watt",
+    "response_time": "5 ms",
+    "swivel_angle": "360",
+    "tilt_angle": "23",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "12.8 lbs"
+}

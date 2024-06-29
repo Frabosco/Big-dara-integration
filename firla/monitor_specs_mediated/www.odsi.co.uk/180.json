@@ -1,0 +1,16 @@
+{
+    "name": "ViewSonic VG2433-LED 23.6 Widescreen VGA DVI Full HD Ergonomic Monitor",
+    "aspect_ratio": "Widescreen",
+    "backlight_technology": "WLED",
+    "brightness": "300 cd/m2",
+    "contrast_ratio": "1000:1 / 20000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "100 mm",
+    "manufacturer": "Viewsonic",
+    "power_consumption": "22 Watt",
+    "response_time": "5 ms",
+    "swivel_angle": "360",
+    "tilt_angle": "-5/+25",
+    "voltage": "AC 120/230 V",
+    "weight": "4.66 kg"
+}

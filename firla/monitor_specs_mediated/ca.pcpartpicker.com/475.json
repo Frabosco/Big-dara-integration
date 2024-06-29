@@ -1,0 +1,17 @@
+{
+    "name": "Acer V173 DJObd 75Hz 17.0\" Monitor (UM.BV3AA.D02) - PCPartPicker Canada",
+    "aspect_ratio": "5:4",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "ACM 20000:1 (1000:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "backlight_technology": "No",
+    "manufacturer": "Acer",
+    "model": "V173 DJObd",
+    "part_number": "UM.BV3AA.D02",
+    "refresh_rate": "75Hz",
+    "response_time": "5 ms",
+    "screen_size": "17\"",
+    "vga": "1"
+}

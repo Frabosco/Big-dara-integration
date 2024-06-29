@@ -1,0 +1,19 @@
+{
+    "name": "Dell U2413 60Hz 24.0\" Monitor (469-4030) - PCPartPicker Canada",
+    "aspect_ratio": "16:10",
+    "brightness": "350 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "2,000,000:1 (1000:1)",
+    "display_colors": "1070000000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Dell",
+    "model": "U2413",
+    "part_number": "469-4030\n(or) U2413",
+    "refresh_rate": "60Hz",
+    "response_time": "6 ms",
+    "screen_size": "24\"",
+    "viewing_angle": "178° H x 178° V"
+}

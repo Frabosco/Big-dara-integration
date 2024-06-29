@@ -1,0 +1,19 @@
+{
+    "name": "Acer S241HL bmid 60Hz 24.0\" Monitor (UM.FS1AA.001) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "ACM 100,000,000:1 (1,000:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Acer",
+    "model": "S241HL bmid",
+    "part_number": "UM.FS1AA.001",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "24\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

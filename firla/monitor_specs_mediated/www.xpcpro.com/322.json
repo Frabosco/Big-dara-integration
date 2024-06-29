@@ -1,0 +1,22 @@
+{
+    "name": "60002929 - NEC SpectraView Reference 301 - LCD - Xpcpro.com",
+    "aspect_ratio": "16:10",
+    "builtin_speakers": "N",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "-",
+    "dimensions": "688 mm",
+    "brightness": "350 cd/m²",
+    "screen_size": "30 \"",
+    "resolution": "2560 x 1600 pixels",
+    "display_surface": "Y",
+    "hdcp_supported": "-",
+    "voltage": "100 - 240 V",
+    "osd_languages": "Y",
+    "pixel_pitch": "0.251 x 0.251 mm",
+    "power_consumption": "1 W",
+    "response_time": "6 ms",
+    "operating_temperature": "5 - 35 °C",
+    "swivel_angle": "170 - 170 °",
+    "tilt_angle": "5 - 30 °",
+    "weight": "18800 g"
+}

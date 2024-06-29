@@ -1,0 +1,23 @@
+{
+    "name": "Wortmann AG TERRA LED 2445W - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "20000000:1",
+    "dimensions": "556 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "59.9 cm",
+    "resolution": "1920 x 1080 pixels",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "No",
+    "voltage": "100 - 240 V",
+    "manual": "Yes",
+    "pivot": "No",
+    "pixel_pitch": "0.2715 x 0.2715 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "25 W",
+    "response_time": "7 ms",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "3.7 kg"
+}

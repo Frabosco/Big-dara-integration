@@ -1,0 +1,9 @@
+{
+    "name": "ACER ET.WS0HP.A01 - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "100000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "response_time": "5 ms"
+}

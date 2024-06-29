@@ -1,0 +1,23 @@
+{
+    "name": "DELL Professional P2014H - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Yes",
+    "contrast_ratio": "2000000:1",
+    "dimensions": "47.05 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "49.4 cm",
+    "resolution": "1600 x 900 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 240V",
+    "operating_temperature": "-20 - 60 Â°C",
+    "pixel_pitch": "0.2712 x 0.2626 mm",
+    "power_consumption": "20W",
+    "manual": "Yes",
+    "response_time": "8 ms",
+    "vga": "1",
+    "weight": "2.48 kg"
+}

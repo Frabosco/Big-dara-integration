@@ -1,0 +1,19 @@
+{
+    "name": "HP E271i 60Hz 27.0\" Monitor (D7Z72A8#ABA) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "DC 5,000,000:1 (1000:1)",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "HP",
+    "model": "E271i",
+    "part_number": "D7Z72A8#ABA",
+    "refresh_rate": "60Hz",
+    "response_time": "7 ms",
+    "screen_size": "27\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

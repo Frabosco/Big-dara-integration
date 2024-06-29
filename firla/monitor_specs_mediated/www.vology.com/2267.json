@@ -1,0 +1,15 @@
+{
+    "name": "Lenovo 3778HB2 LS2023 LED Monitor - 20\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "8 - 80%",
+    "pixel_pitch": "0.276 mm",
+    "power_consumption": "0.5 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "-5/+21",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "7 lbs"
+}

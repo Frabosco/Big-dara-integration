@@ -1,0 +1,18 @@
+{
+    "name": "Edge10 C171 LCD Monitor - MediaShopUK",
+    "builtin_camera": "No",
+    "dimensions": "374 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "431.8 mm (17 \")",
+    "resolution": "1280 x 1024 pixels",
+    "operating_temperature": "0 - 40 °C",
+    "audio_input": "Yes",
+    "pixel_pitch": "0.264 x 0.264 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "50 W",
+    "response_time": "5 ms",
+    "led_indicators": "Yes",
+    "tilt_angle": "-2 - 18 °",
+    "vga": "1",
+    "weight": "4.8 kg"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "HE225DPB, V320087, Hannspree, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hannspree, Inc",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "512.8 mm",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "model": "HE",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "54.6 cm (21.5\")",
+    "vga": "Yes",
+    "weight": "3.12 kg"
+}

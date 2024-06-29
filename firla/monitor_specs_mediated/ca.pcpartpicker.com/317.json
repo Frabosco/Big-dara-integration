@@ -1,0 +1,17 @@
+{
+    "name": "Acer V206HQLAbmd 60Hz 19.5\" Monitor (UM.IV6AA.A01) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "200 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "DC 100,000,000:1 (600:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Acer",
+    "model": "V206HQLAbmd",
+    "part_number": "UM.IV6AA.A01",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "19.5\"",
+    "vga": "1"
+}

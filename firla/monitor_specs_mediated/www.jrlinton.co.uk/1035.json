@@ -1,0 +1,23 @@
+{
+    "name": "K9307906, 2655423, Barco, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Barco",
+    "brightness": "450 cd/m²",
+    "contrast_ratio": "1,400:1",
+    "dimensions": "633 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "3 Year",
+    "model": "MDSC-2226",
+    "resolution": "1920 x 1080",
+    "power_consumption": "120 W",
+    "description": "LCD Monitor",
+    "screen_size": "66 cm (26\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "9.50 kg"
+}

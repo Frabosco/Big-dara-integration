@@ -1,0 +1,22 @@
+{
+    "name": "C9V75AA#ABM, HP, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hewlett-Packard",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "5,000,000:1",
+    "dimensions": "544.1 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "model": "Advantage",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "58.4 cm (23\")",
+    "swivel_angle": "360°",
+    "tilt_angle": "-5°to30°",
+    "vga": "Yes",
+    "weight": "3.79 kg"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "VP2770-LED, B921314, ViewSonic, LCD Monitor, Itenergy Ltd",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "300 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "642.7 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "VP",
+    "resolution": "2560 x 1440",
+    "power_consumption": "40 W",
+    "description": "LCD Monitor",
+    "response_time": "12 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "8.43 kg"
+}

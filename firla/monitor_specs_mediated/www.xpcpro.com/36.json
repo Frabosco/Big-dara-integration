@@ -1,0 +1,23 @@
+{
+    "name": "T48MNEU - Lenovo ThinkVision LT1952p - LED monitor - Xpcpro.com",
+    "aspect_ratio": "16:10",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "dimensions": "440.9 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "482.6 mm (19 \")",
+    "resolution": "1440 x 900 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "110 mm",
+    "osd_languages": "Yes",
+    "operating_temperature": "0 - 40 °C",
+    "pivot": "No",
+    "pixel_pitch": "0.2835 x 0.2835 mm",
+    "power_consumption": "0.5 W",
+    "response_time": "5 ms",
+    "swivel_angle": "-45 - 45 °",
+    "tilt_angle": "-3 - 20 °",
+    "vga": "1",
+    "weight": "4300 g"
+}

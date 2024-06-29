@@ -1,0 +1,19 @@
+{
+    "name": "HP ProDisplay P17A - MBE",
+    "aspect_ratio": "5:4",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "dimensions": "37.72 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "43.2 cm",
+    "resolution": "1280 x 1024 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "No",
+    "voltage": "100 - 240V",
+    "pixel_pitch": "0.264 x 0.264 mm",
+    "power_consumption": "15.2W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 25Â°",
+    "vga": "1",
+    "weight": "3.23 kg"
+}

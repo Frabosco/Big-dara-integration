@@ -1,0 +1,22 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 60003482 | NEC Displays MultiSync V801 (80 inch) Public Display TFT 5000:1 460cd/m2 1920 x1080 6ms HDMI/DisplayPort/DVI-D",
+    "aspect_ratio": "16:9",
+    "audio_input": "2 x Cinch (RCA), 1 x Head-Jack 3.5mm",
+    "audio_output": "1 x Cinch(RCA)",
+    "brightness": "460cd/m2",
+    "certifications": "CE; TÜV GS; C-tick; FCC Class B; UL/C-UL or CSA; CCC; PSB; VCCI; RoHS",
+    "contrast_ratio": "5000:1 (Static)",
+    "dimensions": "183.62cm (W) x 8.62cm (D) x 106.13cm (H) - Weight 60.0kg",
+    "displayport": "1 x DisplayPort",
+    "model": "MultiSync",
+    "pixel_pitch": "0.807 x 0.807mm",
+    "plug_and_play": "VESA DDC2Bi",
+    "power_consumption": "420W (Max) / 0.5W (Standby)",
+    "description": "Monitor",
+    "response_time": "6ms",
+    "display_type": "UV2A 16.77 million Colour",
+    "vga": "1 x 15-pin D-sub",
+    "wall_mountable": "Yes , VESA Compliant - 400mm x 400mm",
+    "warranty": "3 Years (Including Backlight)"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "UM.HB0EE.A01, 3168195, Acer, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Acer, Inc",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "639.7 mm",
+    "displayport": "Yes",
+    "certifications": "Yes",
+    "warranty": "2 Year",
+    "model": "X",
+    "resolution": "1920 x 1080",
+    "power_consumption": "450 mW",
+    "description": "LCD Monitor",
+    "response_time": "1 ms",
+    "screen_size": "68.6 cm (27\")",
+    "tilt_angle": "-5°to35°"
+}

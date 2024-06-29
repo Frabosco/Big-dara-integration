@@ -1,0 +1,13 @@
+{
+    "name": "Lenovo 1452DB6 ThinkVision LT1421 LED Monitor - 14\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "200 cd/m2",
+    "contrast_ratio": "400:1",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "pixel_pitch": "0.227 mm",
+    "power_consumption": "4.2 Watt",
+    "response_time": "8 ms",
+    "tilt_angle": "28",
+    "weight": "2.2 lbs"
+}

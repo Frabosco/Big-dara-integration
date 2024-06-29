@@ -1,0 +1,23 @@
+{
+    "name": "HL205DPB, V320093, Hannspree, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hannspree, Inc",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "457.3 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "110 V AC",
+    "warranty": "3 Year",
+    "model": "HL",
+    "resolution": "1600 x 900",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "49.5 cm (19.5\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes"
+}

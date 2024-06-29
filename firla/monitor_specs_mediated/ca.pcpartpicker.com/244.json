@@ -1,0 +1,18 @@
+{
+    "name": "Philips 241B4LPYCB 60Hz 24.0\" Monitor (241B4LPYCB) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "20,000,000:1",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Philips",
+    "part_number": "241B4LPYCB",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "24\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

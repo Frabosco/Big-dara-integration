@@ -1,0 +1,21 @@
+{
+    "name": "60003409, 3967929, NEC Display Solutions, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "NEC Display Solutions",
+    "brightness": "350 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "warranty": "3 Year",
+    "model": "EA",
+    "resolution": "1920 x 1200",
+    "power_consumption": "430 mW",
+    "description": "LCD Monitor",
+    "response_time": "14 ms",
+    "screen_size": "61.2 cm (24.1\")",
+    "vga": "Yes",
+    "weight": "7.60 kg"
+}

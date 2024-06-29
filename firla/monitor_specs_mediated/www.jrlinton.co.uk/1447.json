@@ -1,0 +1,20 @@
+{
+    "name": "HE247DPB, V320094, Hannspree, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hannspree, Inc",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "561 mm",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "model": "HE",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "61 cm (24\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.50 kg"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "HP C9F26A8#ABA ProDisplay P201 LED Monitor - 20\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 3000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "20 - 80% (non-condensing)",
+    "pixel_pitch": "0.2768 mm",
+    "power_consumption": "20 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "-5/+25",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "7.7 lbs"
+}

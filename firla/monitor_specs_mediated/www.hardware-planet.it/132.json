@@ -1,0 +1,17 @@
+{
+    "name": "IIyama 15 PL T1531SR-B1 TOUCH",
+    "viewing_angle": "125°",
+    "certifications": "CE, TÜV-Bauart, Gost-R, VCCI",
+    "vesa_mount_compatible": "100 x 100 mm",
+    "screen_size": "38,1 cm (15\")",
+    "pixel_pitch": "0,297 x 0,297 mm",
+    "tilt_angle": "-5 - 90°",
+    "wall_mountable": "Si",
+    "osd_languages": "Si",
+    "weight": "4,1 kg",
+    "contrast_ratio": "500:1",
+    "resolution": "1024 x 768 Pixels",
+    "sync_hv_separated": "Si",
+    "response_time": "8 ms",
+    "display_type": "TN+Film"
+}

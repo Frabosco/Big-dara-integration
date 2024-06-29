@@ -1,0 +1,23 @@
+{
+    "name": "Samsung LS27C45KBSV LED display - MediaShopUK",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "contrast_ratio": "1000:1",
+    "dimensions": "639 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "66.5 cm",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 240 V",
+    "led_indicators": "Power, Y",
+    "pivot": "-1 - 95 °",
+    "plug_and_play": "Yes",
+    "power_consumption": "30 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-3 - 25 °",
+    "vga": "1",
+    "weight": "6.2 kg"
+}

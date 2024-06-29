@@ -1,0 +1,23 @@
+{
+    "name": "VP2772 - ViewSonic VP2772 - LED monitor  27\" 2560 - Xpcpro.com",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "N",
+    "builtin_speakers": "N",
+    "contrast_ratio": "2000000:1",
+    "dimensions": "642.6 mm",
+    "brightness": "350 cd/m²",
+    "screen_size": "27 \"",
+    "resolution": "2560 x 1440 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Y",
+    "height_adjustable": "Y",
+    "voltage": "100 - 240 V",
+    "manual": "Y",
+    "osd_languages": "Y",
+    "operating_temperature": "0 - 40 °C",
+    "power_consumption": "65 W",
+    "led_indicators": "Y",
+    "response_time": "12 ms",
+    "tilt_angle": "-5 - 23 °",
+    "weight": "5500 g"
+}

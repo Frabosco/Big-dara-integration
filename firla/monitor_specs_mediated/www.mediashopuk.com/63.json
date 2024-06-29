@@ -1,0 +1,19 @@
+{
+    "name": "Benq BL902TM - MediaShopUK",
+    "aspect_ratio": "5:4",
+    "builtin_camera": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "12000000:1",
+    "dimensions": "432.35 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "482.6 mm (19 \")",
+    "resolution": "1280 x 1024 pixels",
+    "hdcp_supported": "Yes",
+    "pixel_pitch": "0.294 x 0.294 mm",
+    "power_consumption": "25.8 W",
+    "response_time": "5 ms",
+    "led_indicators": "Yes",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "5.1 kg"
+}

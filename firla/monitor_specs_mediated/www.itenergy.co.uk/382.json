@@ -1,0 +1,21 @@
+{
+    "name": "9H.LATLA.TPE, M352412, BenQ, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "BenQ Corporation",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "522.2 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "BL",
+    "resolution": "1680 x 1050",
+    "power_consumption": "300 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "55.9 cm (22\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.20 kg"
+}

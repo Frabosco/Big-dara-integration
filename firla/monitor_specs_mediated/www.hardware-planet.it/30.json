@@ -1,0 +1,19 @@
+{
+    "name": "Acer LED 22 B226WLymdr Wide MONITOR LED",
+    "dimensions": "534.2 mm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "160 °",
+    "certifications": "Non specificato",
+    "display_colors": "16.77 M",
+    "screen_size": "55.9 cm",
+    "builtin_camera": "N",
+    "hdcp_supported": "Si",
+    "weight": "5.75 kg",
+    "contrast_ratio": "100000000:1",
+    "height_adjustable": "Si",
+    "resolution": "1680 x 1050 Pixels",
+    "source_datasheet": ".",
+    "response_time": "5 ms",
+    "display_type": "LED",
+    "voltage": "110 - 220 V"
+}

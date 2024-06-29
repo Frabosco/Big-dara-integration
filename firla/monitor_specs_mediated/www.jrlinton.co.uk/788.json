@@ -1,0 +1,22 @@
+{
+    "name": "TH-55LFV50W, PPDTH55LFV50W, Panasonic, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "Direct LED",
+    "manufacturer": "Panasonic",
+    "brightness": "800 cd/m²",
+    "contrast_ratio": "1,400:1",
+    "dimensions": "1215.5 mm",
+    "dvi": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "LFV50",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "10 ms",
+    "screen_size": "139.7 cm (55\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "400 x 400",
+    "vga": "Yes",
+    "weight": "36 kg"
+}

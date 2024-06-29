@@ -1,0 +1,23 @@
+{
+    "name": "LS23C45KBS/EN, Samsung, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Samsung",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "542.9 mm",
+    "displayport": "No",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "No",
+    "voltage": "220 V AC",
+    "model": "450",
+    "resolution": "1920 x 1080",
+    "power_consumption": "100 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "58.4 cm (23\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.60 kg"
+}

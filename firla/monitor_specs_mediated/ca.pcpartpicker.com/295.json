@@ -1,0 +1,18 @@
+{
+    "name": "ViewSonic VX2452mh 60Hz 23.6\" Monitor (VX2452MH) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "300 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "DC 50,000,000:1 (1,000:1)",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "ViewSonic",
+    "model": "VX2452mh",
+    "part_number": "VX2452MH",
+    "refresh_rate": "60Hz",
+    "response_time": "2 ms",
+    "screen_size": "23.6\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Lenovo 1453HB1 ThinkVision LT1953 LED Monitor - 19\" - Vology",
+    "aspect_ratio": "Widescreen - 16:10",
+    "backlight_technology": "LED backlight",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 10000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "10 - 80%",
+    "pixel_pitch": "0.2835 mm",
+    "power_consumption": "0.5 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "-5/+22",
+    "voltage": "AC 120/230 V ( 47 - 63 Hz )",
+    "weight": "6.6 lbs"
+}

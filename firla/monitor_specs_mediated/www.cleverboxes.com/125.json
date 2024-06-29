@@ -1,0 +1,17 @@
+{
+    "name": "Cleverboxes - 221B3LPCS/02 | Philips 221B3 LCD Monitor 20,000,000:1 250 cd/m2 1920 x 1080 5 ms VGA DVI-D USB (Silver)",
+    "aspect_ratio": "16:9",
+    "brightness": "250cd/m2",
+    "certifications": "BSMI, CE Mark, FCC Class B, GOST, SEMKO, TCO 5.1, TUV Ergo, TUV/GS, UL/cUL",
+    "contrast_ratio": "1,000:1 (Static) , 20,000,000:1 (Dynamic)",
+    "description": "Display",
+    "dimensions": "50.7cm (W) x 22.0cm (D) x 40.0cm (H) - Weight 4.83kg",
+    "pixel_pitch": "0.248 x 0.248mm",
+    "plug_and_play": "DDC/CI, Mac OS X, sRGB, Windows 7/Vista/XP",
+    "power_consumption": "0.1W (Standby)",
+    "response_time": "5ms",
+    "display_type": "TFT LCD 16.7 Million Colour",
+    "usb_ports": "2 x USB 2.0",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 100mm x 100mm"
+}

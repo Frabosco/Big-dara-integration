@@ -1,0 +1,21 @@
+{
+    "name": "Apple Thunderbolt Display 27 - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "Yes",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "dimensions": "65 cm",
+    "brightness": "375 cd/mÂ²",
+    "screen_size": "68.58 cm (27\")",
+    "resolution": "2560 x 1440 pixels",
+    "certifications": "Yes",
+    "ethernet": "Yes",
+    "hdmi": "No",
+    "voltage": "100 - 240V",
+    "operating_system": "Yes",
+    "manual": "Yes",
+    "operating_temperature": "-20 - 47 Â°C",
+    "power_consumption": "250W",
+    "response_time": "12 ms",
+    "weight": "10800g"
+}

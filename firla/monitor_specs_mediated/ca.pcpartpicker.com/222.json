@@ -1,0 +1,17 @@
+{
+    "name": "Acer G236HLBbd 60Hz 23.0\" Monitor (UM.VG6AA.B01) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "200 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "ACM 100,000,000:1 (600:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Acer",
+    "model": "G236HLBbd",
+    "part_number": "UM.VG6AA.B01",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "23\"",
+    "vga": "1"
+}

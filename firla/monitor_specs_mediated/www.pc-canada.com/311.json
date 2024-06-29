@@ -1,0 +1,23 @@
+{
+    "name": "VS238H-P - Asus Vs238h-p Widescreen Lcd Monitor - PC-Canada.com",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "50,000,000:1",
+    "dimensions": "21.7\" (552 mm)",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "warranty": "3 Year",
+    "model": "VS",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "2 ms",
+    "screen_size": "23\"",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "3.40 kg"
+}

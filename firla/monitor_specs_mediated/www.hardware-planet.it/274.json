@@ -1,0 +1,23 @@
+{
+    "name": "ASUS MONITOR LED 19.5 ASUS VS207DE",
+    "dimensions": "468 mm",
+    "builtin_speakers": "N",
+    "viewing_angle": "65 °",
+    "security_lock_slot": "Kensington",
+    "certifications": "Non specificato",
+    "display_colors": "16.77 M",
+    "vesa_mount_compatible": "75 x 75 mm",
+    "screen_size": "49.5 cm",
+    "pixel_pitch": "0.270 x 0.270 mm",
+    "builtin_camera": "N",
+    "tilt_angle": "Si",
+    "wall_mountable": "Si",
+    "weight": "2.59 kg",
+    "dvi": "N",
+    "contrast_ratio": "80000000:1",
+    "height_adjustable": "N",
+    "resolution": "1600 x 900 Pixels",
+    "source_datasheet": ".",
+    "response_time": "5 ms",
+    "display_type": "LED"
+}

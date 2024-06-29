@@ -1,0 +1,18 @@
+{
+    "name": "Dell IN2030M 60Hz 20.0\" Monitor (320-2457) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "1000 : 1 (typical), 8 Million : 1 (Dynamic)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Dell",
+    "model": "IN2030M",
+    "part_number": "320-2457\n(or) IN2030M",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "20\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

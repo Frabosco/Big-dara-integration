@@ -1,0 +1,20 @@
+{
+    "name": "LS27C570HS/EN, Samsung, LCD Monitor, Itenergy Ltd",
+    "backlight_technology": "LED",
+    "manufacturer": "Samsung",
+    "brightness": "300 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "642 mm",
+    "displayport": "No",
+    "dvi": "No",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "570",
+    "resolution": "1920 x 1080",
+    "power_consumption": "300 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vga": "Yes",
+    "weight": "5.30 kg"
+}

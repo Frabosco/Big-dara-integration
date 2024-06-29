@@ -1,0 +1,20 @@
+{
+    "name": "Acer 23 B236HLymdpr",
+    "builtin_speakers": "Si",
+    "viewing_angle": "178 °",
+    "certifications": "Non specificato",
+    "display_colors": "16.77 M",
+    "vesa_mount_compatible": "N",
+    "screen_size": "58.4 cm",
+    "builtin_camera": "N",
+    "led_indicators": "Si",
+    "wall_mountable": "N",
+    "dvi": "Si",
+    "contrast_ratio": "100000000:1",
+    "height_adjustable": "Si",
+    "resolution": "1920 x 1080 Pixels",
+    "source_datasheet": ".",
+    "response_time": "5 ms",
+    "display_type": "LCD",
+    "voltage": "110 - 220 V"
+}

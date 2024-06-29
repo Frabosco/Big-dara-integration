@@ -1,0 +1,19 @@
+{
+    "name": "Toshiba P1710A 17 LCD Monitor 54 5 ms by Office Depot",
+    "aspect_ratio": "5:4",
+    "manufacturer": "Toshiba",
+    "brightness": "350 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "15.2\"",
+    "dvi": "Yes",
+    "resolution": "1280 x 1024",
+    "model": "P1710A",
+    "power_consumption": "40 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "17\"",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "10.23 lb"
+}

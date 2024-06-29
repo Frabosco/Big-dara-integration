@@ -1,0 +1,15 @@
+{
+    "name": "ViewSonic VA2703-LED - LED monitor - 27\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "300 cd/m2",
+    "contrast_ratio": "1200:1 / 10000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "10 - 90% (non-condensing)",
+    "pixel_pitch": "0.3114 mm",
+    "power_consumption": "30 Watt",
+    "response_time": "3.4 ms",
+    "tilt_angle": "-3/+16",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "11.7 lbs"
+}

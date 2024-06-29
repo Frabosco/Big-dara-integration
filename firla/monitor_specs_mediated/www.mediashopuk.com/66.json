@@ -1,0 +1,23 @@
+{
+    "name": "Fujitsu L line L24T-1 - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "20000000:1",
+    "dimensions": "569.4 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "61 cm",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "110 - 240 V",
+    "osd_languages": "Yes",
+    "operating_temperature": "5 - 35 °C",
+    "pixel_pitch": "0.277 x 0.277 mm",
+    "power_consumption": "17.6 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1"
+}

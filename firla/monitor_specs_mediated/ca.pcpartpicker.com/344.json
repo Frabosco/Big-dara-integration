@@ -1,0 +1,19 @@
+{
+    "name": "HP E221 60Hz 21.5\" Monitor (C9V76A8#ABA) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "1000:1",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "HP",
+    "model": "E221",
+    "part_number": "C9V76A8#ABA",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "21.5\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

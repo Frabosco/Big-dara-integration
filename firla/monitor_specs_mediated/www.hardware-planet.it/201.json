@@ -1,0 +1,21 @@
+{
+    "name": "AOC 27 i2757Fm IPS MONITOR LED",
+    "dimensions": "62,2 cm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "178°",
+    "security_lock_slot": "No",
+    "certifications": "Si",
+    "display_colors": "16,77M",
+    "vesa_mount_compatible": "No",
+    "screen_size": "68,58 cm (27\")",
+    "pixel_pitch": "0,311 x 0,311 mm",
+    "builtin_camera": "No",
+    "hdcp_supported": "No",
+    "wall_mountable": "No",
+    "contrast_ratio": "20000000:1",
+    "height_adjustable": "No",
+    "resolution": "1920 x 1080 Pixels",
+    "response_time": "5 ms",
+    "display_type": "LED",
+    "voltage": "100 - 240V"
+}

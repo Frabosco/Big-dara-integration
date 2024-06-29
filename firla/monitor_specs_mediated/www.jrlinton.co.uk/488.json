@@ -1,0 +1,22 @@
+{
+    "name": "60003395, NECNOT024, NEC Display Solutions, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "NEC Display Solutions",
+    "brightness": "450 cd/m²",
+    "contrast_ratio": "4,000:1",
+    "dimensions": "1539.2 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdmi": "Yes",
+    "model": "V652",
+    "resolution": "1920 x 1080",
+    "power_consumption": "2 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "165.1 cm (65\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "400 x 400",
+    "vga": "Yes",
+    "weight": "57.11 kg"
+}

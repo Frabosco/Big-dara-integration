@@ -1,0 +1,20 @@
+{
+    "name": "Apple Thunderbolt display 27 MONITOR LED",
+    "dimensions": "65 cm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "178°",
+    "security_lock_slot": "Kensington",
+    "certifications": "Non specificato",
+    "ethernet": "Si",
+    "display_colors": "16,77M",
+    "screen_size": "68,58 cm (27\")",
+    "builtin_camera": "Si",
+    "operating_temperature": "-20 - 47 °C",
+    "wall_mountable": "Si",
+    "weight": "10800g",
+    "contrast_ratio": "1000:1",
+    "resolution": "2560 x 1440 Pixels",
+    "response_time": "12 ms",
+    "display_type": "LED",
+    "voltage": "100 - 240V"
+}

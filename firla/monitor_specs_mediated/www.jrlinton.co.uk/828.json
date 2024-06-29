@@ -1,0 +1,19 @@
+{
+    "name": "PNV602, SHALCDPNV602, Sharp, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Sharp Electronics",
+    "brightness": "1500 cd/m²",
+    "dimensions": "1335.9 mm",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "PN-V602",
+    "resolution": "1366 x 768",
+    "power_consumption": "1 W",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "152.4 cm (60\")",
+    "vesa_mount_compatible": "200 x 200",
+    "vga": "Yes",
+    "weight": "44 kg"
+}

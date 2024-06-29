@@ -1,0 +1,20 @@
+{
+    "name": "PB298Q, 2834657, ASUSTeK COMPUTER, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "21:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "80,000,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "PB298Q",
+    "resolution": "2560 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "73.7 cm (29\")",
+    "vesa_mount_compatible": "100 x 100",
+    "weight": "8.50 kg"
+}

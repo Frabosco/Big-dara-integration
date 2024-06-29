@@ -1,0 +1,19 @@
+{
+    "name": "Viewsonic VA926 LED 19 LED LCD Monitor 5 ms by Office Depot",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "16.2\"",
+    "dvi": "Yes",
+    "resolution": "1280 x 1024",
+    "model": "VA",
+    "power_consumption": "18 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "19\"",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "7.70 lb"
+}

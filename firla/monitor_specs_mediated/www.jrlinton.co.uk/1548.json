@@ -1,0 +1,20 @@
+{
+    "name": "VS207T-P, ASUSVS207T-P, ASUSTeK COMPUTER, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "80,000,000:1",
+    "dimensions": "468 mm",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "model": "VS",
+    "resolution": "1600 x 900",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "49.5 cm (19.5\")",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes",
+    "weight": "2.59 kg"
+}

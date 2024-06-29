@@ -1,0 +1,13 @@
+{
+    "name": "NEC 17 inch 175M LCD Desktop PC Monitor",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1",
+    "display_type": "LCD monitor / TFT active matrix",
+    "operating_temperature": "10 - 80%",
+    "manufacturer": "NEC",
+    "pixel_pitch": "0.264 mm",
+    "power_consumption": "19 Watt",
+    "response_time": "5 ms",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "5.2 kg"
+}

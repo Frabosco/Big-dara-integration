@@ -1,0 +1,18 @@
+{
+    "name": "Eizo EV2336WFS-BK 76Hz 23.0\" Monitor (EV2336WFS-BK) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "1000:1",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Eizo",
+    "part_number": "EV2336WFS-BK",
+    "refresh_rate": "76Hz",
+    "response_time": "6 ms",
+    "screen_size": "23\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

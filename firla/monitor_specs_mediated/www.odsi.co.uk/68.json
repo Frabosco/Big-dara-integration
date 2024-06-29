@@ -1,0 +1,17 @@
+{
+    "name": "Lenovo 60A4RAT1UK ThinkVision LT3053p (30 inch) LED Backlit LCD Monitor",
+    "aspect_ratio": "Widescreen - 16:10",
+    "backlight_technology": "WLED",
+    "brightness": "350 cd/m2",
+    "contrast_ratio": "1000:1 / 3000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "110 mm",
+    "manufacturer": "LENOVO",
+    "pixel_pitch": "0.2505 mm",
+    "power_consumption": "88 Watt",
+    "response_time": "6 ms (grey-to-grey)",
+    "swivel_angle": "90",
+    "tilt_angle": "35",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "11.5 kg"
+}

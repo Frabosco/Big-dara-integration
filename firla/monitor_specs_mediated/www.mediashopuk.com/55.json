@@ -1,0 +1,20 @@
+{
+    "name": "DELL E2210 - MediaShopUK",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "dimensions": "511.2 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "558.8 mm (22 \")",
+    "resolution": "1680 x 1050 pixels",
+    "certifications": "Yes",
+    "manual": "Yes",
+    "operating_temperature": "-20 - 60 °C",
+    "pixel_pitch": "0.282 x 0.282 mm",
+    "power_consumption": "28 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "led_indicators": "Yes",
+    "vga": "1",
+    "weight": "4.4 kg"
+}

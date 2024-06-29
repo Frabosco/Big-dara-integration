@@ -1,0 +1,21 @@
+{
+    "name": "LH4780SB-B1, II-LH4780SB-B1, Iiyama, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "iiyama North America, Inc",
+    "brightness": "450 cd/mÂ²",
+    "contrast_ratio": "4,000:1",
+    "dimensions": "1060 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "LH4780SB-B1",
+    "resolution": "1920 x 1080",
+    "description": "LCD Monitor",
+    "response_time": "6.50 ms",
+    "screen_size": "119.4 cm (47\")",
+    "vesa_mount_compatible": "600 x 400",
+    "vga": "Yes",
+    "weight": "23 kg"
+}

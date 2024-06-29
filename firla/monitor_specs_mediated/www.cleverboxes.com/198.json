@@ -1,0 +1,18 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - E2250SWDAK | AOC e2250Swdak 21.5 inch LED Monitor 1000:1 250cd/m2 1920x1080 5ms DVI (Glossy Black)",
+    "aspect_ratio": "16:9",
+    "brightness": "250cd/m2",
+    "contrast_ratio": "1,000:1 (Static) , 20,000,000:1 (Dynamic)",
+    "dimensions": "51.18cm (W) x 19cm (D) x 37.99cm (H) - Weight 3.28kg",
+    "pixel_pitch": "0.248 x 0.248mm",
+    "plug_and_play": "DDC1 / 2B / CI, VESA DDC2B",
+    "power_consumption": "19W (Max) / 0.3W (Standby)",
+    "description": "Display",
+    "resolution": "1920 x 1080 Pixels 1080p",
+    "response_time": "5ms",
+    "display_type": "LED",
+    "vga": "1 x 15-pin D-sub",
+    "wall_mountable": "Yes , VESA Compliant - 75mm x 75mm",
+    "warranty": "3 Years"
+}

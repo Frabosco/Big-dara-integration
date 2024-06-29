@@ -1,0 +1,22 @@
+{
+    "name": "B7M13AA#ABU, HP, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hewlett-Packard",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "600:1",
+    "dimensions": "446.1 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "1 Year",
+    "model": "W1972a",
+    "resolution": "1366 x 768",
+    "power_consumption": "24 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "47 cm (18.5\")",
+    "vga": "Yes",
+    "weight": "2.70 kg"
+}

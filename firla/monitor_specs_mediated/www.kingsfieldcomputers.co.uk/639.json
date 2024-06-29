@@ -1,0 +1,20 @@
+{
+    "name": "RX-W22W, AGRXW22W, AG Neovo, LCD Monitor, Kingsfield Computer Products Ltd",
+    "manufacturer": "AG Neovo Technology Corporation",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "512 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "RX",
+    "resolution": "1680 x 1050",
+    "power_consumption": "47.90 W",
+    "description": "LCD Monitor",
+    "response_time": "3 ms",
+    "screen_size": "55.9 cm (22\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "6.90 kg"
+}

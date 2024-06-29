@@ -1,0 +1,18 @@
+{
+    "name": "Cleverboxes - PA248Q | Asus PA248Q (24 inch) LCD Monitor 80000000:1 300 cd/m2 1920 x 1200 6ms HDMI",
+    "aspect_ratio": "16:10",
+    "brightness": "300cd/m2",
+    "certifications": "TCO 5.2 • UL/cUL • CB • CE • ErP • FCC • CCC • TUV-GS • TUV-ERGO • ISO9241-307 • BSMI • Gost-R • C-Tick • VCCI • PSB • NOM • J-MOSS • RoHS • Windows 7 WHQL • Mac Compliance • Energy Star",
+    "description": "Display",
+    "dimensions": "55.72cm (W) x 6.2cm (D) x 36.28cm (H) - Weight 9.9kg",
+    "display_type": "IPS 16.7 million Colour",
+    "displayport": "1 x DisplayPort",
+    "audio_output": "1 x 3.5mm Mini-Jack",
+    "height_adjustable": "Yes",
+    "pivot": "Yes",
+    "pixel_pitch": "0.270mm",
+    "response_time": "6ms",
+    "usb_ports": "2 x USB (1 x Upstream, 1 x Downstream)",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 100mm x 100mm"
+}

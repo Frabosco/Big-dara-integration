@@ -1,0 +1,23 @@
+{
+    "name": "Samsung S19C200BR 19 LED LCD Monitor 54 5 ms by Office Depot",
+    "aspect_ratio": "5:4",
+    "backlight_technology": "LED",
+    "manufacturer": "Samsung",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "16\"",
+    "displayport": "No",
+    "dvi": "Yes",
+    "hdmi": "No",
+    "voltage": "110 V AC; 220 V AC",
+    "resolution": "1280 x 1024",
+    "model": "S19C200BR",
+    "power_consumption": "100 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "19\"",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "7.17 lb"
+}

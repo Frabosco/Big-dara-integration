@@ -1,0 +1,22 @@
+{
+    "name": "PN-R703, SHALCDPNR703, Sharp, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "Edge LED",
+    "manufacturer": "Sharp Electronics",
+    "brightness": "700 cd/m²",
+    "contrast_ratio": "4,000:1",
+    "dimensions": "1578 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "PN-R703",
+    "resolution": "1920 x 1080",
+    "power_consumption": "270 W",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "177.8 cm (70\")",
+    "vesa_mount_compatible": "200 x 200",
+    "vga": "Yes",
+    "weight": "43 kg"
+}

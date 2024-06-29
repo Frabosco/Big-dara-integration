@@ -1,0 +1,14 @@
+{
+    "name": "NEC 60003302 MultiSync X463UN - 46\" Class ( 46\" viewable ) LED-Backlit LCD Flat Panel Display",
+    "brightness": "700 cd/m2",
+    "dimensions": "Without stand",
+    "operating_temperature": "20 - 80%",
+    "manufacturer": "NEC",
+    "pixel_pitch": "0.53mm",
+    "power_consumption": "260 Watt",
+    "description": "LED-backlit LCD flat panel display",
+    "resolution": "1920 x 1080",
+    "response_time": "8 ms",
+    "viewing_angle": "178 degrees",
+    "weight": "24.4 kg"
+}

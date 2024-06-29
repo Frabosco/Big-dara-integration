@@ -1,0 +1,23 @@
+{
+    "name": "LG 22 22M45D-B MONITOR LED",
+    "dimensions": "50,9 cm",
+    "viewing_angle": "160°",
+    "bluetooth": "No",
+    "certifications": "Non specificato",
+    "ethernet": "No",
+    "display_colors": "16,77M",
+    "vesa_mount_compatible": "75 x 75 mm",
+    "screen_size": "54,61 cm (21.5\")",
+    "display_surface": "Matt",
+    "pixel_pitch": "0,248 x 0,248 mm",
+    "hdcp_supported": "Si",
+    "led_indicators": "Si",
+    "wall_mountable": "Si",
+    "osd_languages": "Si",
+    "dvi": "Si",
+    "contrast_ratio": "5000000:1",
+    "resolution": "1920 x 1080 Pixels",
+    "response_time": "5 ms",
+    "display_type": "LED",
+    "voltage": "100 - 240V"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "210-ACWC, 0912939, Dell, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Dell, Inc",
+    "brightness": "300 cd/mÂ²",
+    "contrast_ratio": "8,000,000:1",
+    "dimensions": "658.9 mm",
+    "displayport": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "model": "UZ2715H",
+    "resolution": "1920 x 1080",
+    "power_consumption": "60 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "6.83 kg"
+}

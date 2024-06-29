@@ -1,0 +1,23 @@
+{
+    "name": "VG932M-LED - Viewsonic Vg932m-led Lcd Monitor - PC-Canada.com",
+    "aspect_ratio": "4:3",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "16.2\" (411.5 mm)",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "110 V AC, 220 V AC",
+    "warranty": "3 Year",
+    "model": "VG932m-LED",
+    "resolution": "1280 x 1024",
+    "power_consumption": "18 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "19\"",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.20 kg"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "22MP55HQ-P, 2998247, LG Electronics, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "manufacturer": "LG Electronics",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "5,000,000:1",
+    "dimensions": "508 mm",
+    "displayport": "No",
+    "dvi": "No",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "MP55",
+    "resolution": "1920 x 1080",
+    "power_consumption": "20 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "55.9 cm (22\")",
+    "tilt_angle": "-3Â°to20Â°",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes",
+    "weight": "4.10 kg"
+}

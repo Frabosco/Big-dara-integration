@@ -1,0 +1,20 @@
+{
+    "name": "C171, AM-C171-LCD-CCTV, Edge10, LCD Monitor, Kingsfield Computer Products Ltd",
+    "manufacturer": "Edge10 Corporation Limited",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "450:1",
+    "dimensions": "374 mm",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "3 Year",
+    "model": "C171",
+    "resolution": "1280 x 1024",
+    "power_consumption": "2.99 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "43.2 cm (17\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.80 kg"
+}

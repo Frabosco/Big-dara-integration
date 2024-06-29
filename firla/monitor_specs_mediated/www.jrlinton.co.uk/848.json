@@ -1,0 +1,18 @@
+{
+    "name": "LL543AA, 9435ANR, HP, LCD Monitor, JR Linton",
+    "aspect_ratio": "4:3",
+    "backlight_technology": "LED",
+    "manufacturer": "Hewlett-Packard",
+    "brightness": "400 cd/m²",
+    "contrast_ratio": "700:1",
+    "dimensions": "340 mm",
+    "model": "Essential",
+    "resolution": "1024 x 768",
+    "power_consumption": "1 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "38.1 cm (15\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "3.10 kg"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Panasonic TH-50LFE6 - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "subwoofer": "No",
+    "dimensions": "112.1 cm",
+    "screen_size": "127 cm (50\")",
+    "resolution": "1920 x 1080 pixels",
+    "ethernet": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "220 - 240V",
+    "osd_languages": "Yes",
+    "operating_temperature": "0 - 40 Â°C",
+    "power_consumption": "90W",
+    "vga": "1",
+    "weight": "18000g"
+}

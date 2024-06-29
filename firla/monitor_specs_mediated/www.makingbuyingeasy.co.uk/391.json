@@ -1,0 +1,19 @@
+{
+    "name": "LG 34UM95 Black Monitor - MBE",
+    "aspect_ratio": "21:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "No",
+    "dimensions": "82.99 cm",
+    "brightness": "320 cd/mÂ²",
+    "screen_size": "86.36 cm (34\")",
+    "resolution": "3440 x 1440 pixels",
+    "display_surface": "Matt",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "No",
+    "plug_and_play": "Yes",
+    "power_consumption": "80W",
+    "response_time": "5 ms",
+    "tilt_angle": "5 - 15Â°",
+    "weight": "6.7 kg"
+}

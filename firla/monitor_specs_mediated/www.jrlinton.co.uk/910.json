@@ -1,0 +1,22 @@
+{
+    "name": "225B2CS/00, PHI225B2CS, Philips, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:10",
+    "manufacturer": "Philips Electronics",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "500,000:1",
+    "dimensions": "505 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "220 V AC",
+    "model": "225B2CS",
+    "resolution": "1680 x 1050",
+    "power_consumption": "100 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "55.9 cm (22\")",
+    "refresh_rate": "50 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "5.17 kg"
+}

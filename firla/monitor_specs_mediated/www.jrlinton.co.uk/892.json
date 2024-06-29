@@ -1,0 +1,21 @@
+{
+    "name": "VN279Q, 3110825, ASUSTeK COMPUTER, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "100,000,000:1",
+    "dimensions": "706.1 mm",
+    "displayport": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "VN",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.80 kg"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ASUS PB238Q - Vology",
+    "aspect_ratio": "Widescreen",
+    "backlight_technology": "LED backlight",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "80000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "3.9 in",
+    "pixel_pitch": "0.2652 mm",
+    "response_time": "6 ms (gray-to-gray)",
+    "swivel_angle": "120",
+    "tilt_angle": "-5/+20",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "12.1 lbs"
+}

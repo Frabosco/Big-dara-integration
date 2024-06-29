@@ -1,0 +1,19 @@
+{
+    "name": "Benq BL2201PT - MBE",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "12000000:1",
+    "dimensions": "58.9 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "55.8 cm",
+    "resolution": "1680 x 1050 pixels",
+    "certifications": "Yes",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 240V",
+    "pixel_pitch": "0.282 x 0.282 mm",
+    "power_consumption": "34.5W",
+    "response_time": "5 ms",
+    "vga": "1",
+    "weight": "6.1 kg"
+}

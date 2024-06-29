@@ -1,0 +1,22 @@
+{
+    "name": "ASUS VS238N - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "Yes",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "50000000:1",
+    "brightness": "250 cd/m²",
+    "screen_size": "58.4 cm",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "osd_languages": "Yes",
+    "pixel_pitch": "0.2655 x 0.2655 mm",
+    "power_consumption": "27 W",
+    "led_indicators": "Yes",
+    "manual": "Yes",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1"
+}

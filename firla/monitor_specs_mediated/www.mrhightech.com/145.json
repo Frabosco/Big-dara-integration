@@ -1,0 +1,23 @@
+{
+    "name": "ASUS PA238Q - MrHighTech Shop",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "50000000:1",
+    "dimensions": "548.8 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "584.2 mm (23 \")",
+    "resolution": "1920 x 1080 pixels",
+    "display_surface": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "pivot": "Yes",
+    "pixel_pitch": "0.2652 x 0.2652 mm",
+    "power_consumption": "33 W",
+    "manual": "Yes",
+    "response_time": "6 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "5.5 kg"
+}

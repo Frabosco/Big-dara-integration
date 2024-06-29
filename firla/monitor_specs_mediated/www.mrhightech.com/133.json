@@ -1,0 +1,20 @@
+{
+    "name": "Viewsonic Graphic Series VA705-LED - MrHighTech Shop",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "1000:1",
+    "dimensions": "379 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "431.8 mm (17 \")",
+    "resolution": "1280 x 1024 pixels",
+    "certifications": "Yes",
+    "voltage": "100 - 240 V",
+    "manual": "Yes",
+    "operating_temperature": "0 - 40 °C",
+    "power_consumption": "21 W",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "vga": "1",
+    "weight": "3.8 kg"
+}

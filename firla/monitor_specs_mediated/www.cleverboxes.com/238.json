@@ -1,0 +1,14 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - E2752VQ | AOC e2752vq 27 inch LED Monitor 20,000,000:1 (DCR) 300cd/m2 1920x1080 2ms DVI (Black)",
+    "brightness": "300cd/m2",
+    "contrast_ratio": "20,000,000:1 (Dynamic)",
+    "dimensions": "64.57cm (W) x 21cm (D) x 45.2cm (H) - Weight 5.287kg",
+    "displayport": "1 x DisplayPort",
+    "plug_and_play": "DDC 2B/CI or VESA DDC2B",
+    "resolution": "1920 x 1080 Pixels 1080p",
+    "response_time": "2ms",
+    "display_type": "LED 16.7 Million Colour",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , Supported - 100mm x 100mm"
+}

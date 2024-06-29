@@ -1,0 +1,13 @@
+{
+    "name": "ACER ET.VS2HP.A01 - Vology",
+    "aspect_ratio": "Widescreen",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "12000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "power_consumption": "26 Watt",
+    "response_time": "2 ms",
+    "tilt_angle": "20",
+    "voltage": "AC 120/230 V",
+    "weight": "6.6 lbs"
+}

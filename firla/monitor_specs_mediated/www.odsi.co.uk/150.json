@@ -1,0 +1,18 @@
+{
+    "name": "NEC-60003587-NEC MultiSync EA234WMi - 23\" - (1920 x 1080) - LED-Backlit LCD Monitor",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 25000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "130 mm",
+    "operating_temperature": "20 - 80%",
+    "manufacturer": "NEC",
+    "pixel_pitch": "0.265 mm",
+    "power_consumption": "27 Watt",
+    "response_time": "6 ms (grey-to-grey)",
+    "swivel_angle": "340",
+    "tilt_angle": "-5/+30",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "6.4 kg"
+}

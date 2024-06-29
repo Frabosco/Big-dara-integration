@@ -1,0 +1,22 @@
+{
+    "name": "60B3HAT2UK, S603VA0, Lenovo, LCD Monitor, JR Linton",
+    "aspect_ratio": "5:4",
+    "manufacturer": "Lenovo Group Limited",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "370.8 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "warranty": "3 Year",
+    "model": "LT1713p",
+    "resolution": "1280 x 1024",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "43.2 cm (17\")",
+    "tilt_angle": "-3°to4°",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "3.60 kg"
+}

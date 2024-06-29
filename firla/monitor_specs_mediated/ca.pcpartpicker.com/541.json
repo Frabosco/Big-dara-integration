@@ -1,0 +1,19 @@
+{
+    "name": "NEC EA304WMI-BK 75Hz 30.0\" Monitor (EA304WMI-BK) - PCPartPicker Canada",
+    "aspect_ratio": "16:10",
+    "brightness": "350 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "1,000:1",
+    "display_colors": "1070000000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "NEC",
+    "part_number": "EA304WMI-BK",
+    "refresh_rate": "75Hz",
+    "response_time": "6 ms",
+    "screen_size": "30\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

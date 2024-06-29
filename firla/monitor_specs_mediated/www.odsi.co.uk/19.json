@@ -1,0 +1,16 @@
+{
+    "name": "Lenovo T47HDUK ThinkVision LT1712p - 17\" LED-backlit LCD Monitor",
+    "aspect_ratio": "5:4",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1",
+    "display_type": "LCD monitor / TFT active matrix",
+    "height_adjustable": "110 mm",
+    "manufacturer": "LENOVO",
+    "pixel_pitch": "0.264 mm",
+    "power_consumption": "15 Watt",
+    "response_time": "5 ms",
+    "tilt_angle": "23",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "4.24 kg"
+}

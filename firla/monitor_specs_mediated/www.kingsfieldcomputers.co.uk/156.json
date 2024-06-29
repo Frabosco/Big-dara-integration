@@ -1,0 +1,23 @@
+{
+    "name": "I2267FWH, 2593494, AOC, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "AOC",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "displayport": "No",
+    "dvi": "No",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "3 Year",
+    "model": "i2267Fwh",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "54.6 cm (21.5\")",
+    "refresh_rate": "60 Hz",
+    "vga": "Yes"
+}

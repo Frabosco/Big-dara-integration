@@ -1,0 +1,21 @@
+{
+    "name": "UM.IW3EE.001, 2975739, Acer, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Acer, Inc",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "100,000,000:1",
+    "dimensions": "463.4 mm",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "2 Year",
+    "model": "K",
+    "resolution": "1600 x 900",
+    "power_consumption": "450 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "49.5 cm (19.5\")",
+    "refresh_rate": "60 Hz",
+    "vga": "Yes",
+    "weight": "2.70 kg"
+}

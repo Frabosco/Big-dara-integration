@@ -1,0 +1,17 @@
+{
+    "name": "RX-W22, AGRXW22, AG Neovo, LCD Monitor, JR Linton",
+    "manufacturer": "AG Neovo Technology Corporation",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "512 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "RX",
+    "resolution": "1680 x 1050",
+    "description": "LCD Monitor",
+    "response_time": "3 ms",
+    "screen_size": "55.9 cm (22\")",
+    "vga": "Yes",
+    "weight": "6.90 kg"
+}

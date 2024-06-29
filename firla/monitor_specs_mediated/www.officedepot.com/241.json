@@ -1,0 +1,22 @@
+{
+    "name": "HP P201m 20 LED LCD Monitor 169 5 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hewlett-Packard",
+    "brightness": "250 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "19\"",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "110 V AC; 220 V AC",
+    "resolution": "1600 x 900",
+    "model": "P201m",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "20\"",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "7.70 lb"
+}

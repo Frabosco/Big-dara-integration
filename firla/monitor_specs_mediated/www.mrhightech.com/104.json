@@ -1,0 +1,23 @@
+{
+    "name": "ASUS VB198TL - MrHighTech Shop",
+    "aspect_ratio": "5:4",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "50000000:1",
+    "brightness": "250 cd/m²",
+    "screen_size": "48.3 cm",
+    "resolution": "1280 x 1024 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "audio_input": "Yes",
+    "pivot": "Yes",
+    "pixel_pitch": "0.294 x 0.294 mm",
+    "power_consumption": "27 W",
+    "manual": "Yes",
+    "response_time": "5 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 15 °",
+    "vga": "1"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "VW24ATLR, 3056244, ASUSTeK COMPUTER, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "100,000,000:1",
+    "dimensions": "568.4 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "120 V AC",
+    "model": "VW24ATLR",
+    "resolution": "1920 x 1080",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "61 cm (24\")",
+    "refresh_rate": "76 Hz",
+    "swivel_angle": "160°",
+    "tilt_angle": "-5°to22°",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "5.70 kg"
+}

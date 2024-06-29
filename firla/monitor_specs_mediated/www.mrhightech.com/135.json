@@ -1,0 +1,21 @@
+{
+    "name": "Benq GW2460HM - MrHighTech Shop",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "No",
+    "contrast_ratio": "20000000:1",
+    "dimensions": "565 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "609.6 mm (24 \")",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "osd_languages": "Yes",
+    "pixel_pitch": "0.276 x 0.276 mm",
+    "power_consumption": "22 W",
+    "response_time": "4 ms",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "3.6 kg"
+}

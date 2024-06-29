@@ -1,0 +1,20 @@
+{
+    "graphic_mode": "60Hz",
+    "name": "Cleverboxes - 60003327 | NEC MultiSync X401S (40 inch) LED Backlit LCD Display Panel 3500:1 700cd/m2 1920x1080 8ms HDMI/DisplayPort/DVI-D",
+    "aspect_ratio": "16:9",
+    "brightness": "700cd/m2",
+    "certifications": "C-tick; CE; FCC Class A; PSB; TÜV GS; UL/C-UL or CSA; VCCI; Energy Star 5.1; RoHS",
+    "contrast_ratio": "3500:1 (Static)",
+    "dimensions": "92.51cm (W) x 4.33cm (D) x 53.71cm (H) - Weight 14.90kg",
+    "displayport": "1 x DisplayPort (with HDCP)",
+    "audio_output": "1 x 3.5mm Stereo Mini Jack",
+    "model": "MultiSync",
+    "plug_and_play": "VESA DDC2Bi",
+    "power_consumption": "110W (Max) / 0.5W (Standby)",
+    "description": "Monitor",
+    "resolution": "1920 x 1080 Pixels",
+    "response_time": "8ms",
+    "display_type": "S-PVA",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 300mm x 300mm"
+}

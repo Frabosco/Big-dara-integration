@@ -1,0 +1,19 @@
+{
+    "name": "UM.CV6EE.005 - Acer V196WLbmd LED monitor 19\" 1440 - Xpcpro.com",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "N",
+    "builtin_speakers": "Y",
+    "contrast_ratio": "100000000:1",
+    "dimensions": "440 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "48.3 cm",
+    "resolution": "1440 x 900 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Y",
+    "voltage": "110 - 220 V",
+    "power_consumption": "13 W",
+    "led_indicators": "Y",
+    "response_time": "5 ms",
+    "vga": "1",
+    "weight": "2700 g"
+}

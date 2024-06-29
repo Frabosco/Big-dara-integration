@@ -1,0 +1,21 @@
+{
+    "name": "857-10586, 0912968, Dell, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "Dell, Inc",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "443.8 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "warranty": "3 Year",
+    "model": "E",
+    "resolution": "1440 x 900",
+    "power_consumption": "23 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "48.3 cm (19\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "2.54 kg"
+}

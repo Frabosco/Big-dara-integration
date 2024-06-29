@@ -1,0 +1,15 @@
+{
+    "name": "Viewsonic EW2960 29 LED LCD Monitor by Office Depot",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "1000 Nit",
+    "contrast_ratio": "1,000:1",
+    "dvi": "Yes",
+    "resolution": "1366 x 512",
+    "model": "EW2960",
+    "description": "LCD Monitor",
+    "quantity": "1",
+    "screen_size": "29\"",
+    "vesa_mount_compatible": "500 x 100",
+    "vga": "Yes"
+}

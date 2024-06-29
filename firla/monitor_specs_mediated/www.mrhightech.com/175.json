@@ -1,0 +1,22 @@
+{
+    "name": "Wortmann AG Terra LED 1910W - MrHighTech Shop",
+    "aspect_ratio": "4:3, 16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "450 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "47 cm",
+    "resolution": "1366 x 768 pixels",
+    "hdcp_supported": "No",
+    "height_adjustable": "No",
+    "voltage": "100 - 240 V",
+    "led_indicators": "Yes",
+    "manual": "Yes",
+    "pixel_pitch": "0.3 x 0.3 mm",
+    "plug_and_play": "Yes",
+    "power_consumption": "15 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1"
+}

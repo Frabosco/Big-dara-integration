@@ -1,0 +1,19 @@
+{
+    "name": "Benq BL2710PT - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "1000:1",
+    "dimensions": "63.9 cm",
+    "brightness": "350 cd/mÂ²",
+    "screen_size": "68.58 cm (27\")",
+    "resolution": "2560 x 1440 pixels",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "operating_system": "Yes",
+    "osd_languages": "Yes",
+    "pixel_pitch": "0.2331 x 0.2331 mm",
+    "response_time": "12 ms",
+    "vga": "1",
+    "weight": "8.2 kg"
+}

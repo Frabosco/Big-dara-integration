@@ -1,0 +1,18 @@
+{
+    "name": "HP LE2002x 60Hz 20.0\" Monitor (LL763AA#ABA) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "DC 3,000,000:1(1000:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "HP",
+    "model": "LE2002x",
+    "part_number": "LL763AA#ABA",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "20\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

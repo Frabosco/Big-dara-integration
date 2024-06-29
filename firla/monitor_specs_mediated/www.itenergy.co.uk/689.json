@@ -1,0 +1,20 @@
+{
+    "name": "278G4DHSD/00, Philips, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "manufacturer": "Philips Electronics",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "623 mm",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "278G4DHSD",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "7 ms",
+    "screen_size": "68.6 cm (27\")",
+    "refresh_rate": "60 Hz",
+    "vga": "Yes",
+    "weight": "5.44 kg"
+}

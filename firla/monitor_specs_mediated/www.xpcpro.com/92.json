@@ -1,0 +1,23 @@
+{
+    "name": "U190B011E0100 - Neovo U-19 LED monitor, 19\", 1280 - Xpcpro.com",
+    "builtin_camera": "N",
+    "builtin_speakers": "Y",
+    "subwoofer": "N",
+    "security_lock_slot": "Kensington",
+    "brightness": "250 cd/m²",
+    "screen_size": "48.2 cm",
+    "resolution": "1280 x 1024 pixels",
+    "certifications": "Y",
+    "hdcp_supported": "N",
+    "height_adjustable": "N",
+    "voltage": "100 - 240 V",
+    "osd_languages": "Y",
+    "operating_temperature": "-20 - 60 °C",
+    "pixel_pitch": "0.294 x 0.294 mm",
+    "plug_and_play": "Y",
+    "power_consumption": "21 W",
+    "manual": "Y",
+    "response_time": "3 ms",
+    "tilt_angle": "0 - 20 °",
+    "vga": "1"
+}

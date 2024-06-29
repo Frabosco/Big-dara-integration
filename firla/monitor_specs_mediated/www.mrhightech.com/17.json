@@ -1,0 +1,14 @@
+{
+    "name": "Benq GL951AM - MrHighTech Shop",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "brightness": "250 cd/m²",
+    "screen_size": "482.6 mm (19 \")",
+    "resolution": "1440 x 900 pixels",
+    "hdcp_supported": "No",
+    "osd_languages": "Yes",
+    "led_indicators": "Yes",
+    "response_time": "5 ms",
+    "vga": "1"
+}

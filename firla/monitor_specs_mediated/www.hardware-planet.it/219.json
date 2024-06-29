@@ -1,0 +1,23 @@
+{
+    "name": "IIyama MONITOR LED 19 IIyama PL C1911S-B3",
+    "dimensions": "407 mm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "160 °",
+    "security_lock_slot": "Kensington",
+    "display_colors": "16.77 M",
+    "vesa_mount_compatible": "100 x 100 mm",
+    "screen_size": "48 cm",
+    "builtin_camera": "N",
+    "manual": "Si",
+    "hdcp_supported": "N",
+    "led_indicators": "Si",
+    "wall_mountable": "Si",
+    "weight": "3.9 kg",
+    "contrast_ratio": "1000:1",
+    "resolution": "1280 x 1024 Pixels",
+    "operating_system": "Si",
+    "source_datasheet": ".",
+    "response_time": "5 ms",
+    "display_type": "LCD",
+    "voltage": "100 - 240 V"
+}

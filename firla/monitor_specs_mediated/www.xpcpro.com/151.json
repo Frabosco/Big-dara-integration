@@ -1,0 +1,22 @@
+{
+    "name": "VA2342-LED - ViewSonic VA2342-LED,  LED monitor  - Xpcpro.com",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "N",
+    "builtin_speakers": "N",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "10000000:1",
+    "dimensions": "548 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "23 \"",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Silver",
+    "voltage": "100 - 240 V",
+    "operating_system": "Y",
+    "manual": "Y",
+    "pixel_pitch": "0.265 x 0.265 mm",
+    "power_consumption": "20 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 15 °",
+    "vga": "1",
+    "weight": "4960 g"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "HP V201a - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Yes",
+    "contrast_ratio": "3000000:1",
+    "dimensions": "46.8 cm",
+    "brightness": "200 cd/mÂ²",
+    "screen_size": "49.4 cm",
+    "resolution": "1600 x 900 pixels",
+    "hdcp_supported": "No",
+    "voltage": "100 - 230V",
+    "power_consumption": "19W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 15Â°",
+    "vga": "1",
+    "weight": "2.8 kg"
+}

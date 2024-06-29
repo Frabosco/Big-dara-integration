@@ -1,0 +1,19 @@
+{
+    "name": "VX238H, 2598781, ASUSTeK COMPUTER, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "80,000,000:1",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "VX238H",
+    "resolution": "1920 x 1080",
+    "description": "LCD Monitor",
+    "response_time": "1 ms",
+    "screen_size": "58.4 cm (23\")",
+    "tilt_angle": "-5°to20°",
+    "vga": "Yes",
+    "weight": "2.60 kg"
+}

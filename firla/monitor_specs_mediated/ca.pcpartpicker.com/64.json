@@ -1,0 +1,18 @@
+{
+    "name": "Eizo EV2316WFS-BK 60Hz 23.0\" Monitor (EV2316WFS-BK) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "1000:1",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "hdmi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Eizo",
+    "part_number": "EV2316WFS-BK",
+    "refresh_rate": "60Hz",
+    "response_time": "5 ms",
+    "screen_size": "23\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

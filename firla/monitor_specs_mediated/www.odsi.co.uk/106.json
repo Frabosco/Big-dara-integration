@@ -1,0 +1,15 @@
+{
+    "name": "TD2340 23 TOUCH MM IPS HD DP TD2340 Viewsonic",
+    "aspect_ratio": "Widescreen",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 20000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "20 - 90% (non-condensing)",
+    "manufacturer": "Viewsonic",
+    "power_consumption": "45 Watt",
+    "response_time": "7 ms",
+    "tilt_angle": "-5/+50",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "9.2 kg"
+}

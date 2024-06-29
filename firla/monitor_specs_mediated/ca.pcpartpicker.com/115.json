@@ -1,0 +1,18 @@
+{
+    "name": "Dell U2412M 60Hz 24.0\" Monitor (M2GCR) - PCPartPicker Canada",
+    "aspect_ratio": "16:10",
+    "brightness": "300 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "1000:1 / 2000000:1 (dynamic)",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Dell",
+    "model": "U2412M",
+    "part_number": "M2GCR\n(or) U2412M\n(or) 469-1137",
+    "refresh_rate": "60Hz",
+    "response_time": "8 ms",
+    "screen_size": "24\"",
+    "vga": "1",
+    "viewing_angle": "178° H x 178° V"
+}

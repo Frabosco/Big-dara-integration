@@ -1,0 +1,19 @@
+{
+    "name": "Cleverboxes - LH32MDCPLGC/EN | Samsung SyncMaster MD32C (32 inch) LED Large Format Display 5000:1 350cd/m2 1920x1080 8ms HDMI",
+    "aspect_ratio": "16:9",
+    "audio_input": "1 x Stereo Mini Jack",
+    "audio_output": "1 x Stereo Mini Jack",
+    "brightness": "350cd/m2",
+    "contrast_ratio": "5,000:1 (Static) , 100,000:1 (Dynamic)",
+    "description": "Display",
+    "dimensions": "73.60cm (W) x 9.35cm (D) x 43.60cm (H) - Weight 6.40kg",
+    "model": "SyncMaster",
+    "pixel_pitch": "0.363mm",
+    "plug_and_play": "DDC 2B",
+    "power_consumption": "47W (Max) / 0.5W (Standby)",
+    "response_time": "8ms",
+    "display_type": "a-si TFT/S-PVA 16.7 Million Colour",
+    "vga": "1 x 15-pin D-Sub (RGB)",
+    "wall_mountable": "Yes , VESA Compliant - 200mm x 200mm",
+    "warranty": "3 Years"
+}

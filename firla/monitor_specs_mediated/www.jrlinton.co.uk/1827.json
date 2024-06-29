@@ -1,0 +1,21 @@
+{
+    "name": "DSH10.4LED, VIGDSH10.4LED, Vigilant Vision, Ltd, LCD Monitor, JR Linton",
+    "aspect_ratio": "4:3",
+    "backlight_technology": "LED",
+    "manufacturer": "Vigilant Vision, Ltd",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "500:1",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "DSH10.4LED",
+    "resolution": "800 x 600",
+    "power_consumption": "15 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "26.4 cm (10.4\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes",
+    "weight": "1.20 kg"
+}

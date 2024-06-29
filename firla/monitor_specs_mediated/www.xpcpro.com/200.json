@@ -1,0 +1,22 @@
+{
+    "name": "Q2770PQU - AOC Style Q2770PQU LED monitor 27\" 2560 - Xpcpro.com",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "N",
+    "builtin_speakers": "Y",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "80000000:1",
+    "dimensions": "642.2 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "27 \"",
+    "resolution": "2560 x 1440 pixels",
+    "hdcp_supported": "Y",
+    "height_adjustable": "Y",
+    "voltage": "100 - 240 V",
+    "manual": "Y",
+    "osd_languages": "Y",
+    "operating_temperature": "-25 - 55 °C",
+    "pixel_pitch": "0.233 x 0.233 mm",
+    "power_consumption": "65 W",
+    "response_time": "5 ms",
+    "vga": "1"
+}

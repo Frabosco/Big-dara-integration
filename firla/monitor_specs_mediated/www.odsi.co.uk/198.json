@@ -1,0 +1,17 @@
+{
+    "name": "Lenovo 60ABAAT1UK ThinkVision LT2013s -19.5\" Widescreen LCD Monitor",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "200 cd/m2",
+    "contrast_ratio": "1000:1 / 10000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "110 mm",
+    "manufacturer": "LENOVO",
+    "pixel_pitch": "0.281 mm",
+    "power_consumption": "1 Watt",
+    "response_time": "5 ms",
+    "swivel_angle": "90",
+    "tilt_angle": "-5/+30",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "2.5 kg"
+}

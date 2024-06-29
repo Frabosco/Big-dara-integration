@@ -1,0 +1,17 @@
+{
+    "name": "U17, AGNMON033, AG Neovo, LCD Monitor, JR Linton",
+    "manufacturer": "AG Neovo Technology Corporation",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "403.9 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "U",
+    "resolution": "1280 x 1024",
+    "description": "LCD Monitor",
+    "response_time": "3 ms",
+    "screen_size": "43.2 cm (17\")",
+    "vga": "Yes",
+    "weight": "5.70 kg"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "VS207DE, 2798276, ASUSTeK COMPUTER, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "600:1",
+    "dimensions": "468 mm",
+    "dvi": "No",
+    "certifications": "Yes",
+    "voltage": "110 V AC",
+    "warranty": "3 Year",
+    "model": "VS207",
+    "resolution": "1600 x 900",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "49.5 cm (19.5\")",
+    "refresh_rate": "60 Hz",
+    "power_consumption": "500 mW",
+    "vesa_mount_compatible": "75 x 75",
+    "vga": "Yes",
+    "weight": "2.59 kg"
+}

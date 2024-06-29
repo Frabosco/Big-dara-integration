@@ -1,0 +1,21 @@
+{
+    "name": "Benq EW2740L - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Yes",
+    "contrast_ratio": "20000000:1",
+    "dimensions": "450.57 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "685.8 mm (27 \")",
+    "resolution": "1920 x 1080 pixels",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "No",
+    "voltage": "90 - 264 V",
+    "manual": "Yes",
+    "osd_languages": "Yes",
+    "response_time": "12 ms",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "4.2 kg"
+}

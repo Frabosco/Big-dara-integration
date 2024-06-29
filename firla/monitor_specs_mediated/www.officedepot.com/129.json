@@ -1,0 +1,21 @@
+{
+    "name": "Asus VB198T P 19 LED LCD Monitor 43 5 ms by Office Depot",
+    "aspect_ratio": "4:3",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "250 Nit",
+    "dimensions": "16.3\"",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "resolution": "1280 x 1024",
+    "model": "VB",
+    "power_consumption": "300 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "19\"",
+    "refresh_rate": "76 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "170°",
+    "weight": "7.05 lb"
+}

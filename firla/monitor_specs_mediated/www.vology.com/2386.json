@@ -1,0 +1,17 @@
+{
+    "name": "HP VM626A8#ABA - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "CCFL",
+    "brightness": "210 cd/m2",
+    "contrast_ratio": "1000:1 / 3000:1 (dynamic)",
+    "display_type": "LCD monitor / TFT active matrix",
+    "height_adjustable": "3.5 in",
+    "operating_temperature": "20 - 80%",
+    "pixel_pitch": "0.2475 mm",
+    "power_consumption": "33.5 Watt",
+    "response_time": "16 ms (On/Off); 8 ms (gray-to-gray)",
+    "swivel_angle": "90",
+    "tilt_angle": "35",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "15.9 lbs"
+}

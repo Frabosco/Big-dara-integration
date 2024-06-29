@@ -1,0 +1,17 @@
+{
+    "name": "Elo TouchSystems 3201L - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_speakers": "Yes",
+    "dimensions": "76.2 cm",
+    "brightness": "315 cd/mÂ²",
+    "screen_size": "81.28 cm (32\")",
+    "display_type": "LCD",
+    "hdcp_supported": "Yes",
+    "voltage": "100 - 240V",
+    "osd_languages": "Yes",
+    "operating_temperature": "-20 - 50 Â°C",
+    "power_consumption": "57W",
+    "response_time": "8 ms",
+    "vga": "1",
+    "weight": "13500g"
+}

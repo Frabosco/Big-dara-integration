@@ -1,0 +1,18 @@
+{
+    "name": "AG Neovo SC-17 - MediaShopUK",
+    "aspect_ratio": "4:3",
+    "builtin_camera": "No",
+    "dimensions": "360 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "431.8 mm (17 \")",
+    "resolution": "1280 x 1024 pixels",
+    "hdcp_supported": "No",
+    "manual": "Yes",
+    "operating_temperature": "-20 - 60 °C",
+    "pixel_pitch": "0.264 x 0.264 mm",
+    "power_consumption": "26 W",
+    "response_time": "3 ms",
+    "led_indicators": "Yes",
+    "vga": "1",
+    "weight": "3.6 kg"
+}

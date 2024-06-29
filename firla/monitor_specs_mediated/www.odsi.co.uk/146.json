@@ -1,0 +1,14 @@
+{
+    "name": "Lenovo 60A3UAT2EU ThinkVision LT1423p - 13.3\" Widescreen LED Monitor",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "200 cd/m2",
+    "contrast_ratio": "500:1",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "manufacturer": "Lenovo",
+    "pixel_pitch": "0.184 mm",
+    "power_consumption": "6 Watt",
+    "response_time": "35 ms",
+    "voltage": "DC 5 V",
+    "weight": "850 g"
+}

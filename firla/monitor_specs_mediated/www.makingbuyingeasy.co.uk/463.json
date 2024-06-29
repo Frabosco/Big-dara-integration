@@ -1,0 +1,23 @@
+{
+    "name": "ASUS VK248H - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "Yes",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "50000000:1",
+    "dimensions": "56.84 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "61 cm",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "led_indicators": "Yes",
+    "manual": "Yes",
+    "audio_input": "Yes",
+    "pixel_pitch": "0.2768 x 0.2768 mm",
+    "power_consumption": "42W",
+    "response_time": "2 ms",
+    "tilt_angle": "20 - -5Â°",
+    "vga": "1",
+    "weight": "5 kg"
+}

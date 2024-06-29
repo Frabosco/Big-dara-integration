@@ -1,0 +1,18 @@
+{
+    "name": "LDT422V, MITLDT422V, Mitsubishi, LCD Monitor, Kingsfield Computer Products Ltd",
+    "manufacturer": "Mitsubishi",
+    "brightness": "500 cd/m²",
+    "contrast_ratio": "1,300:1",
+    "dimensions": "1022.1 mm",
+    "dvi": "Yes",
+    "hdmi": "Yes",
+    "model": "LDT422V",
+    "resolution": "1920 x 1080",
+    "power_consumption": "182 W",
+    "description": "LCD Monitor",
+    "response_time": "9 ms",
+    "screen_size": "106.7 cm (42\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "20.41 kg"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "HP XW477A4 Zr2440W - LED Monitor - 24.1\" - Vology",
+    "aspect_ratio": "Widescreen - 16:10",
+    "backlight_technology": "WLED",
+    "brightness": "350 cd/m2",
+    "contrast_ratio": "1000:1 / 2000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "3.9 in",
+    "operating_temperature": "20 - 80% (non-condensing)",
+    "pixel_pitch": "0.27 mm",
+    "power_consumption": "48 Watt",
+    "response_time": "6 ms",
+    "swivel_angle": "90",
+    "tilt_angle": "-5/+35",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "16.8 lbs"
+}

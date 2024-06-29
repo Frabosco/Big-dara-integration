@@ -1,0 +1,23 @@
+{
+    "name": "VG2439M-LED - ViewSonic VG2439m-LED LED monitor - Xpcpro.com",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "N",
+    "builtin_speakers": "Y",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "20000000:1",
+    "dimensions": "560.3 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "24 \"",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Y",
+    "height_adjustable": "N",
+    "voltage": "100 - 240 V",
+    "osd_languages": "Y",
+    "operating_temperature": "0 - 40 °C",
+    "power_consumption": "24 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "3700 g"
+}

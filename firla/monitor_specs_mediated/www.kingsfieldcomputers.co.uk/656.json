@@ -1,0 +1,22 @@
+{
+    "name": "193V5LSB2/10, 2759812, Philips, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Philips Electronics",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "700:1",
+    "dimensions": "437 mm",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "2 Year",
+    "model": "193V5LSB2",
+    "resolution": "1366 x 768",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "47 cm (18.5\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "2.15 kg"
+}

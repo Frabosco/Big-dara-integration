@@ -1,0 +1,21 @@
+{
+    "name": "Acer K K192HQL - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "contrast_ratio": "100000000:1",
+    "dimensions": "44.1 cm",
+    "brightness": "200 cd/mÂ²",
+    "screen_size": "47 cm",
+    "resolution": "1366 x 768 pixels",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "No",
+    "voltage": "110 - 220V",
+    "plug_and_play": "Yes",
+    "power_consumption": "11.9W",
+    "led_indicators": "Yes",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 25Â°",
+    "vga": "1",
+    "weight": "2.32 kg"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "859-BBDD, 0912936, Dell, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Dell, Inc",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "8,000,000:1",
+    "dimensions": "563.9 mm",
+    "displayport": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "model": "UZ2315H",
+    "resolution": "1920 x 1080",
+    "power_consumption": "60 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "58.4 cm (23\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "3.50 kg"
+}

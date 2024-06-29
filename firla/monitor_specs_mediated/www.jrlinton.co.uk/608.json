@@ -1,0 +1,22 @@
+{
+    "name": "X-17PB, AGX17PB, AG Neovo, LCD Monitor, JR Linton",
+    "aspect_ratio": "5:4",
+    "manufacturer": "AG Neovo Technology Corporation",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "409 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "No",
+    "warranty": "3 Year",
+    "model": "X-17P",
+    "resolution": "1280 x 1024",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "3 ms",
+    "screen_size": "43.2 cm (17\")",
+    "refresh_rate": "85 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "6.60 kg"
+}

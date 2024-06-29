@@ -1,0 +1,21 @@
+{
+    "name": "FG2421-BK, EIZOFG2421BK, Eizo Nanao, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "manufacturer": "Eizo Nanao Tech",
+    "brightness": "400 cd/m²",
+    "contrast_ratio": "5,000:1",
+    "dimensions": "560 mm",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "FG",
+    "resolution": "1920 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "1 ms",
+    "screen_size": "59.7 cm (23.5\")",
+    "swivel_angle": "344°",
+    "tilt_angle": "25°to0°",
+    "weight": "6.20 kg"
+}

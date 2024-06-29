@@ -1,0 +1,20 @@
+{
+    "name": "VX2858SML, B921660, ViewSonic, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "300 cd/mÂ²",
+    "contrast_ratio": "3,000:1",
+    "dimensions": "660.4 mm",
+    "hdmi": "Yes",
+    "model": "VX2858Sml",
+    "resolution": "1920 x 1080",
+    "power_consumption": "46 W",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "71.1 cm (28\")",
+    "tilt_angle": "5Â°to20Â°",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.58 kg"
+}

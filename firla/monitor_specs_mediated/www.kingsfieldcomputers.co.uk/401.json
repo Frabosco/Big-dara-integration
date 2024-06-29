@@ -1,0 +1,23 @@
+{
+    "name": "UM.WG7EE.A01, 3112698, Acer, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Acer, Inc",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "100,000,000:1",
+    "dimensions": "499.4 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "120 V AC",
+    "warranty": "2 Year",
+    "model": "G227HQLA",
+    "resolution": "1920 x 1080",
+    "power_consumption": "490 mW",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "54.6 cm (21.5\")",
+    "refresh_rate": "60 Hz",
+    "tilt_angle": "-5°to15°",
+    "vga": "Yes"
+}

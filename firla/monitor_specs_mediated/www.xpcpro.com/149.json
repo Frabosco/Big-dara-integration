@@ -1,0 +1,23 @@
+{
+    "name": "VG2433-LED - ViewSonic VG2433-LED LED monitor - Xpcpro.com",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "N",
+    "builtin_speakers": "N",
+    "contrast_ratio": "20000000:1",
+    "dimensions": "566 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "23.6 \"",
+    "resolution": "1920 x 1080 pixels",
+    "display_surface": "Y",
+    "height_adjustable": "Y",
+    "voltage": "100 - 240 V",
+    "operating_system": "Y",
+    "osd_languages": "Y",
+    "operating_temperature": "0 - 40 °C",
+    "pivot": "0 - 90 °",
+    "power_consumption": "22 W",
+    "manual": "Y",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 25 °",
+    "vga": "1"
+}

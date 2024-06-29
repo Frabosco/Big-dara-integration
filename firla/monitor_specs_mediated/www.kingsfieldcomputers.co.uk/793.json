@@ -1,0 +1,19 @@
+{
+    "name": "272P4QPJKEB/00, Philips, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Philips Electronics",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "272P4QPJKEB",
+    "resolution": "2560 x 1440",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vesa_mount_compatible": "Yes"
+}

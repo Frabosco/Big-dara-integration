@@ -1,0 +1,23 @@
+{
+    "name": "22M45D - LG 22M45D 21.5\" 5ms Widescreen LED - Xpcpro.com",
+    "aspect_ratio": "4:3, 16:9",
+    "bluetooth": "N",
+    "security_lock_slot": "Y",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "509 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "54.61 cm",
+    "resolution": "1920 x 1200 pixels",
+    "ethernet": "N",
+    "hdcp_supported": "Y",
+    "voltage": "100 - 240 V",
+    "osd_languages": "Y",
+    "pixel_pitch": "0.248 x 0.248 mm",
+    "plug_and_play": "Y",
+    "power_consumption": "21 W",
+    "led_indicators": "Y",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "2300 g",
+    "wifi": "N"
+}

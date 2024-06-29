@@ -1,0 +1,20 @@
+{
+    "name": "Benq Bl2410pt 24\" Lcd Monitor - 16:9 - 4 Ms - Adjustable Display Angle - 1920 X 1080 - 16.7 Million Colors - 250 Cd/mÂ² - 5,000:1 - Full Hd - Dvi - Vga - Displayport - Usb - 23 W - Black - (BL2410PT) - SoftwareCity.ca - Canada",
+    "aspect_ratio": "16:9",
+    "manufacturer": "BenQ Corporation",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "5,000:1",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "No",
+    "model": "BL",
+    "resolution": "1920 x 1080",
+    "power_consumption": "200 mW",
+    "description": "LCD Monitor",
+    "response_time": "4 ms",
+    "screen_size": "24\"",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "6.70 kg"
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Iiyama ProLite E2481HS-B1 - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "54.35 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "59.94 cm (23.6\")",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "No",
+    "voltage": "100 - 240V",
+    "pixel_pitch": "0.2715 x 0.2715 mm",
+    "power_consumption": "22W",
+    "response_time": "2 ms",
+    "tilt_angle": "-4 - 21Â°",
+    "vga": "1",
+    "weight": "3.8 kg"
+}

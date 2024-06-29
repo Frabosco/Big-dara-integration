@@ -1,0 +1,23 @@
+{
+    "name": "NEC Display MultiSync PA272W BK 27 GB R LED LCD Monitor 169 6 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "GB-R LED",
+    "manufacturer": "NEC Display Solutions",
+    "brightness": "340 Nit",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "25.2\"",
+    "displayport": "Yes",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "resolution": "2560 x 1440",
+    "model": "PA",
+    "power_consumption": "1 W",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "27\"",
+    "refresh_rate": "85 Hz",
+    "vesa_mount_compatible": "200 x 100",
+    "viewing_angle": "178°",
+    "weight": "28.40 lb"
+}

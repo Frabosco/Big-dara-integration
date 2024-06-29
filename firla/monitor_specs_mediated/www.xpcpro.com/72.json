@@ -1,0 +1,20 @@
+{
+    "name": "E2260SDA - AOC Professional e2260Sda, LED monitor - Xpcpro.com",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "N",
+    "builtin_speakers": "N",
+    "contrast_ratio": "20000000:1",
+    "dimensions": "507.8 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "22 \"",
+    "resolution": "1680 x 1050 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "N",
+    "voltage": "90 - 240 V",
+    "pixel_pitch": "0.248 x 0.248 mm",
+    "power_consumption": "15.5 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 15 °",
+    "vga": "1",
+    "weight": "2700 g"
+}

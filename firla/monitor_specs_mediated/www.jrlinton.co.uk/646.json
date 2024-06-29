@@ -1,0 +1,20 @@
+{
+    "name": "VG278HE, 2516443, ASUSTeK COMPUTER, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "50,000,000:1",
+    "dimensions": "643 mm",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "hdmi": "Yes",
+    "model": "VG",
+    "resolution": "1920 x 1080",
+    "power_consumption": "1 W",
+    "description": "LCD Monitor",
+    "response_time": "2 ms",
+    "screen_size": "68.6 cm (27\")",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "8 kg"
+}

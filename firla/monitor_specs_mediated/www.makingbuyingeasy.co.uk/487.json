@@ -1,0 +1,20 @@
+{
+    "name": "ASUS VS197DE LED monitor - 18.5 - MBE",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "50000000:1",
+    "brightness": "200 cd/mÂ²",
+    "screen_size": "47 cm",
+    "resolution": "1366 x 768 pixels",
+    "certifications": "Yes",
+    "hdcp_supported": "No",
+    "height_adjustable": "No",
+    "osd_languages": "Yes",
+    "pixel_pitch": "0.3 x 0.3 mm",
+    "power_consumption": "17W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 20Â°",
+    "vga": "1"
+}

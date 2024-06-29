@@ -1,0 +1,21 @@
+{
+    "name": "Samsung S19C450BR - MBE",
+    "aspect_ratio": "5:4",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "contrast_ratio": "1000:1",
+    "dimensions": "40.7 cm",
+    "brightness": "250 cd/mÂ²",
+    "screen_size": "48.26 cm (19\")",
+    "resolution": "1280 x 1024 pixels",
+    "display_surface": "Matt",
+    "certifications": "Gold",
+    "manual": "Yes",
+    "operating_temperature": "10 - 40 Â°C",
+    "pivot": "-1 - 95Â°",
+    "power_consumption": "19W",
+    "response_time": "5 ms",
+    "tilt_angle": "-3 - 25Â°",
+    "vga": "1",
+    "weight": "2.95 kg"
+}

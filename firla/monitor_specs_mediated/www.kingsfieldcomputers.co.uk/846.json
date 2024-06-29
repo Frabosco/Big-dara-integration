@@ -1,0 +1,21 @@
+{
+    "name": "T45HNUK, S602QX2, Lenovo, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:10",
+    "manufacturer": "Lenovo Group Limited",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "443.2 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "model": "LT1953",
+    "resolution": "1440 x 900",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "48.3 cm (19\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "3 kg"
+}

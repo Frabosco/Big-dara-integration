@@ -1,0 +1,23 @@
+{
+    "name": "AOC 23.8 i2473Pwm IPS MONITOR LED",
+    "dimensions": "54,71 cm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "178°",
+    "security_lock_slot": "Kensington",
+    "certifications": "Non specificato",
+    "display_colors": "16,77M",
+    "screen_size": "60,5 cm",
+    "pixel_pitch": "0,2745 x 0,2745 mm",
+    "builtin_camera": "No",
+    "hdcp_supported": "Si",
+    "tilt_angle": "-5 - 15°",
+    "osd_languages": "Si",
+    "weight": "6,46 kg",
+    "dvi": "No",
+    "contrast_ratio": "50000000:1",
+    "height_adjustable": "No",
+    "resolution": "1920 x 1080 Pixels",
+    "response_time": "5 ms",
+    "display_type": "LED",
+    "voltage": "100 - 240V"
+}

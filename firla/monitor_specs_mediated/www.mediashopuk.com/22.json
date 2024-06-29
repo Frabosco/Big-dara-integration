@@ -1,0 +1,21 @@
+{
+    "name": "Edge10 EF190a - MediaShopUK",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "10000:1",
+    "dimensions": "440 mm",
+    "brightness": "300 cd/m²",
+    "screen_size": "48.4 cm",
+    "resolution": "1440 x 900 pixels",
+    "height_adjustable": "No",
+    "voltage": "100 - 240 V",
+    "osd_languages": "Yes",
+    "pixel_pitch": "0.285 x 0.285 mm",
+    "power_consumption": "21 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 15 °",
+    "vga": "1",
+    "weight": "3.35 kg"
+}

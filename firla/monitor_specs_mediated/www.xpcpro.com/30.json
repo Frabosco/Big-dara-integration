@@ -1,0 +1,23 @@
+{
+    "name": "LW24A011E0100 - Neovo L-W24 LED monitor  24\",  - Xpcpro.com",
+    "aspect_ratio": "16:9",
+    "builtin_speakers": "Y",
+    "security_lock_slot": "-",
+    "contrast_ratio": "20000000:1",
+    "dimensions": "566 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "24 \"",
+    "resolution": "1920 x 1080 pixels",
+    "certifications": "Y",
+    "hdcp_supported": "Y",
+    "voltage": "100 - 240 V",
+    "operating_temperature": "-25 - 55 °C",
+    "audio_input": "Y",
+    "pixel_pitch": "0.277 x 0.277 mm",
+    "plug_and_play": "Y",
+    "power_consumption": "33 W",
+    "response_time": "3 ms",
+    "tilt_angle": "-4 - 18 °",
+    "vga": "1",
+    "weight": "4300 g"
+}

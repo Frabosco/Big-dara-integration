@@ -1,0 +1,16 @@
+{
+    "name": "Lenovo 60A0MAR1US ThinkVision LT2013p LED Monitor - 19.5\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 10000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "4.3 in",
+    "operating_temperature": "10 - 80%",
+    "pixel_pitch": "0.27 mm",
+    "power_consumption": "1 Watt",
+    "response_time": "5 ms",
+    "swivel_angle": "90",
+    "tilt_angle": "-5/+30",
+    "voltage": "AC 120/230 V ( 50/60 Hz )"
+}

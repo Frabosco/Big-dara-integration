@@ -1,0 +1,22 @@
+{
+    "name": "HP Z30i - MBE",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "69.03 cm",
+    "brightness": "350 cd/mÂ²",
+    "screen_size": "75.78 cm",
+    "resolution": "2560 x 1600 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "12 cm",
+    "voltage": "100 - 250V",
+    "pivot": "0 - 90Â°",
+    "pixel_pitch": "0.250 x 0.250 mm",
+    "power_consumption": "85W",
+    "response_time": "8 ms",
+    "tilt_angle": "-5 - 20Â°",
+    "vga": "1",
+    "weight": "7.56 kg"
+}

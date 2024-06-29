@@ -1,0 +1,17 @@
+{
+    "name": "Cleverboxes - LH46SLBPLBC/EN | Samsung SL46B (46 inch) S-PVA Specialised Display 4000:1 1500cd/m2 1920x1080 8ms HDMI/DVI-D",
+    "audio_input": "1 x 3.5mm Stereo Mini-Jack, 1 x RCA (L/R)",
+    "audio_output": "1 x 3.5mm Stereo Mini-jack",
+    "brightness": "1500cd/m2",
+    "contrast_ratio": "4,000:1 (Static) , 10,000:1 (Dynamic)",
+    "description": "Display",
+    "dimensions": "104.94cm (W) x 12.50cm (D) x 60.26cm (H) - Weight 26.80kg",
+    "model": "SL46B",
+    "pixel_pitch": "(H) 0.53025mm x (V) 0.53025mm",
+    "power_consumption": "365W (Max) / 1W (Standby)",
+    "response_time": "8ms",
+    "display_type": "S-PVA 16.7 Million Colour",
+    "usb_ports": "1 x USB",
+    "vga": "1 x 15-pin D-sub",
+    "wall_mountable": "Yes , VESA Compliant - 600mm x 400mm"
+}

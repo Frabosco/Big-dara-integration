@@ -1,0 +1,19 @@
+{
+    "name": "VE198S, 2394644, ASUSTeK COMPUTER, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "10,000,000:1",
+    "certifications": "Yes",
+    "model": "VE",
+    "resolution": "1440 x 900",
+    "power_consumption": "1 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "48.3 cm (19\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "3.20 kg"
+}

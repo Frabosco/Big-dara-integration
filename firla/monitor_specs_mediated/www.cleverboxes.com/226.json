@@ -1,0 +1,15 @@
+{
+    "name": "Cleverboxes - C192 | Edge10  C192 (18.5) CCTV Widescreen LED Monitor 10,000:1 300cd/m2 1280x1024 5ms (Black Bezel)",
+    "brightness": "300cd/m2",
+    "contrast_ratio": "10,000:1 (Static)",
+    "dimensions": "44cm (W) x 18cm (D) x 42.6cm (H) - Weight 3.635kg",
+    "display_type": "Active Matrix TFT 16.2 Million Colour",
+    "model": "C192",
+    "pixel_pitch": "0.264 x 0.264mm",
+    "plug_and_play": "DDC1/2B",
+    "description": "Display",
+    "response_time": "5ms",
+    "vga": "1 x 15-pin D-Sub",
+    "wall_mountable": "Yes , VESA Compliant - 100mm x 100mm",
+    "warranty": "2 years"
+}

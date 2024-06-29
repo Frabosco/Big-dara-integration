@@ -1,0 +1,19 @@
+{
+    "name": "W2242PM, LGW2242PM, LG Electronics, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:10",
+    "manufacturer": "LG Electronics",
+    "brightness": "300 cd/m²",
+    "contrast_ratio": "8,000:1",
+    "dimensions": "516 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "model": "W2242PM",
+    "resolution": "1680 x 1050",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "55.9 cm (22\")",
+    "refresh_rate": "50 Hz",
+    "vga": "Yes",
+    "weight": "4.65 kg"
+}

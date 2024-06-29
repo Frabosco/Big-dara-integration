@@ -1,0 +1,20 @@
+{
+    "name": "VG2235M, B921670, ViewSonic, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:10",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "20,000,000:1",
+    "dimensions": "512.3 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "model": "VG2235m",
+    "resolution": "1680 x 1050",
+    "power_consumption": "18.50 W",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "55.9 cm (22\")",
+    "vesa_mount_compatible": "Yes",
+    "vga": "Yes",
+    "weight": "4.85 kg"
+}

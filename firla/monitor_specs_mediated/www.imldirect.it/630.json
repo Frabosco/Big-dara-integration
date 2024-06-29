@@ -1,0 +1,22 @@
+{
+    "name": "LS24C750PS/EN, 2753308, Samsung, LCD Monitor, IML Direct Italy",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Samsung",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "3,000:1",
+    "dimensions": "555.8 mm",
+    "displayport": "No",
+    "dvi": "No",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "110 V AC",
+    "model": "750",
+    "resolution": "1920 x 1080",
+    "power_consumption": "300 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "61 cm (24\")",
+    "vga": "Yes",
+    "weight": "4.95 kg"
+}

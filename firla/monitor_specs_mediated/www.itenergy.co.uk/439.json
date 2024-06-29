@@ -1,0 +1,23 @@
+{
+    "name": "273E3LSB/00, 2240706, Philips, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Philips Electronics",
+    "brightness": "300 cd/mÂ²",
+    "contrast_ratio": "1,200:1",
+    "dimensions": "642 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "220 V AC",
+    "model": "E",
+    "resolution": "1980 x 1080",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "3.50 ms",
+    "screen_size": "68.6 cm (27\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "8.20 kg"
+}

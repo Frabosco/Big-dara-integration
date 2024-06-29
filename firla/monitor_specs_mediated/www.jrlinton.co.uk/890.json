@@ -1,0 +1,21 @@
+{
+    "name": "HE195ANB, V320105, Hannspree, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Hannspree, Inc",
+    "brightness": "200 cd/m²",
+    "contrast_ratio": "40,000,000:1",
+    "dimensions": "444 mm",
+    "certifications": "Yes",
+    "voltage": "110 V AC",
+    "model": "HE",
+    "resolution": "1366 x 768",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "47 cm (18.5\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "2.56 kg"
+}

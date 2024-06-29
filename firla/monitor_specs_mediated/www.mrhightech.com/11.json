@@ -1,0 +1,23 @@
+{
+    "name": "HP Z30i - MrHighTech Shop",
+    "aspect_ratio": "16:10",
+    "builtin_camera": "No",
+    "builtin_speakers": "No",
+    "contrast_ratio": "5000000:1",
+    "dimensions": "690.3 mm",
+    "brightness": "350 cd/m²",
+    "screen_size": "75.78 cm",
+    "resolution": "2560 x 1600 pixels",
+    "certifications": "Gold",
+    "hdcp_supported": "Yes",
+    "height_adjustable": "Yes",
+    "voltage": "100 - 250 V",
+    "pivot": "0 - 90 °",
+    "pixel_pitch": "0.250 x 0.250 mm",
+    "power_consumption": "85 W",
+    "response_time": "8 ms",
+    "source_datasheet": ".",
+    "tilt_angle": "-5 - 20 °",
+    "vga": "1",
+    "weight": "7.56 kg"
+}

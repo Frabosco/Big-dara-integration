@@ -1,0 +1,19 @@
+{
+    "name": "Asus VW199T P 19 LED LCD Monitor 169 5 ms by Office Depot",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "ASUS Computer International",
+    "contrast_ratio": "10,000,000:1",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "resolution": "1440 x 900",
+    "model": "VW",
+    "power_consumption": "100 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "19\"",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "viewing_angle": "170°",
+    "weight": "9.26 lb"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "VG2039M-LED 20 HA MM DVI DP TS VG2039M-LED Viewsonic",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "250 cd/m2",
+    "contrast_ratio": "1000:1 / 20000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "height_adjustable": "80 mm",
+    "manufacturer": "Viewsonic",
+    "power_consumption": "17 Watt",
+    "response_time": "5 ms",
+    "swivel_angle": "360",
+    "tilt_angle": "-5/+20",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "3.7 kg"
+}

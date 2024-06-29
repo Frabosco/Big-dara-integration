@@ -1,0 +1,23 @@
+{
+    "name": "AOC LED 27 q2770Pqu Quad-HD MONITOR LED",
+    "dimensions": "64,22 cm",
+    "builtin_speakers": "Si",
+    "viewing_angle": "178°",
+    "security_lock_slot": "Kensington",
+    "display_colors": "16,77M",
+    "vesa_mount_compatible": "100 x 100 mm",
+    "screen_size": "68,58 cm (27\")",
+    "pixel_pitch": "0,233 x 0,233 mm",
+    "builtin_camera": "N",
+    "hdcp_supported": "Si",
+    "operating_temperature": "-25 - 55 °C",
+    "wall_mountable": "Si",
+    "osd_languages": "Si",
+    "dvi": "Si",
+    "contrast_ratio": "80000000:1",
+    "height_adjustable": "13 cm",
+    "resolution": "2560 x 1440 Pixels",
+    "response_time": "5 ms",
+    "display_type": "LED",
+    "voltage": "100 - 240V"
+}

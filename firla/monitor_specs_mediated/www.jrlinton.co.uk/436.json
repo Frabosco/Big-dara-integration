@@ -1,0 +1,20 @@
+{
+    "name": "CDX4650-L, B921374, ViewSonic, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Viewsonic Corporation",
+    "brightness": "700 cd/m²",
+    "contrast_ratio": "4,000:1",
+    "dimensions": "1023.6 mm",
+    "dvi": "Yes",
+    "hdmi": "Yes",
+    "model": "CDX4650-L",
+    "resolution": "1920 x 1080",
+    "power_consumption": "220 W",
+    "description": "LCD Monitor",
+    "response_time": "6.50 ms",
+    "screen_size": "116.8 cm (46\")",
+    "vesa_mount_compatible": "200 x 400",
+    "vga": "Yes",
+    "weight": "25.99 kg"
+}

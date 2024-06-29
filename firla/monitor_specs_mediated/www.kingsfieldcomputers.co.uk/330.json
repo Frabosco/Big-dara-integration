@@ -1,0 +1,20 @@
+{
+    "name": "170B6CS/05, PHITFT170B6CS05, Philips, LCD Monitor, Kingsfield Computer Products Ltd",
+    "manufacturer": "Philips Electronics",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "500:1",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "1 Year",
+    "model": "170B6CS",
+    "resolution": "1280 x 1024",
+    "power_consumption": "33 W",
+    "description": "LCD Monitor",
+    "response_time": "8 ms",
+    "screen_size": "43.2 cm (17\")",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.80 kg"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Edge10 ET185a - MediaShopUK",
+    "aspect_ratio": "16:9",
+    "builtin_camera": "No",
+    "builtin_speakers": "Yes",
+    "security_lock_slot": "Kensington",
+    "contrast_ratio": "10000:1",
+    "dimensions": "438 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "47 cm",
+    "resolution": "1366 x 768 pixels",
+    "height_adjustable": "No",
+    "voltage": "100 - 240 V",
+    "osd_languages": "Yes",
+    "pixel_pitch": "0.3 x 0.3 mm",
+    "power_consumption": "19 W",
+    "response_time": "5 ms",
+    "tilt_angle": "-5 - 15 °",
+    "vga": "1",
+    "weight": "4.08 kg"
+}

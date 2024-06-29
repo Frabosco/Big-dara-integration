@@ -1,0 +1,17 @@
+{
+    "name": "Acer B226HQLAymdr 60Hz 21.5\" Monitor (UM.WB6AA.A01) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "250 cd/m²",
+    "builtin_speakers": "Yes",
+    "contrast_ratio": "ACM 100,000,000:1 (3000:1)",
+    "display_colors": "16700000",
+    "dvi": "1",
+    "backlight_technology": "Yes",
+    "manufacturer": "Acer",
+    "model": "B226HQLAymdr",
+    "part_number": "UM.WB6AA.A01",
+    "refresh_rate": "60Hz",
+    "response_time": "8 ms",
+    "screen_size": "21.5\"",
+    "vga": "1"
+}

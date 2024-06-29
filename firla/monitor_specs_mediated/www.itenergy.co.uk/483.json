@@ -1,0 +1,23 @@
+{
+    "name": "R47HCUK, S6033S6, Lenovo, LCD Monitor, Itenergy Ltd",
+    "aspect_ratio": "5:4",
+    "backlight_technology": "CCFL",
+    "manufacturer": "Lenovo Group Limited",
+    "brightness": "250 cd/mÂ²",
+    "contrast_ratio": "1,000:1",
+    "dimensions": "370.8 mm",
+    "dvi": "Yes",
+    "certifications": "Yes",
+    "voltage": "220 V AC",
+    "warranty": "3 Year",
+    "model": "LT1712p",
+    "resolution": "1280 x 1024",
+    "power_consumption": "500 mW",
+    "description": "LCD Monitor",
+    "response_time": "5 ms",
+    "screen_size": "43.2 cm (17\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "4.24 kg"
+}

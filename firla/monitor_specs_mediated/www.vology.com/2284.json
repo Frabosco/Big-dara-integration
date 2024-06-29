@@ -1,0 +1,15 @@
+{
+    "name": "Lenovo 60B0HAR1US ThinkVision E2323 LED Monitor - 23\" - Vology",
+    "aspect_ratio": "Widescreen - 16:9",
+    "backlight_technology": "WLED",
+    "brightness": "200 cd/m2",
+    "contrast_ratio": "600:1 / 3000000:1 (dynamic)",
+    "display_type": "LED-backlit LCD monitor / TFT active matrix",
+    "operating_temperature": "10 - 80%",
+    "pixel_pitch": "0.265 mm",
+    "power_consumption": "0.5 Watt",
+    "response_time": "5 ms (gray-to-gray)",
+    "tilt_angle": "-5/+22",
+    "voltage": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "7.8 lbs"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "9H.LAHLA.RPE, 3139268, BenQ, LCD Monitor, Kingsfield Computer Products Ltd",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "BenQ Corporation",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "20,000,000:1",
+    "dimensions": "506 mm",
+    "dvi": "Yes",
+    "hdcp_supported": "Yes",
+    "voltage": "120 V AC",
+    "model": "V40",
+    "resolution": "1920 x 1080",
+    "description": "LCD Monitor",
+    "response_time": "6 ms",
+    "screen_size": "54.6 cm (21.5\")",
+    "vga": "Yes",
+    "weight": "2.70 kg"
+}

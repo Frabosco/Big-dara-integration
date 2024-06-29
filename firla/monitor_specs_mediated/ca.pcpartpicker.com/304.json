@@ -1,0 +1,19 @@
+{
+    "name": "BenQ XL2420TX 120Hz 24.0\" Monitor (XL2420TX) - PCPartPicker Canada",
+    "aspect_ratio": "16:9",
+    "brightness": "350 cd/m²",
+    "builtin_speakers": "No",
+    "contrast_ratio": "DC 12M:1 (1000:1)",
+    "display_colors": "16700000",
+    "displayport": "1",
+    "dvi": "1",
+    "hdmi": "2",
+    "backlight_technology": "Yes",
+    "manufacturer": "BenQ",
+    "part_number": "XL2420TX",
+    "refresh_rate": "120Hz",
+    "response_time": "5 ms",
+    "screen_size": "24\"",
+    "vga": "1",
+    "viewing_angle": "170° H x 160° V"
+}

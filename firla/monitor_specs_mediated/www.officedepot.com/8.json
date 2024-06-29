@@ -1,0 +1,17 @@
+{
+    "name": "Elo 1715L Touchscreen LCD Monitor by Office Depot",
+    "aspect_ratio": "5:4",
+    "manufacturer": "Elo Touch Solutions, Inc",
+    "brightness": "280 Nit",
+    "contrast_ratio": "800:1",
+    "resolution": "1280 x 1024",
+    "model": "1715L",
+    "description": "LCD Touchscreen Monitor",
+    "response_time": "25 ms",
+    "screen_size": "17\"",
+    "refresh_rate": "60 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "viewing_angle": "160°",
+    "weight": "15.20 lb"
+}

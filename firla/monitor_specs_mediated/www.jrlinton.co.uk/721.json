@@ -1,0 +1,21 @@
+{
+    "name": "DS21.5SDI, VIGDS215SDI, Vigilant Vision, Ltd, LCD Monitor, JR Linton",
+    "aspect_ratio": "16:9",
+    "backlight_technology": "LED",
+    "manufacturer": "Vigilant Vision, Ltd",
+    "brightness": "250 cd/m²",
+    "contrast_ratio": "1,000:1",
+    "certifications": "Yes",
+    "hdmi": "Yes",
+    "voltage": "220 V AC",
+    "model": "DS21.5SDI",
+    "resolution": "1920 x 1080",
+    "power_consumption": "35 W",
+    "description": "LCD Monitor",
+    "response_time": "3.50 ms",
+    "screen_size": "54.6 cm (21.5\")",
+    "refresh_rate": "75 Hz",
+    "vesa_mount_compatible": "100 x 100",
+    "vga": "Yes",
+    "weight": "7.90 kg"
+}

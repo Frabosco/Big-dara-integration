@@ -1,0 +1,16 @@
+{
+    "name": "Cleverboxes - TD2420 | Viewsonic TD2420 (24 inch) LED Display 1000:1 200cd/m2 1920 x 1080 5ms (Black)",
+    "audio_input": "1 x 3.5mm Mini-Jack",
+    "brightness": "210cd/m2",
+    "contrast_ratio": "1,000:1 (Static) , 20,000,000:1 (Dynamic)",
+    "dimensions": "62.2cm (W) x 19.2cm (D) x 45.9cm (H) - Weight 7.8kg",
+    "audio_output": "1 x 3.5mm Mini-Jack",
+    "model": "TD2420",
+    "power_consumption": "25W (Max)",
+    "description": "Display",
+    "resolution": "1920 x 1080 Pixels",
+    "response_time": "5ms",
+    "display_type": "TFT Active Matrix",
+    "vga": "1 x Mini 15-pin D-sub",
+    "wall_mountable": "Yes , VESA 100 x 100mm"
+}

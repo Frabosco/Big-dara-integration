@@ -1,0 +1,19 @@
+{
+    "name": "Lenovo ThinkVision LT2252P - MediaShopUK",
+    "dimensions": "506 mm",
+    "brightness": "250 cd/m²",
+    "screen_size": "558.8 mm (22 \")",
+    "resolution": "1680 x 1650 pixels",
+    "certifications": "Gold",
+    "height_adjustable": "Yes",
+    "osd_languages": "Yes",
+    "operating_temperature": "10 - 80 °C",
+    "pivot": "Yes",
+    "pixel_pitch": "0.282 x 0.282 mm",
+    "power_consumption": "20 W",
+    "led_indicators": "Yes",
+    "source_datasheet": ".",
+    "tilt_angle": "0 - 30 °",
+    "vga": "1",
+    "weight": "5.14 kg"
+}
