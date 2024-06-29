@@ -1,0 +1,6 @@
+('www.cleverboxes.com', 'environmental')
+('www.ohc24.ch', 'environmental standards')
+('www.itenergy.co.uk', 'environmentconscious and reliable')
+('www.softwarecity.ca', 'vesa mount standard')
+('www.odsi.co.uk', 'environmental standards')
+('www.vology.com', 'environmental standards')

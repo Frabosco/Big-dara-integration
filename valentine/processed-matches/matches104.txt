@@ -1,0 +1,2 @@
+('www.odsi.co.uk', 'diagonal size cm')
+('www.xpcpro.com', 'viewable size diagonal')

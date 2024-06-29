@@ -1,0 +1,3 @@
+('www.planet-computer.it', 'blocco cavo')
+('www.xpcpro.com', 'cable lock slot')
+('www.hardware-planet.it', 'blocco cavo')

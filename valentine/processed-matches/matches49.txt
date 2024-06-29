@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'schermo srgb')
+('www.planet-computer.it', 'schermo srgb')

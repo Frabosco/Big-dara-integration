@@ -1,0 +1,3 @@
+('www.odsi.co.uk', 'service  support details')
+('www.vology.com', 'service  support details')
+('www.pcconnection.com', 'warranty details')

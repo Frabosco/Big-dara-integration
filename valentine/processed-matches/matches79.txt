@@ -1,0 +1,5 @@
+('www.hardware-planet.it', 'connessione cuffia')
+('www.mediashopuk.com', 'headphone connectivity')
+('www.mrhightech.com', 'headphone connectivity')
+('www.vology.com', 'connectivity')
+('www.xpcpro.com', 'headphone connectivity')

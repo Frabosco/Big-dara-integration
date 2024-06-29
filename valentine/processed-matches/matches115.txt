@@ -1,0 +1,6 @@
+('www.xpcpro.com', 'plug and play')
+('www.mrhightech.com', 'plug and play')
+('www.planet-computer.it', 'plug  play')
+('www.hardware-planet.it', 'plug  play')
+('www.mediashopuk.com', 'plug and play')
+('www.makingbuyingeasy.co.uk', 'plug and play')

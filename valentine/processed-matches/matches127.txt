@@ -1,0 +1,3 @@
+('www.hardware-planet.it', 'dimensione visibile orizzontale')
+('www.planet-computer.it', 'dimensione visibile orizzontale')
+('www.xpcpro.com', 'dimensions w x d x h with stand')

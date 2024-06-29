@@ -1,0 +1,2 @@
+('www.makingbuyingeasy.co.uk', 'voltage tolerance')
+('www.vology.com', 'voltage required')

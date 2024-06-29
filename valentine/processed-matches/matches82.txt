@@ -1,0 +1,4 @@
+('www.mrhightech.com', 'cable lock slot')
+('www.xpcpro.com', 'cable lock slot')
+('www.makingbuyingeasy.co.uk', 'cable lock slot')
+('www.mediashopuk.com', 'cable lock slot')

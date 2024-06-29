@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'indicatore led alimentazione')
+('www.planet-computer.it', 'indicatore led alimentazione')

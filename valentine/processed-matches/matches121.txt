@@ -1,0 +1,3 @@
+('www.xpcpro.com', 'tv tuner integrated')
+('www.hardware-planet.it', 'sintonizzatore tv integrato')
+('www.planet-computer.it', 'sintonizzatore tv integrato')

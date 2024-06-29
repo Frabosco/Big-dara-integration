@@ -1,0 +1,3 @@
+('www.mrhightech.com', 'card reader integrated')
+('www.xpcpro.com', 'card reader integrated')
+('www.makingbuyingeasy.co.uk', 'card reader integrated')

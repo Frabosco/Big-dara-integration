@@ -1,0 +1,6 @@
+('www.xpcpro.com', 'energy efficiency class')
+('www.makingbuyingeasy.co.uk', 'energy efficiency class')
+('www.planet-computer.it', 'classe efficienza energetica')
+('www.mrhightech.com', 'energy efficiency class')
+('www.hardware-planet.it', 'classe efficienza energetica')
+('www.mediashopuk.com', 'energy efficiency class')

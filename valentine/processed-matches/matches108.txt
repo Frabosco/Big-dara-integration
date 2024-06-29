@@ -1,0 +1,3 @@
+('www.softwarecity.ca', 'manufacturer website address')
+('www.pc-canada.com', 'manufacturer website address')
+('www.cleverboxes.com', 'manufacturer website address')

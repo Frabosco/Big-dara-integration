@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'consumi')
+('www.hardware-planet.it', 'consumi')

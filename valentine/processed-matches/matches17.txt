@@ -1,0 +1,3 @@
+('www.vology.com', 'viewable size')
+('www.xpcpro.com', 'viewable size diagonal')
+('www.xpcpro.com', 'viewable size vertical')

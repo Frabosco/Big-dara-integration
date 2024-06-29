@@ -1,0 +1,3 @@
+('www.hardware-planet.it', 'potenza in uscita rms')
+('www.xpcpro.com', 'rms rated power')
+('www.planet-computer.it', 'potenza in uscita rms')

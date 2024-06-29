@@ -1,0 +1,6 @@
+('www.mediashopuk.com', 'supported video modes')
+('www.xpcpro.com', 'supported video modes')
+('www.makingbuyingeasy.co.uk', 'supported video modes')
+('www.planet-computer.it', 'modalit√\xa0 video supportate')
+('www.mrhightech.com', 'supported video modes')
+('www.hardware-planet.it', 'modalit√\xa0 video supportate')

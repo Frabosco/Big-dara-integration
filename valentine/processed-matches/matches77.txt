@@ -1,0 +1,2 @@
+('www.mrhightech.com', 'ac adapter included')
+('www.odsi.co.uk', 'included accessories')

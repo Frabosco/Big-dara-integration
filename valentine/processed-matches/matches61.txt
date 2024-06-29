@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'angolo di rotazione')
+('www.hardware-planet.it', 'angolo di rotazione')

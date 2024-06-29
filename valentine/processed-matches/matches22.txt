@@ -1,0 +1,2 @@
+('www.xpcpro.com', 'hd type')
+('www.vology.com', 'type')

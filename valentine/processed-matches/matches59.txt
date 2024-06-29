@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'profondit√\xa0 con supporto')
+('www.planet-computer.it', 'profondit√\xa0 con supporto')

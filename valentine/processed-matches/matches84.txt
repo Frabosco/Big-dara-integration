@@ -1,0 +1,5 @@
+('www.xpcpro.com', 'viewable size vertical')
+('www.vology.com', 'viewable size')
+('www.mrhightech.com', 'viewable size vertical')
+('www.mediashopuk.com', 'viewable size vertical')
+('www.makingbuyingeasy.co.uk', 'viewable size vertical')

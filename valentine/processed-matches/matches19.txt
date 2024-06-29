@@ -1,0 +1,3 @@
+('www.vology.com', 'osd languages')
+('www.xpcpro.com', 'number of osd languages')
+('ce.yikus.com', 'languages')

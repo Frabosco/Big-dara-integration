@@ -1,0 +1,2 @@
+('www.pcconnection.com', 'target use')
+('www.odsi.co.uk', 'targeting')

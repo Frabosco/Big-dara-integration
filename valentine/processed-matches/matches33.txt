@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'colore del prodotto')
+('www.hardware-planet.it', 'colore del prodotto')

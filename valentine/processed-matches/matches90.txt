@@ -1,0 +1,4 @@
+('www.xpcpro.com', 'quick start guide')
+('www.makingbuyingeasy.co.uk', 'quick start guide')
+('www.mediashopuk.com', 'quick start guide')
+('www.mrhightech.com', 'quick start guide')

@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'altoparlante  cuffia  spinotto di uscita')
+('www.hardware-planet.it', 'altoparlante  cuffia  spinotto di uscita')

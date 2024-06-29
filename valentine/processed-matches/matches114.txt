@@ -1,0 +1,6 @@
+('www.mediashopuk.com', 'windows operating systems supported')
+('www.xpcpro.com', 'windows operating systems supported')
+('www.makingbuyingeasy.co.uk', 'windows operating systems supported')
+('www.planet-computer.it', 'sistema operativo windows supportato')
+('www.mrhightech.com', 'windows operating systems supported')
+('www.hardware-planet.it', 'sistema operativo windows supportato')

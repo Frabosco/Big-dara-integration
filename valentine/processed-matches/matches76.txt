@@ -1,0 +1,2 @@
+('www.odsi.co.uk', 'included accessories')
+('www.mediashopuk.com', 'power cord included')

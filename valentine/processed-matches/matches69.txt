@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'composite sync')
+('www.xpcpro.com', 'composite sync')

@@ -1,0 +1,2 @@
+('www.ebay.com', 'mpn')
+('ce.yikus.com', 'mpn')

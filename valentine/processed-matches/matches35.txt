@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'tempo di risposta')
+('www.hardware-planet.it', 'tempo di risposta')

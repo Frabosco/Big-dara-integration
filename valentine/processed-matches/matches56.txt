@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'dimensione visibile verticale')
+('www.planet-computer.it', 'dimensione visibile verticale')

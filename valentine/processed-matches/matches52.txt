@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'regolazione altezza')
+('www.planet-computer.it', 'regolazione altezza')

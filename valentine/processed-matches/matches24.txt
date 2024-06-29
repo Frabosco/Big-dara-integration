@@ -1,0 +1,2 @@
+('www.vology.com', 'color temperature')
+('www.xpcpro.com', 'storage temperature tt')

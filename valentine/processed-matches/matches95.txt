@@ -1,0 +1,4 @@
+('www.ebay.com', 'upc')
+('www.nexus-t.co.uk', 'upc')
+('www.shopmania.com', 'upc')
+('ce.yikus.com', 'upc')

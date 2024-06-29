@@ -1,0 +1,2 @@
+('www.vology.com', 'energy star qualified')
+('www.xpcpro.com', 'energy star certified')

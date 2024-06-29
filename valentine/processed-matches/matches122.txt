@@ -1,0 +1,3 @@
+('www.planet-computer.it', 'tipi schede di memoria')
+('www.xpcpro.com', 'compatible memory cards')
+('www.hardware-planet.it', 'tipi schede di memoria')

@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'inclinazione regolabile')
+('www.hardware-planet.it', 'inclinazione regolabile')

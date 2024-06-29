@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'montabile a parete')
+('www.hardware-planet.it', 'montabile a parete')

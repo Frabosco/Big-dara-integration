@@ -1,0 +1,6 @@
+('www.planet-computer.it', 'mtbf')
+('www.mediashopuk.com', 'mean time between failures mtbf')
+('www.xpcpro.com', 'mean time between failures mtbf')
+('www.makingbuyingeasy.co.uk', 'mean time between failures mtbf')
+('www.mrhightech.com', 'mean time between failures mtbf')
+('www.shopmania.com', 'mtbf')

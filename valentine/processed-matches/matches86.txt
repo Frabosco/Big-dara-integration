@@ -1,0 +1,4 @@
+('www.xpcpro.com', 'packaging depth')
+('www.makingbuyingeasy.co.uk', 'packaging depth')
+('www.mediashopuk.com', 'packaging depth')
+('www.mrhightech.com', 'packaging depth')

@@ -1,0 +1,5 @@
+('www.vology.com', 'osd languages')
+('www.mrhightech.com', 'number of osd languages')
+('www.xpcpro.com', 'number of osd languages')
+('www.makingbuyingeasy.co.uk', 'number of osd languages')
+('www.mediashopuk.com', 'number of osd languages')

@@ -1,0 +1,4 @@
+('www.mediashopuk.com', 'pc audio in')
+('www.kingsfieldcomputers.co.uk', 'network rj45')
+('www.mrhightech.com', 'pc audio in')
+('www.makingbuyingeasy.co.uk', 'pc audio in')

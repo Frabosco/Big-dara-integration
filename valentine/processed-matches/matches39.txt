@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'ingresso audio per pc')
+('www.planet-computer.it', 'ingresso audio per pc')

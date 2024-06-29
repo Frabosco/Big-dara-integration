@@ -1,0 +1,3 @@
+('www.ebay.com', 'condition')
+('www.xpcpro.com', 'certification')
+('www.best-deal-items.com', 'condition')

@@ -1,0 +1,7 @@
+('www.mediashopuk.com', 'supported graphics resolutions')
+('www.odsi.co.uk', 'supported computer resolutions')
+('www.makingbuyingeasy.co.uk', 'supported graphics resolutions')
+('www.xpcpro.com', 'supported graphics resolutions')
+('www.mrhightech.com', 'supported graphics resolutions')
+('www.planet-computer.it', 'risoluzioni grafiche supportate')
+('www.hardware-planet.it', 'risoluzioni grafiche supportate')

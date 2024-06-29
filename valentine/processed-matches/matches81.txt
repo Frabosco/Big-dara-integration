@@ -1,0 +1,4 @@
+('www.mrhightech.com', 'on screen display osd languages')
+('www.xpcpro.com', 'on screen display osd languages')
+('www.makingbuyingeasy.co.uk', 'on screen display osd languages')
+('www.mediashopuk.com', 'on screen display osd languages')

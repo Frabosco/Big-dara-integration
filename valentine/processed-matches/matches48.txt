@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'tipologia di retroilluminazione')
+('www.hardware-planet.it', 'tipologia di retroilluminazione')

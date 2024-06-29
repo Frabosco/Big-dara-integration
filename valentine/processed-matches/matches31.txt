@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'interruttore integrato')
+('www.hardware-planet.it', 'interruttore integrato')

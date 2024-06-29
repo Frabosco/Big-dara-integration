@@ -1,0 +1,4 @@
+('www.cleverboxes.com', 'remote control')
+('www.vology.com', 'controls  adjustments')
+('www.shopmania.com', 'user controls')
+('www.odsi.co.uk', 'remote control')

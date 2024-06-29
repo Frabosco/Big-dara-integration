@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'peso prodotto con supporto')
+('www.hardware-planet.it', 'peso prodotto con supporto')

@@ -1,0 +1,2 @@
+('www.makingbuyingeasy.co.uk', 'power supply type')
+('www.vology.com', 'power supply')

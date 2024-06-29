@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'connessione wlan')
+('www.planet-computer.it', 'connessione wlan')

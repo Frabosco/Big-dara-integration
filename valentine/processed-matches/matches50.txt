@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'tipologia hd')
+('www.planet-computer.it', 'tipologia hd')

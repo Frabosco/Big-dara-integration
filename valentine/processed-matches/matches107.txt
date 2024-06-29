@@ -1,0 +1,2 @@
+('www.ohc24.ch', 'localisation')
+('www.vology.com', 'localization')

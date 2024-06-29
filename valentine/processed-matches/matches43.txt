@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'numero di altoparlanti')
+('www.hardware-planet.it', 'numero di altoparlanti')

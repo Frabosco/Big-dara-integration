@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'consumi modalit√\xa0 spento')
+('www.planet-computer.it', 'consumi modalit√\xa0 spento')

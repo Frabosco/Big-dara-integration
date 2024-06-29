@@ -1,0 +1,6 @@
+('www.planet-computer.it', 'sync hv separato')
+('www.hardware-planet.it', 'sync hv separato')
+('www.mediashopuk.com', 'separate hv sync')
+('www.xpcpro.com', 'separate hv sync')
+('www.makingbuyingeasy.co.uk', 'separate hv sync')
+('www.mrhightech.com', 'separate hv sync')

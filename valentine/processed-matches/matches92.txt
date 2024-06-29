@@ -1,0 +1,4 @@
+('www.mrhightech.com', 'builtin camera')
+('www.xpcpro.com', 'builtin camera')
+('www.makingbuyingeasy.co.uk', 'builtin camera')
+('www.mediashopuk.com', 'builtin camera')

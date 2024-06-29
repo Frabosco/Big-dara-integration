@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'larghezza imballo')
+('www.planet-computer.it', 'larghezza imballo')

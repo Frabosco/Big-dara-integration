@@ -1,0 +1,4 @@
+('www.mediashopuk.com', 'viewable size horizontal')
+('www.mrhightech.com', 'viewable size horizontal')
+('www.xpcpro.com', 'viewable size horizontal')
+('www.makingbuyingeasy.co.uk', 'viewable size horizontal')

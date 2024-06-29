@@ -1,0 +1,2 @@
+('www.xpcpro.com', 'compatible memory cards')
+('www.mrhightech.com', 'compatible memory cards')

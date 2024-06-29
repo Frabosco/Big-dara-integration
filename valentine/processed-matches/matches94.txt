@@ -1,0 +1,3 @@
+('www.mrhightech.com', 'dcin jack')
+('www.hardware-planet.it', 'dcin jack')
+('www.xpcpro.com', 'dcin jack')

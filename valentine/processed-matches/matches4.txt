@@ -1,0 +1,2 @@
+('www.cleverboxes.com', 'rj45 ports')
+('www.makingbuyingeasy.co.uk', 'rs232 ports')

@@ -1,0 +1,5 @@
+('www.mrhightech.com', 'tilt adjustment')
+('www.xpcpro.com', 'tilt adjustment')
+('www.vology.com', 'controls  adjustments')
+('www.makingbuyingeasy.co.uk', 'tilt adjustment')
+('www.mediashopuk.com', 'tilt adjustment')

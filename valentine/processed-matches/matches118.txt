@@ -1,0 +1,4 @@
+('www.mrhightech.com', 'operating altitude')
+('www.hardware-planet.it', 'range di umidit√\xa0 di funzionamento')
+('www.xpcpro.com', 'operating altitude')
+('www.planet-computer.it', 'altitudine di funzionamento')

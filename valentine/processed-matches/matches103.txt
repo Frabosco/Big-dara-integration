@@ -1,0 +1,2 @@
+('www.vology.com', 'movement detection technology')
+('www.odsi.co.uk', 'motion enhancement technology')

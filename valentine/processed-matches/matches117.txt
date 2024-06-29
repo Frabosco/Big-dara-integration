@@ -1,0 +1,3 @@
+('www.planet-computer.it', 'lettore di schede integrato')
+('www.hardware-planet.it', 'lettore di schede integrato')
+('www.xpcpro.com', 'card reader integrated')

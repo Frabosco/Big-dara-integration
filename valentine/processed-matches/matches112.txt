@@ -1,0 +1,3 @@
+('www.planet-computer.it', 'wifi')
+('www.mrhightech.com', 'wifi')
+('www.xpcpro.com', 'wifi')

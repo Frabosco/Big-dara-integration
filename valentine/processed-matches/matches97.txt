@@ -1,0 +1,2 @@
+('www.nexus-t.co.uk', 'usb 30 upstream ports')
+('www.xpcpro.com', 'usb 20 ports quantity')

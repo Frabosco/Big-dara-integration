@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'porta dvi')
+('www.hardware-planet.it', 'porta dvi')

@@ -1,0 +1,2 @@
+('www.vology.com', 'connectivity')
+('www.xpcpro.com', 'headphone connectivity')

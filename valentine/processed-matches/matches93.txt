@@ -1,0 +1,3 @@
+('www.mrhightech.com', 'onoff switch')
+('www.xpcpro.com', 'onoff switch')
+('www.mediashopuk.com', 'onoff switch')

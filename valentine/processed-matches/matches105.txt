@@ -1,0 +1,7 @@
+('www.kingsfieldcomputers.co.uk', 'product series')
+('www.pc-canada.com', 'product series')
+('www.softwarecity.ca', 'product line')
+('www.imldirect.it', 'product series')
+('www.cleverboxes.com', 'product series')
+('www.officedepot.com', 'product series')
+('www.odsi.co.uk', 'series')

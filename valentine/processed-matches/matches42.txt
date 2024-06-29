@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'lingue osd')
+('www.hardware-planet.it', 'lingue osd')

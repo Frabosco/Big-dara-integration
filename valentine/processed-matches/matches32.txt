@@ -1,0 +1,2 @@
+('www.planet-computer.it', 'luminosit√\xa0 schermo')
+('www.hardware-planet.it', 'luminosit√\xa0 schermo')

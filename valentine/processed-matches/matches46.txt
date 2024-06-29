@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'conformit√\xa0 epeat')
+('www.planet-computer.it', 'conformit√\xa0 epeat')

@@ -1,0 +1,2 @@
+('www.hardware-planet.it', 'guida rapida')
+('www.planet-computer.it', 'guida rapida')

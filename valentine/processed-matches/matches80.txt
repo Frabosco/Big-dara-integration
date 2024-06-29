@@ -1,0 +1,2 @@
+('www.mrhightech.com', 'nonoperating altitude')
+('www.xpcpro.com', 'nonoperating altitude')

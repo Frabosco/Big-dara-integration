@@ -1,0 +1,2 @@
+('www.vology.com', 'diagonal size')
+('www.xpcpro.com', 'display diagonal')

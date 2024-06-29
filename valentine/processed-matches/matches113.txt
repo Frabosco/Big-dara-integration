@@ -1,0 +1,5 @@
+('www.xpcpro.com', 'ethernet lan')
+('www.mrhightech.com', 'ethernet lan')
+('www.hardware-planet.it', 'collegamento ethernet lan')
+('www.planet-computer.it', 'collegamento ethernet lan')
+('www.makingbuyingeasy.co.uk', 'ethernet lan')

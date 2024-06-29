@@ -1,0 +1,4 @@
+('www.hardware-planet.it', 'source datasheet')
+('www.planet-computer.it', 'source datasheet')
+('www.mediashopuk.com', 'source datasheet')
+('www.mrhightech.com', 'source datasheet')

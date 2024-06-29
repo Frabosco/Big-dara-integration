@@ -1,0 +1,5 @@
+('www.hardware-planet.it', 'bluetooth')
+('www.xpcpro.com', 'bluetooth')
+('www.planet-computer.it', 'bluetooth')
+('www.makingbuyingeasy.co.uk', 'bluetooth')
+('www.mrhightech.com', 'bluetooth')
