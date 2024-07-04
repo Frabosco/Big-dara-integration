@@ -72,7 +72,7 @@ def clustering(table, file):
     if not clusters:
         for record in embedded_table:
             if str(record[1]) not in clusters.keys():
-                clusters[str(record[1])]=[record]
+                clusters["cn-"+str(len(clusters.keys())+1)]=[record]
     else:
         records=[]
         for record in embedded_table:
@@ -86,7 +86,7 @@ def clustering(table, file):
                     clusters[cluster].append(record)
                     break
             if flag:
-                clusters[str(record[1])]=[record]
+                clusters["cn-"+str(len(clusters.keys())+1)]=[record]
     return clusters
 
 def pprl(table, file):
@@ -113,7 +113,7 @@ def read_dataset_sources(dataset_path):
                     data['record_ID'] = file_path
                     decoded_data = decode_unicode_escapes(data)
                     cur_table.append(decoded_data)
-                ids.append(root.split("\\")[-1]+"//"+file.split(".")[0])
+                ids.append(root.split("\\")[-1]+"\\"+file.split(".")[0])
         
         if len(files) > 0:
             print(f'\n--------------------- ITERAZIONE {iter} ---------------------\n')
@@ -131,9 +131,8 @@ def read_dataset_sources(dataset_path):
             print(f'Iteration time Time: {execution_time:.2f} s')
             print(f'Execution Time: {total_time:.2f} s')
             print(f'n° of cluster: {len(result.keys())}')
-            if iter>17:
-                with open(f'Privacy-Preserving\clusters\iteration{iter}.json', 'w', encoding='utf-8') as res_file:
-                    json.dump(result2, res_file, indent=4, ensure_ascii=False)
+            with open(f'Privacy-Preserving\clusters\iteration{iter}.json', 'w', encoding='utf-8') as res_file:
+                json.dump(result2, res_file, indent=4, ensure_ascii=False)
             iter += 1
             
 
