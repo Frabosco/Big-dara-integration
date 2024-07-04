@@ -79,7 +79,7 @@ def create_mapped_schema(dataset_path):
     with open(CUR_PATH + MEDIATED_SCHEMA, 'r') as mediated_schema:
         mediated_schema = json.load(mediated_schema)
     
-    schema_mapping = []
+    schema_mapping = {}
 
     for root, _, files in os.walk(dataset_path):
         for file in files:
@@ -95,7 +95,7 @@ def create_mapped_schema(dataset_path):
                     new_data['record_ID'] = os.path.basename(root) + '\\' + file
                     new_data['record_blocks'] = create_blocks(new_data, 'name', 10)
 
-                    schema_mapping.append(new_data)
+                    schema_mapping[os.path.basename(root) + '\\' + file] = new_data
     
     # avg_len = 0
     # for record in schema_mapping:
