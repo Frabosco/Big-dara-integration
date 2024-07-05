@@ -1,6 +1,9 @@
 # Big Data Integration Report
 
 This repository contains implementations of some approaches of big data integration, focusing on the tasks of schema alignment and record linkage. Below is a brief overview of these tasks and the methods implemented in the repo.
+<br/>
+> [!NOTE]
+> This project is developed in python 3.12.
 
 ## Tasks Overview
 
@@ -14,19 +17,19 @@ Record linkage involves identifying and merging records from different datasets 
 
 ### Schema Alignment Method
 
-2. **COMA (Valentine) Approach**
+1. **COMA (Valentine) Approach**
    - **Description**: Combines schema matching algorithms with machine learning to learn from previous alignments and adapt to new schemas.
    - **Strengths**: Uses a variety of strategies for accurate column correspondence and handles complex schema alignment tasks through adaptive learning.
    - **Weaknesses**: Needs significant initial setup and its performance can vary with heterogeneous data.
 
 ### Record Linkage Methods
 
-3. **Fast Incremental Record Linkage Algorithm (FIRLA)**
+2. **Fast Incremental Record Linkage Algorithm (FIRLA)**
    - **Description**: Focuses on efficiency by performing both standard and incremental record linkage, using techniques like comparison skipping and signature-based pruning.
    - **Strengths**: Offers significant speed-ups without compromising accuracy.
    - **Weaknesses**: May struggle with dynamic or non-alphabetic data and requires careful threshold tuning.
 
-4. **Privacy-Preserving Incremental Record Linkage (PPiRL)**
+3. **Privacy-Preserving Incremental Record Linkage (PPiRL)**
    - **Description**: Prioritizes data privacy and security, combining privacy-preserving techniques with incremental record linkage and phonetic encoding to handle inconsistencies.
    - **Strengths**: Ensures data privacy and handles data inconsistencies effectively.
    - **Weaknesses**: Introduces computational overhead and complexity due to cryptographic methods, and balancing privacy with accuracy can be challenging.
