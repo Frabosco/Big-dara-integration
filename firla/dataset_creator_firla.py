@@ -72,7 +72,7 @@ def create_blocks(record, attribute, l):
     field_value = record[attribute].lower()
     blocks = [field_value[i:i+l] for i in range(len(field_value) - l + 1)]
 
-    return blocks
+    return blocks[:20]
 
 def create_mapped_schema(dataset_path):
 
@@ -93,7 +93,7 @@ def create_mapped_schema(dataset_path):
                     
                     new_data = create_schema_mapping_from_data(mediated_schema, decoded_data)
                     new_data['record_ID'] = os.path.basename(root) + '\\' + file
-                    new_data['record_blocks'] = create_blocks(new_data, 'name', 10)
+                    new_data['record_blocks'] = create_blocks(new_data, 'name', 15)
 
                     schema_mapping[os.path.basename(root) + '\\' + file] = new_data
     

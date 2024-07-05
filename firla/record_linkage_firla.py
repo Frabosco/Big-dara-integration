@@ -5,10 +5,10 @@ import pstats
 import cProfile
 import numpy as np
 import Levenshtein as lev
+from collections import Counter
 from dataset_creator_firla import decode_unicode_escapes
 
-THETA = 6
-BLOCK_VALUE = 10
+THETA = 5
 CUR_PATH = os.getcwd()
 DATASET_PATH = "firla\\monitor_specs_mediated"
 
@@ -51,18 +51,19 @@ def blocking(dataset):
                 clusters_blocks[key].update(record['record_blocks'])
 
 def calculate_signature(field):
-    field = field.lower().replace(' ', '')
+    ord_a = ord('a')
+    field = field.lower()
+    unique_chars = {char for char in field if 'a' <= char <= 'z'}
     
-    signature = np.zeros(26, dtype=int)
+    signature = [0] * 26
     
-    for char in field:
-        if 'a' <= char <= 'z':
-            signature[ord(char) - ord('a')] = 1
+    for char in unique_chars:
+        signature[ord(char) - ord_a] = 1
     
     return signature
 
 def can_skip_comparison(record1, record2, r1keys, r2keys):
-
+    
     # if len(record1) != len(record2): return True
     # if set(r1keys) != set(r2keys): return False
 
@@ -73,15 +74,18 @@ def can_skip_comparison(record1, record2, r1keys, r2keys):
             sig1 = calculate_signature(record1[k])
             sig2 = calculate_signature(record2[k])
 
-            hamming_dist.append(np.sum(np.bitwise_xor(sig1, sig2)))
+            # hamming_dist.append(np.sum(np.bitwise_xor(sig1, sig2)))
+            hamming_dist.append(sum(a ^ b for a, b in zip(sig1, sig2)))
 
     return all(dist > 2 * THETA for dist in hamming_dist)
 
 def edit_distance(record1, record2, r1keys, r2keys):
-
-    edit_distance = [lev.distance(record1[k], record2[k]) for k in r1keys if k in r2keys]
     
-    return all(dist > THETA for dist in edit_distance)
+    edit_distance = [lev.distance(record1[k], record2[k]) for k in r1keys if k in r2keys]
+    thresh_dist = [dist <= THETA for dist in edit_distance]
+    counter = Counter(thresh_dist)
+    
+    return counter[True] >= (len(thresh_dist)/2 + 1)
 
 def firla(dataset: dict):
     global clusters_blocks
@@ -99,7 +103,7 @@ def firla(dataset: dict):
         
         for rep_record in clusters[cluster]:
             
-            record_data = dataset.get(rep_record[rep_record.rfind('#') + 1:])
+            record_data = schema_mapping.get(rep_record[rep_record.rfind('#') + 1:])
             r1keys = list(filter(lambda k: k != 'record_ID' and k != 'record_blocks', record_data.keys()))
             
             for block in record_data['record_blocks']:
@@ -110,7 +114,7 @@ def firla(dataset: dict):
 
                     for candidate_record in clusters[candidate_cluster]:
                         
-                        candidate_record_data = dataset.get(candidate_record[candidate_record.rfind('#') + 1:])
+                        candidate_record_data = schema_mapping.get(candidate_record[candidate_record.rfind('#') + 1:])
                         r2keys = list(filter(lambda k: k != 'record_ID' and k != 'record_blocks', candidate_record_data.keys()))
                         
                         if can_skip_comparison(record_data, candidate_record_data, r1keys, r2keys):
@@ -135,25 +139,43 @@ def read_dataset_sources(dataset_path):
     iter = 1
     total_time = 0
 
-    for subdir in os.listdir(dataset_path):
-        cur_table = {k: v for k, v in schema_mapping.items() if subdir in k}
+    # Incremental Approach
+    # for subdir in os.listdir(dataset_path):
+    #     cur_table = {k: v for k, v in schema_mapping.items() if subdir in k}
         
-        print(f'\n--------------------- ITERATION {iter} ---------------------')    
-        start_time = time.time()
+    #     print(f'\n--------------------- ITERATION {iter} ---------------------')    
+    #     start_time = time.time()
         
-        result = firla(cur_table)
+    #     result = firla(cur_table)
         
-        end_time = time.time()
-        execution_time = end_time - start_time
-        total_time += execution_time
+    #     end_time = time.time()
+    #     execution_time = end_time - start_time
+    #     total_time += execution_time
 
-        print(f'Iteration time Time: {execution_time:.2f} s')
-        print(f'Execution Time: {total_time:.2f} s')
+    #     print(f'Iteration Time: {execution_time:.2f} s')
+    #     print(f'Total execution Time: {total_time:.2f} s')
 
-        with open(f'firla\\clusters\\iteration{iter}.json', 'w', encoding='utf-8') as res_file:
-            json.dump(result, res_file, indent=4, ensure_ascii=False)
+    #     if iter == 26:
+    #         with open(f'firla\\clusters\\iteration{iter}.json', 'w', encoding='utf-8') as res_file:
+    #             json.dump(result, res_file, indent=4, ensure_ascii=False)
         
-        iter += 1
+    #     iter += 1
+
+    # Standard Approach    
+    print(f'\n--------------------- Standard ---------------------')    
+    start_time = time.time()
+    
+    result = firla(schema_mapping)
+    
+    end_time = time.time()
+    execution_time = end_time - start_time
+    total_time += execution_time
+
+    print(f'Iteration Time: {execution_time:.2f} s')
+    print(f'Total execution Time: {total_time:.2f} s')
+    
+    with open(f'firla\\clusters\\iteration{iter}.json', 'w', encoding='utf-8') as res_file:
+        json.dump(result, res_file, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
     offset = 0
@@ -162,14 +184,5 @@ if __name__ == "__main__":
 
     with open('firla\\schema_mapping_firla.json', 'r', encoding='utf-8') as schema_file:
         schema_mapping = json.load(schema_file)
-    
-    profiler = cProfile.Profile()
-    profiler.enable()
-    read_dataset_sources(DATASET_PATH)
-    profiler.disable()
-    profiler.dump_stats("profile_output.prof")
 
-    # Load the profiling results
-    stats = pstats.Stats("profile_output.prof")
-    stats.sort_stats(pstats.SortKey.TIME)
-    stats.print_stats(100)
+    read_dataset_sources(DATASET_PATH)

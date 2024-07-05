@@ -19,7 +19,7 @@ def parse_labeled_dataset(file_path):
 
 def extract_website_and_number(record_string):
     # Define the regular expression pattern to match the desired part
-    pattern = r'(.+?\\\d+)\.json$'
+    pattern = r'([a-zA-Z0-9\.\\]+)\.json$'
     
     # Search for the pattern in the string
     match = re.search(pattern, record_string)
@@ -64,13 +64,24 @@ def evaluate(true_pairs, pred_pairs):
     print(f"F1 Score: {f1}")
 
 def main():
-    with open('firla\\clusters\\iteration26.json', 'r', encoding='utf-8') as f:
-        firla_clusters = json.load(f)
-    
-    true_pairs, false_pairs = parse_labeled_dataset('firla\\record_linkage_labelled_data.csv')
-    pred_pairs = extract_pairs_from_clusters(firla_clusters)
+    blocks = ['15', '20']
 
-    evaluate(true_pairs, pred_pairs)
+    true_pairs, false_pairs = parse_labeled_dataset('firla\\record_linkage_labelled_data.csv')
+
+    for b in blocks:
+        print(f'\n--------------- Standard results_{b}blocks_of_15chars ---------------')
+        with open(f'firla\\clusters\\standard_results_{b}b_15c.json', 'r', encoding='utf-8') as f:
+            firla_clusters = json.load(f)
+        pred_pairs = extract_pairs_from_clusters(firla_clusters)
+        pred_pairs_eval = {element for element in pred_pairs if element in true_pairs or element in false_pairs}
+        evaluate(true_pairs, pred_pairs_eval)
+    
+        print(f'\n--------------- Incremental results_{b}blocks_of_15chars ---------------')
+        with open(f'firla\\clusters\\results_{b}b_15c.json', 'r', encoding='utf-8') as f:
+            firla_clusters = json.load(f)
+        pred_pairs = extract_pairs_from_clusters(firla_clusters)
+        pred_pairs_eval = {element for element in pred_pairs if element in true_pairs or element in false_pairs}
+        evaluate(true_pairs, pred_pairs_eval)
 
 if __name__ == '__main__':
     main()
