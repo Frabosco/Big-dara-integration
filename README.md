@@ -1,4 +1,4 @@
-# Big Data Integration Report
+# Big Data Integration: Schema Alignment and Record Linkage
 
 This repository contains implementations of some approaches of big data integration, focusing on the tasks of schema alignment and record linkage. Below is a brief overview of these tasks and the methods implemented in the repo.
 <br/>
